@@ -1,7 +1,7 @@
 
-## Items Common to All PakNSave Stores:
-## Items Common to Some (but not all) PakNSave Stores:
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+## Items common to **all** PakNSave stores:
+## Items common to **some** (but not all) PakNSave stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
 - Fresh Lettuce - **$2.49**
 - Fresh NZ Quality Mark Lamb Leg Roast - **$12.69**
@@ -20,7 +20,14 @@
 - Pantene Shampoo or Conditioner 180-375ml Varieties - **$4.79**
 - Finish Ultimate Dishwasher Tablets 31-36 Pack or Vanish Gold Laundry Powder 2kg - **$18.99**
 
-#### Stores Available: ####
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+  - Manawatu and Wairarapa
+    - Levin
+  - Taranaki and Wanganui
+    - New Plymouth
 - South Island
   - Canterbury
     - Hornby
@@ -40,13 +47,24 @@
     - Queenstown
 - Upper North Island
   - Auckland
+    - Mangere
     - Ormiston
+    - Westgate
+  - Bay of Plenty
+    - Whakatane
 --- 
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
 - The Ned 750ml Varieties - **$13.99**
 
-#### Stores Available: ####
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+  - Manawatu and Wairarapa
+    - Levin
+  - Taranaki and Wanganui
+    - New Plymouth
 - South Island
   - Canterbury
     - Hornby
@@ -65,26 +83,233 @@
     - Queenstown
 - Upper North Island
   - Auckland
+    - Mangere
     - Ormiston
+    - Westgate
+  - Bay of Plenty
+    - Whakatane
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Cool Charm Roll On 50ml - **$3.29**
+- Cool Charm Body Spray 75g - **$3.69**
+
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Avocados - **$2.00**
+- Blueberries Punnet 125g - **$4.99**
+- Pams Washed Potatoes 4kg - **$8.99**
+- White Button Mushrooms - **$8.99**
+- Lamb Shoulder Chops - **$12.49**
+- Beef Sirloin Steak - **$23.99**
+- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+- McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
+- McCain Quick Cook Fries 750g - **$3.99**
+- McCain Shredded Hash Browns 750g - **$4.99**
+- Tip Top Popsicle Fruity Tube 66ml 8pk/Multi 10s - **$4.99**
+- Tip Top Ice Cream 2L - **$5.49**
+- Kapiti Sorbet 4s - **$6.99**
+- Leader Crumbed Camembert Bites 300g/Frozen Bites 500g - **$6.99**
+- Tegel Take Outs Strips/Pieces 400g / Nibbles 600g - **$6.99**
+- The Cool Gardener Range 420g - **$6.99**
+- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$7.49**
+- Angel Bay Beef Burger/Cheese Patties 720g/ Lite Beef Burger Patties 600g/ Gourmet Veggie Patties 6s - **$10.99**
+- Angel Bay Gourmet Beef Meatball 525g - **$10.99**
+
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Fisherking Raw Prawn Cutlets 800g - **$14.99**
+- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
+- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
+- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
+- Libra Tampons 16s - **$3.99**
+- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
+- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Pams White Sugar 1.5kg - **$2.49**
+
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Chicken Wings - **$5.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$10.99**
+- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
+- Arrogant Frog Range 750ml - **$13.99**
+- The Ned Range 750ml (Excludes Pinot Noir) - **$13.99**
+- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.99**
+- Corona Extra 355ml 12 Pack Bottles - **$23.49**
+- Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
+- Steinlager Classic 330ml 15 Pack Bottles - **$25.99**
+- Export Gold 330ml 24 Pack Bottles - **$34.99**
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$35.49**
+- Heineken 330ml 24 Pack Bottles - **$41.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Manukau
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Value Brown Onions 2kg - **$4.79**
 - Lamb Leg (Frozen) - **$11.99**
 - Value Toilet Tissue White 2 Ply 40pk - **$10.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -109,14 +334,12 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -128,23 +351,20 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Value Chopped Tomatoes in Juice 400g - **$0.99**
 - Value Tomato Whole Peeled 400g - **$0.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -168,13 +388,11 @@
     - Royal Oak
     - Sylvia Park
     - Wairau Road
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -186,306 +404,22 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Value Toast 600g - **$1.29**
 - Raro Flavoured Beverage Mix 3pk Range - **$1.39**
-
-#### Stores Available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
-- Pams Flour 1.5kg Range - **$2.09**
-
-#### Stores Available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Wairau Road
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
-- Pams White Sugar 1.5kg - **$2.49**
-
-#### Stores Available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
-- Pams Flour Pure Plain 2.5kg - **$3.49**
-
-#### Stores Available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
-- Pams White Sugar 3kg - **$4.99**
-
-#### Stores Available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
 - Pams Flour 5kg Range - **$6.99**
 - Pams White Sugar 5kg - **$8.29**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -508,14 +442,12 @@
     - Pukekohe
     - Royal Oak
     - Sylvia Park
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -527,23 +459,125 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
-- Pams Fries 1kg Range - **$2.79**
-- Pams Butter 500g - **$4.49**
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Pams Flour 1.5kg Range - **$2.09**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Sylvia Park
+    - Wairau Road
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Pams Flour Pure Plain 2.5kg - **$3.49**
+- Pams White Sugar 3kg - **$4.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Sylvia Park
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Taupo
+    - Tauriko
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Pams Fries 1kg Range - **$2.79**
+- Pams Butter 500g - **$4.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
     - Whanganui
   - Wellington
     - Kapiti
@@ -569,13 +603,11 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -587,21 +619,19 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Chesdale Cheese Slices Range 250g - **$3.49**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -625,12 +655,10 @@
     - Royal Oak
     - Sylvia Park
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -641,22 +669,19 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Pams Edam/Colby Cheese 1kg - **$9.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -681,13 +706,11 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -699,22 +722,19 @@
     - Te Awamutu
     - Thames
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Pams Tasty Cheddar Cheese 800g - **$9.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
@@ -737,14 +757,12 @@
     - Royal Oak
     - Sylvia Park
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
@@ -755,21 +773,69 @@
     - Te Awamutu
     - Thames
 --- 
-## Items Unique to Individual PakNSave Stores:
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+## Items unique to **individual** PakNSave stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
 - Healtheries Tea Bags 20 Pack Varieties - **$2.89**
 
-#### Stores Available: ####
+#### Stores available: ####
 - South Island
   - Otago and Southland
     - Invercargill
 --- 
-### Product/s - Ends 12 Nov 2023 (Deal ends) ###
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Value Carrots 2kg - **$4.79**
 
-#### Stores Available: ####
+#### Stores available: ####
 - Upper North Island
   - Gisborne
     - Gisborne City
+--- 
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Collective Splitz Range 140g - **$5.00**
+- Fantastic Rice Crackers 100g - **$5.00**
+- Tararua Dip Range 250g - **$7.00**
+- Zafarelli Pasta 500g Range - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
+--- 
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Arnotts Salada Crackers 250g - **$3.09**
+- BBQ Smoked Pork Belly - **$18.99**
+- Bluebird Original Cut Chips 150g - **$5.00**
+- Calbee Harvest Snaps Pea Crisps 120g - **$5.50**
+- Coca-Cola 1.5L - **$4.40**
+- Coca-Cola 330ml Can 24pk - **$19.99**
+- Deutz Cuvee Blanc de Blancs 750ml - **$27.99**
+- Eta Uppercut Deli Cut Chips 140g - **$4.00**
+- McCoy Fruit Juice Range 1L Range - **$2.89**
+- Nong Shim Shin Ramyum Noodles 5pk - **$6.99**
+- Nutella Hazelnut Spread 750g - **$8.99**
+- Ruffino Prosecco 750ml - **$15.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Ecuador Whole Vannamei Whole Prawns (Prefrozen) - **$17.99**
+
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 

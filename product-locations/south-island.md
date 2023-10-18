@@ -1,6 +1,6 @@
 
-## Items Common to All PakNSave Stores:
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+## Items common to **all** South Island PakNSave stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
 - Fresh Lettuce - **$2.49**
 - Fresh NZ Quality Mark Lamb Leg Roast - **$12.69**
@@ -19,7 +19,7 @@
 - Pantene Shampoo or Conditioner 180-375ml Varieties - **$4.79**
 - Finish Ultimate Dishwasher Tablets 31-36 Pack or Vanish Gold Laundry Powder 2kg - **$18.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - South Island
   - Canterbury
     - Hornby
@@ -38,12 +38,12 @@
     - Invercargill
     - Queenstown
 --- 
-## Items Common to Some (but not all) PakNSave Stores:
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+## Items common to **some** (but not all) South Island PakNSave stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
 - The Ned 750ml Varieties - **$13.99**
 
-#### Stores Available: ####
+#### Stores available: ####
 - South Island
   - Canterbury
     - Hornby
@@ -61,12 +61,12 @@
     - Dunedin
     - Queenstown
 --- 
-## Items Unique to Individual PakNSave Stores:
-### Product/s - Ends 23 Oct 2023 (Deal ends) ###
+## Items unique to **individual** South Island PakNSave stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
 - Healtheries Tea Bags 20 Pack Varieties - **$2.89**
 
-#### Stores Available: ####
+#### Stores available: ####
 - South Island
   - Otago and Southland
     - Invercargill
