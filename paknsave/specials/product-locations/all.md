@@ -21,9 +21,6 @@
 - Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
 
 #### Stores available: ####
-- Lower North Island
-  - Wellington
-    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -41,21 +38,12 @@
     - Dunedin
     - Invercargill
     - Queenstown
-- Upper North Island
-  - Auckland
-    - Glen Innes
-    - Royal Oak
-  - Northland
-    - Whangarei
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
 - The Ned 750ml Varieties - **$13.99**
 
 #### Stores available: ####
-- Lower North Island
-  - Wellington
-    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -72,12 +60,6 @@
   - Otago and Southland
     - Dunedin
     - Queenstown
-- Upper North Island
-  - Auckland
-    - Glen Innes
-    - Royal Oak
-  - Northland
-    - Whangarei
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
@@ -122,11 +104,13 @@
     - Lower Hutt
     - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
@@ -134,6 +118,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -150,6 +135,7 @@
     - Gisborne City
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
@@ -179,11 +165,13 @@
     - Lower Hutt
     - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
@@ -191,6 +179,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -206,6 +195,7 @@
     - Gisborne City
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
@@ -247,11 +237,13 @@
     - Lower Hutt
     - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
@@ -259,6 +251,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -275,6 +268,7 @@
     - Gisborne City
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
@@ -310,15 +304,18 @@
     - Lower Hutt
     - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -334,6 +331,7 @@
     - Gisborne City
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
@@ -365,15 +363,18 @@
     - Lower Hutt
     - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -389,6 +390,7 @@
     - Gisborne City
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
