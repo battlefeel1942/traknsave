@@ -1,6 +1,6 @@
 # Products for Dunedin PAK'nSAVE
 
-## Expiry Date: Ends 23 Oct 2023
+## Product(s): Ends 23 Oct 2023 (deal ends)
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
 - Coca-Cola/ L&P or Sprite 330ml 18 Pack Cans - **$17.99**
 - Finish Ultimate Dishwasher Tablets 31-36 Pack or Vanish Gold Laundry Powder 2kg - **$18.99**

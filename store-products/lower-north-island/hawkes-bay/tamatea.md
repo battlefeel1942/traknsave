@@ -1,6 +1,6 @@
 # Products for Tamatea PAK'nSAVE
 
-## Expiry Date: Ends 12 Nov 2023
+## Product(s): Ends 12 Nov 2023 (deal ends)
 - Chesdale Cheese Slices Range 250g - **$3.49**
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
@@ -22,7 +22,7 @@
 - Value Toilet Tissue White 2 Ply 40pk - **$10.99**
 - Value Tomato Whole Peeled 400g - **$0.99**
 
-## Expiry Date: Ends 22 Oct 2023
+## Product(s): Ends 22 Oct 2023 (deal ends)
 - Angel Bay Beef Burger/Cheese Patties 720g/ Lite Beef Burger Patties 600g/ Gourmet Veggie Patties 6s - **$10.99**
 - Angel Bay Gourmet Beef Meatball 525g - **$10.99**
 - Avocados - **$2.00**
@@ -45,7 +45,7 @@
 - Tip Top Popsicle Fruity Tube 66ml 8pk/Multi 10s - **$4.99**
 - White Button Mushrooms - **$8.99**
 
-## Expiry Date: Ends 23 Oct 2023
+## Product(s): Ends 23 Oct 2023 (deal ends)
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
 - Arrogant Frog Range 750ml - **$13.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
@@ -58,7 +58,7 @@
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.99**
 - The Ned Range 750ml (Excludes Pinot Noir) - **$13.99**
 
-## Expiry Date: Ends 29 Oct 2023
+## Product(s): Ends 29 Oct 2023 (deal ends)
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**

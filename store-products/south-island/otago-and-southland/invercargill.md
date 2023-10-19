@@ -1,6 +1,6 @@
 # Products for Invercargill PAK'nSAVE
 
-## Expiry Date: Ends 23 Oct 2023
+## Product(s): Ends 23 Oct 2023 (deal ends)
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
 - Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
 - Coca-Cola/ L&P or Sprite 330ml 18 Pack Cans - **$17.99**
