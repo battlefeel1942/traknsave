@@ -39,35 +39,32 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -80,34 +77,31 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -127,12 +121,9 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Manukau
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Silverdale
@@ -145,14 +136,13 @@
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -164,34 +154,31 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -202,32 +189,29 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -240,32 +224,29 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -275,52 +256,45 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Pams Flour Pure Plain 2.5kg - **$3.49**
-- Pams White Sugar 3kg - **$4.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
@@ -329,14 +303,44 @@
     - Papamoa
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Pams White Sugar 3kg - **$4.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Clendon
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Pukekohe
+    - Royal Oak
+    - Sylvia Park
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+  - Waikato
+    - Clarence Street
     - Te Awamutu
     - Thames
 --- 
@@ -347,34 +351,31 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -384,30 +385,28 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -417,33 +416,30 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Pukekohe
     - Royal Oak
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -453,31 +449,29 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
+    - Ormiston
     - Royal Oak
     - Sylvia Park
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -505,11 +499,14 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Mangere
-    - Ormiston
-    - Westgate
-  - Bay of Plenty
-    - Whakatane
+    - Albany
+    - Botany
+    - Glen Innes
+    - Papakura
+  - Northland
+    - Whangarei
+  - Waikato
+    - Mill Street
 --- 
 ## Items unique to **individual** Upper North Island PakNSave stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
