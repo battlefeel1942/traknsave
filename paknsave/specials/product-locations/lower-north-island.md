@@ -1,5 +1,38 @@
 
 ## Items common to **all** Lower North Island PAK'nSAVE stores:
+## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Cadbury Chocolate Block 150-190g Varieties - **$2.79**
+- Coca-Cola/ L&P or Sprite 330ml 18 Pack Cans - **$17.99**
+- Finish Ultimate Dishwasher Tablets 31-36 Pack or Vanish Gold Laundry Powder 2kg - **$18.99**
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
+- Fresh Lettuce - **$2.49**
+- Fresh NZ Quality Mark Lamb Leg Roast - **$12.69**
+- Friskies 1kg - **$7.49**
+- Heartland Ultimate Wave Chips or Premium Thin Cut Chips 140g Varieties - **$2.49**
+- Heinz Mayonnaise 500ml Varieties - **$5.99**
+- Hellers Streaky Bacon 1kg - **$17.99**
+- McCain Complex Vegetable Mixes 1kg Varieties - **$3.99**
+- Meadow Fresh Cottage Cheese/ Sour Cream or Tararua Dips 250g Varieties - **$3.79**
+- Nestle Milo Cereal 700g/ Nestle Milo Protein Cereal 600g - **$6.99**
+- Pantene Shampoo or Conditioner 180-375ml Varieties - **$4.79**
+- Regal Hot Smoked Salmon Portion 100g - **$9.69**
+- Sanitarium Up & Go Drink 6 Pack - **$6.99**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
+- The Ned 750ml Varieties - **$13.99**
+- Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+    - Tamatea
+  - Taranaki and Wanganui
+    - Whanganui
+  - Wellington
+    - Kilbirnie
+    - Lower Hutt
+--- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
@@ -37,8 +70,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
-    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
@@ -46,16 +77,12 @@
   - Taranaki and Wanganui
     - Hawera
     - New Plymouth
-    - Whanganui
   - Wellington
     - Kapiti
-    - Kilbirnie
-    - Lower Hutt
     - Petone
     - Porirua
     - Upper Hutt
 --- 
-## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
 - Kapiti Sorbet 4s - **$6.99**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -82,19 +109,14 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
-    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
     - New Plymouth
-    - Whanganui
   - Wellington
     - Kapiti
-    - Kilbirnie
-    - Lower Hutt
     - Petone
     - Porirua
     - Upper Hutt
