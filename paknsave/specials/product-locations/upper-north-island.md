@@ -39,26 +39,35 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
+    - Botany
     - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
     - Mt Albert
+    - Ormiston
+    - Papakura
     - Pukekohe
     - Royal Oak
-    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
-    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
 - Chicken Wings - **$5.99**
@@ -66,25 +75,34 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
+    - Botany
     - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
     - Mt Albert
+    - Ormiston
+    - Papakura
     - Pukekohe
     - Royal Oak
-    - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
-    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
@@ -102,25 +120,31 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
+    - Botany
     - Clendon
+    - Glen Innes
+    - Manukau
+    - Ormiston
+    - Papakura
     - Pukekohe
     - Royal Oak
-    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
-    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
@@ -146,24 +170,25 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Westgate
-  - Bay of Plenty
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
+    - Silverdale
+  - Northland
+    - Kaitaia
+    - Whangarei
   - Waikato
-    - Thames
+    - Te Awamutu
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Collective Splitz Range 140g - **$5.00**
+- Fantastic Rice Crackers 100g - **$5.00**
+- Tararua Dip Range 250g - **$7.00**
+- Zafarelli Pasta 500g Range - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
+--- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
 - Arnotts Salada Crackers 250g - **$3.09**
 - BBQ Smoked Pork Belly - **$18.99**
@@ -182,22 +207,4 @@
 - Upper North Island
   - Auckland
     - Warkworth
---- 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Ecuador Whole Vannamei Whole Prawns (Prefrozen) - **$17.99**
-
-### Product(s) - Ends 23 Oct 2023 (deal ends) ###
-- Anchor Protein Plus Yoghurt 950g - **$7.29**
-- Aoraki Hot Smoked Salmon 180g - **$14.99**
-- Beehive Streaky Bacon 250g - **$5.89**
-- Brinks Chicken Kebabs 300g - **$6.99**
-- Fisherking Natural Basa Fillets 1kg - **$9.99**
-- Oob Organic Frozen Blueberries 450g - **$7.99**
-- Skinless Chicken Breast - **$13.99**
-- Smoked Pork Belly - **$18.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 
