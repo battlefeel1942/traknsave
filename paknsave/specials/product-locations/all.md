@@ -24,12 +24,15 @@
 - Lower North Island
   - Hawkes Bay
     - Napier
-    - Tamatea
+  - Manawatu and Wairarapa
+    - Palmerston North
   - Taranaki and Wanganui
+    - New Plymouth
     - Whanganui
   - Wellington
-    - Kilbirnie
-    - Lower Hutt
+    - Kapiti
+    - Petone
+    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -49,14 +52,18 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Clendon
+    - Albany
+    - Botany
     - Glen Innes
-    - Mangere
+    - Henderson
+    - Lincoln Road
     - Manukau
-    - Silverdale
+    - Ormiston
+    - Papakura
+    - Westgate
   - Bay of Plenty
-    - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
   - Waikato
@@ -70,12 +77,15 @@
 - Lower North Island
   - Hawkes Bay
     - Napier
-    - Tamatea
+  - Manawatu and Wairarapa
+    - Palmerston North
   - Taranaki and Wanganui
+    - New Plymouth
     - Whanganui
   - Wellington
-    - Kilbirnie
-    - Lower Hutt
+    - Kapiti
+    - Petone
+    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -94,14 +104,18 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Clendon
+    - Albany
+    - Botany
     - Glen Innes
-    - Mangere
+    - Henderson
+    - Lincoln Road
     - Manukau
-    - Silverdale
+    - Ormiston
+    - Papakura
+    - Westgate
   - Bay of Plenty
-    - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
   - Waikato
@@ -134,36 +148,29 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
   - Wellington
-    - Kapiti
-    - Petone
+    - Kilbirnie
+    - Lower Hutt
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Henderson
-    - Lincoln Road
+    - Clendon
     - Mt Albert
-    - Ormiston
-    - Papakura
     - Pukekohe
     - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
-    - Taupo
+    - Papamoa
   - Gisborne
     - Gisborne City
   - Northland
@@ -181,35 +188,28 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
   - Wellington
-    - Kapiti
-    - Petone
+    - Kilbirnie
+    - Lower Hutt
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Henderson
-    - Lincoln Road
+    - Clendon
     - Mt Albert
-    - Ormiston
-    - Papakura
     - Pukekohe
     - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
-    - Westgate
   - Bay of Plenty
     - Cameron Road
-    - Taupo
+    - Papamoa
   - Gisborne
     - Gisborne City
   - Northland
@@ -240,35 +240,28 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
   - Wellington
-    - Kapiti
-    - Petone
+    - Kilbirnie
+    - Lower Hutt
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Henderson
-    - Lincoln Road
+    - Clendon
     - Mt Albert
-    - Ormiston
-    - Papakura
     - Pukekohe
     - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
-    - Taupo
+    - Papamoa
   - Gisborne
     - Gisborne City
   - Northland
@@ -292,32 +285,28 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
   - Wellington
-    - Kapiti
-    - Petone
+    - Kilbirnie
+    - Lower Hutt
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Ormiston
-    - Papakura
+    - Clendon
     - Pukekohe
     - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
-    - Taupo
+    - Papamoa
   - Gisborne
     - Gisborne City
   - Northland
@@ -338,31 +327,27 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
   - Wellington
-    - Kapiti
-    - Petone
+    - Kilbirnie
+    - Lower Hutt
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Botany
-    - Ormiston
-    - Papakura
+    - Clendon
     - Pukekohe
     - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
-    - Taupo
+    - Papamoa
   - Gisborne
     - Gisborne City
   - Northland
@@ -393,17 +378,6 @@
     - Levin
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Collective Splitz Range 140g - **$5.00**
-- Fantastic Rice Crackers 100g - **$5.00**
-- Tararua Dip Range 250g - **$7.00**
-- Zafarelli Pasta 500g Range - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
---- 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
 - Arnotts Salada Crackers 250g - **$3.09**
 - BBQ Smoked Pork Belly - **$18.99**
 - Bluebird Original Cut Chips 150g - **$5.00**
@@ -421,4 +395,22 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 22 Oct 2023 (deal ends) ###
+- Ecuador Whole Vannamei Whole Prawns (Prefrozen) - **$17.99**
+
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
