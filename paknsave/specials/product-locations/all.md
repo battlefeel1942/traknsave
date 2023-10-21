@@ -23,14 +23,9 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
     - Tamatea
-  - Taranaki and Wanganui
-    - Hawera
-  - Wellington
-    - Kilbirnie
-    - Petone
-    - Porirua
+  - Manawatu and Wairarapa
+    - Masterton
 - South Island
   - Canterbury
     - Hornby
@@ -50,15 +45,13 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Mangere
-    - Manukau
-    - Westgate
+    - Glen Innes
   - Bay of Plenty
-    - Rotorua
-    - Tauriko
+    - Cameron Road
   - Northland
     - Kaitaia
   - Waikato
+    - Mill Street
     - Te Awamutu
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -68,14 +61,9 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
     - Tamatea
-  - Taranaki and Wanganui
-    - Hawera
-  - Wellington
-    - Kilbirnie
-    - Petone
-    - Porirua
+  - Manawatu and Wairarapa
+    - Masterton
 - South Island
   - Canterbury
     - Hornby
@@ -94,15 +82,13 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Mangere
-    - Manukau
-    - Westgate
+    - Glen Innes
   - Bay of Plenty
-    - Rotorua
-    - Tauriko
+    - Cameron Road
   - Northland
     - Kaitaia
   - Waikato
+    - Mill Street
     - Te Awamutu
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
@@ -132,25 +118,29 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
@@ -160,10 +150,12 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -171,7 +163,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -181,25 +172,29 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
@@ -208,10 +203,12 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -219,7 +216,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -242,24 +238,28 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
@@ -269,10 +269,12 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -280,7 +282,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -296,23 +297,27 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
+    - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
@@ -322,9 +327,10 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -332,7 +338,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -345,22 +350,26 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
+    - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
@@ -370,9 +379,10 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -380,7 +390,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:

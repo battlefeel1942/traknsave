@@ -38,16 +38,20 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -76,15 +80,19 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
   - Manawatu and Wairarapa
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
     - Lower Hutt
+    - Petone
+    - Porirua
     - Upper Hutt
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -111,14 +119,9 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
     - Tamatea
-  - Taranaki and Wanganui
-    - Hawera
-  - Wellington
-    - Kilbirnie
-    - Petone
-    - Porirua
+  - Manawatu and Wairarapa
+    - Masterton
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###

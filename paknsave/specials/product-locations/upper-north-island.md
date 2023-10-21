@@ -42,9 +42,9 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
@@ -54,10 +54,12 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -65,7 +67,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -77,9 +78,9 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
@@ -88,10 +89,12 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -99,7 +102,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -121,7 +123,7 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
+    - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
@@ -131,9 +133,10 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
@@ -141,7 +144,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -168,15 +170,13 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Mangere
-    - Manukau
-    - Westgate
+    - Glen Innes
   - Bay of Plenty
-    - Rotorua
-    - Tauriko
+    - Cameron Road
   - Northland
     - Kaitaia
   - Waikato
+    - Mill Street
     - Te Awamutu
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
