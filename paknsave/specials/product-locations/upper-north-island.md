@@ -11,6 +11,7 @@
 - Avocados - **$2.00**
 - Beef Sirloin Steak - **$23.99**
 - Blueberries Punnet 125g - **$4.99**
+- Chicken Wings - **$5.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Kapiti Sorbet 4s - **$6.99**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -45,63 +46,22 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
+    - Silverdale
     - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
-    - Rotorua
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
+  - Northland
+    - Kaitaia
   - Waikato
     - Clarence Street
     - Mill Street
-    - Thames
---- 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Chicken Wings - **$5.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Wairau Road
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Waikato
-    - Clarence Street
-    - Mill Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -124,26 +84,21 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Manukau
     - Ormiston
     - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
+    - Silverdale
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
-    - Rotorua
     - Taupo
     - Tauriko
-    - Whakatane
   - Gisborne
     - Gisborne City
+  - Northland
+    - Kaitaia
   - Waikato
     - Clarence Street
     - Mill Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -170,12 +125,19 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Silverdale
+    - Manukau
+    - Mt Albert
+    - Pukekohe
+    - Royal Oak
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Rotorua
+    - Whakatane
   - Northland
-    - Kaitaia
     - Whangarei
-  - Waikato
-    - Te Awamutu
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -190,21 +152,20 @@
     - Taupo
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Arnotts Salada Crackers 250g - **$3.09**
-- BBQ Smoked Pork Belly - **$18.99**
-- Bluebird Original Cut Chips 150g - **$5.00**
-- Calbee Harvest Snaps Pea Crisps 120g - **$5.50**
-- Coca-Cola 1.5L - **$4.40**
-- Coca-Cola 330ml Can 24pk - **$19.99**
-- Deutz Cuvee Blanc de Blancs 750ml - **$27.99**
-- Eta Uppercut Deli Cut Chips 140g - **$4.00**
-- McCoy Fruit Juice Range 1L Range - **$2.89**
-- Nong Shim Shin Ramyum Noodles 5pk - **$6.99**
-- Nutella Hazelnut Spread 750g - **$8.99**
-- Ruffino Prosecco 750ml - **$15.99**
+- Ecuador Whole Vannamei Whole Prawns (Prefrozen) - **$17.99**
+
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Warkworth
+    - Silverdale
 --- 
