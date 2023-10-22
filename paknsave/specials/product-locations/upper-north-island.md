@@ -5,28 +5,6 @@
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Angel Bay Beef Burger/Cheese Patties 720g/ Lite Beef Burger Patties 600g/ Gourmet Veggie Patties 6s - **$10.99**
-- Angel Bay Gourmet Beef Meatball 525g - **$10.99**
-- Avocados - **$2.00**
-- Beef Sirloin Steak - **$23.99**
-- Blueberries Punnet 125g - **$4.99**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-- Kapiti Sorbet 4s - **$6.99**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Lamb Shoulder Chops - **$12.49**
-- Leader Crumbed Camembert Bites 300g/Frozen Bites 500g - **$6.99**
-- McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
-- McCain Quick Cook Fries 750g - **$3.99**
-- McCain Shredded Hash Browns 750g - **$4.99**
-- Pams Washed Potatoes 4kg - **$8.99**
-- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$7.49**
-- Tegel Take Outs Strips/Pieces 400g / Nibbles 600g - **$6.99**
-- The Cool Gardener Range 420g - **$6.99**
-- Tip Top Ice Cream 2L - **$5.49**
-- Tip Top Popsicle Fruity Tube 66ml 8pk/Multi 10s - **$4.99**
-- White Button Mushrooms - **$8.99**
-
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
@@ -40,57 +18,38 @@
 - Upper North Island
   - Auckland
     - Albany
+    - Botany
     - Clendon
+    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
---- 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Chicken Wings - **$5.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Clendon
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Sylvia Park
-    - Wairau Road
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Taupo
-    - Tauriko
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
@@ -109,27 +68,36 @@
 - Upper North Island
   - Auckland
     - Albany
+    - Botany
     - Clendon
+    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
+    - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
+    - Rotorua
     - Taupo
     - Tauriko
+    - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
+## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
 - Coca-Cola/ L&P or Sprite 330ml 18 Pack Cans - **$17.99**
@@ -153,49 +121,21 @@
 
 #### Stores available: ####
 - Upper North Island
-  - Auckland
-    - Botany
-    - Glen Innes
-    - Mt Albert
-    - Royal Oak
-    - Silverdale
-    - Westgate
-  - Bay of Plenty
-    - Rotorua
-    - Whakatane
   - Waikato
-    - Mill Street
-    - Te Awamutu
-    - Thames
+    - Clarence Street
 --- 
-## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Collective Splitz Range 140g - **$5.00**
-- Fantastic Rice Crackers 100g - **$5.00**
-- Tararua Dip Range 250g - **$7.00**
-- Zafarelli Pasta 500g Range - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
---- 
-### Product(s) - Ends 22 Oct 2023 (deal ends) ###
-- Arnotts Salada Crackers 250g - **$3.09**
-- BBQ Smoked Pork Belly - **$18.99**
-- Bluebird Original Cut Chips 150g - **$5.00**
-- Calbee Harvest Snaps Pea Crisps 120g - **$5.50**
-- Coca-Cola 1.5L - **$4.40**
-- Coca-Cola 330ml Can 24pk - **$19.99**
-- Deutz Cuvee Blanc de Blancs 750ml - **$27.99**
-- Eta Uppercut Deli Cut Chips 140g - **$4.00**
-- McCoy Fruit Juice Range 1L Range - **$2.89**
-- Nong Shim Shin Ramyum Noodles 5pk - **$6.99**
-- Nutella Hazelnut Spread 750g - **$8.99**
-- Ruffino Prosecco 750ml - **$15.99**
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Warkworth
+    - Silverdale
 --- 

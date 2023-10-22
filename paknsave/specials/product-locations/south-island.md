@@ -17,6 +17,8 @@
 - Pantene Shampoo or Conditioner 180-375ml Varieties - **$4.79**
 - Regal Hot Smoked Salmon Portion 100g - **$9.69**
 - Sanitarium Up & Go Drink 6 Pack - **$6.99**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
+- The Ned 750ml Varieties - **$13.99**
 - Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
 
 #### Stores available: ####
@@ -39,35 +41,4 @@
     - Queenstown
 --- 
 ## Items common to **some** (but not all) South Island PAK'nSAVE stores:
-### Product(s) - Ends 23 Oct 2023 (deal ends) ###
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
-- The Ned 750ml Varieties - **$13.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
---- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
-### Product(s) - Ends 23 Oct 2023 (deal ends) ###
-- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
-- Healtheries Tea Bags 20 Pack Varieties - **$2.89**
-
-#### Stores available: ####
-- South Island
-  - Otago and Southland
-    - Invercargill
---- 
