@@ -22,10 +22,14 @@
 
 #### Stores available: ####
 - Lower North Island
-  - Hawkes Bay
-    - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+  - Wellington
+    - Porirua
+    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -45,14 +49,13 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Glen Innes
-  - Bay of Plenty
-    - Cameron Road
-  - Northland
-    - Kaitaia
+    - Clendon
+    - Lincoln Road
+    - Manukau
+    - Pukekohe
   - Waikato
+    - Clarence Street
     - Mill Street
-    - Te Awamutu
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
@@ -60,10 +63,14 @@
 
 #### Stores available: ####
 - Lower North Island
-  - Hawkes Bay
-    - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+  - Wellington
+    - Porirua
+    - Upper Hutt
 - South Island
   - Canterbury
     - Hornby
@@ -82,14 +89,13 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Glen Innes
-  - Bay of Plenty
-    - Cameron Road
-  - Northland
-    - Kaitaia
+    - Clendon
+    - Lincoln Road
+    - Manukau
+    - Pukekohe
   - Waikato
+    - Clarence Street
     - Mill Street
-    - Te Awamutu
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
@@ -119,32 +125,26 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
-    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
@@ -152,6 +152,7 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -160,9 +161,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -173,38 +175,33 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
-    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -213,9 +210,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -239,31 +237,25 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
-    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
@@ -271,6 +263,7 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -279,9 +272,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -298,35 +292,31 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
-    - Manukau
+    - Glen Innes
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -335,9 +325,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -351,34 +342,30 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
-    - Manukau
+    - Glen Innes
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -387,9 +374,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:

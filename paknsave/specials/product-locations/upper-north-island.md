@@ -41,14 +41,11 @@
   - Auckland
     - Albany
     - Botany
-    - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
-    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
@@ -56,6 +53,7 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -64,9 +62,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
@@ -77,20 +76,18 @@
   - Auckland
     - Albany
     - Botany
-    - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
-    - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -99,9 +96,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -122,17 +120,16 @@
   - Auckland
     - Albany
     - Botany
-    - Clendon
-    - Manukau
+    - Glen Innes
     - Ormiston
     - Papakura
-    - Pukekohe
     - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
@@ -141,9 +138,10 @@
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
@@ -170,14 +168,13 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Glen Innes
-  - Bay of Plenty
-    - Cameron Road
-  - Northland
-    - Kaitaia
+    - Clendon
+    - Lincoln Road
+    - Manukau
+    - Pukekohe
   - Waikato
+    - Clarence Street
     - Mill Street
-    - Te Awamutu
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###

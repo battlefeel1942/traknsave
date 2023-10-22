@@ -39,20 +39,17 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
 - Kapiti Sorbet 4s - **$6.99**
@@ -81,19 +78,16 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
-    - Palmerston North
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
-    - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
@@ -118,10 +112,14 @@
 
 #### Stores available: ####
 - Lower North Island
-  - Hawkes Bay
-    - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+  - Wellington
+    - Porirua
+    - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 22 Oct 2023 (deal ends) ###
