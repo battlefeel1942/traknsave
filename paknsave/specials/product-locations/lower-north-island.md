@@ -17,21 +17,18 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
+    - Whanganui
   - Wellington
     - Kapiti
-    - Kilbirnie
     - Lower Hutt
     - Petone
     - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
@@ -53,22 +50,19 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
+    - Whanganui
   - Wellington
     - Kapiti
-    - Kilbirnie
     - Lower Hutt
     - Petone
     - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - Cadbury Chocolate Block 150-190g Varieties - **$2.79**
@@ -94,8 +88,12 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Tamatea
+    - Hastings
   - Taranaki and Wanganui
-    - Whanganui
+    - Hawera
+    - New Plymouth
+  - Wellington
+    - Kilbirnie
+    - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
