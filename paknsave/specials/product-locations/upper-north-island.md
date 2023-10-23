@@ -20,27 +20,31 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -63,24 +67,28 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -108,16 +116,25 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Glen Innes
     - Mt Albert
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
   - Bay of Plenty
     - Rotorua
-  - Northland
-    - Kaitaia
-  - Waikato
-    - Clarence Street
-    - Mill Street
+    - Taupo
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
+--- 

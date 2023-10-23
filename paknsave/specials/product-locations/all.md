@@ -18,19 +18,19 @@
 - Pantene Shampoo or Conditioner 180-375ml Varieties - **$4.79**
 - Regal Hot Smoked Salmon Portion 100g - **$9.69**
 - Sanitarium Up & Go Drink 6 Pack - **$6.99**
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
-- The Ned 750ml Varieties - **$13.99**
 - Wattie's Squeezable Sauces 540-580g Varieties - **$3.99**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Hastings
+    - Napier
+  - Manawatu and Wairarapa
+    - Masterton
   - Taranaki and Wanganui
-    - Hawera
     - New Plymouth
   - Wellington
-    - Kilbirnie
+    - Kapiti
+    - Petone
     - Upper Hutt
 - South Island
   - Canterbury
@@ -51,17 +51,51 @@
     - Queenstown
 - Upper North Island
   - Auckland
+    - Glen Innes
     - Mt Albert
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
   - Bay of Plenty
     - Rotorua
-  - Northland
-    - Kaitaia
-  - Waikato
-    - Clarence Street
-    - Mill Street
+    - Taupo
+--- 
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$34.99**
+- The Ned 750ml Varieties - **$13.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+  - Manawatu and Wairarapa
+    - Masterton
+  - Taranaki and Wanganui
+    - New Plymouth
+  - Wellington
+    - Kapiti
+    - Petone
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
+- Upper North Island
+  - Auckland
+    - Glen Innes
+    - Mt Albert
+  - Bay of Plenty
+    - Rotorua
+    - Taupo
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
@@ -73,44 +107,47 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
+    - Hastings
     - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - Whanganui
   - Wellington
-    - Kapiti
+    - Kilbirnie
     - Lower Hutt
-    - Petone
     - Porirua
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -125,45 +162,48 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
+    - Hastings
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - Whanganui
   - Wellington
-    - Kapiti
+    - Kilbirnie
     - Lower Hutt
-    - Petone
     - Porirua
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -179,42 +219,45 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
+    - Hastings
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - Whanganui
   - Wellington
-    - Kapiti
+    - Kilbirnie
     - Lower Hutt
-    - Petone
     - Porirua
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -227,42 +270,69 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Napier
+    - Hastings
     - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - Whanganui
   - Wellington
-    - Kapiti
+    - Kilbirnie
     - Lower Hutt
-    - Petone
     - Porirua
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Manukau
     - Ormiston
     - Papakura
+    - Pukekohe
     - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Taupo
     - Tauriko
     - Whakatane
   - Gisborne
     - Gisborne City
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
+- Healtheries Tea Bags 20 Pack Varieties - **$2.89**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
+--- 
+### Product(s) - Ends 23 Oct 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Aoraki Hot Smoked Salmon 180g - **$14.99**
+- Beehive Streaky Bacon 250g - **$5.89**
+- Brinks Chicken Kebabs 300g - **$6.99**
+- Fisherking Natural Basa Fillets 1kg - **$9.99**
+- Oob Organic Frozen Blueberries 450g - **$7.99**
+- Skinless Chicken Breast - **$13.99**
+- Smoked Pork Belly - **$18.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
+--- 
