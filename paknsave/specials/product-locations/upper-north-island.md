@@ -320,6 +320,24 @@
     - Royal Oak
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Arataki Honey Squeeze Me 500g - **$7.99**
+- Bens Original Express Rice 250g - **$5.50**
+- Blue Coconut Coconut Cooking Oil 1L - **$10.99**
+- Deutz Cuvee Brut 750ml - **$27.99**
+- Doritos Party Bag 300g - **$6.50**
+- Haha Hawkes Bay Pinot Gris 750ml - **$14.49**
+- Haha Malborough Sauvignon Blanc 750ml - **$14.49**
+- Happy Valley Liquid Pure Honey 1kg - **$10.99**
+- Heinz Seriously Good Pasta Sauce 525g - **$3.79**
+- Hi-Chew Monsta Mix 250g - **$4.99**
+- Oreo Cookie Original 128g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Anchor Protein + Yoghurt 950g - **$7.29**
 - Beef Sirloin Steak - **$26.99**
 - Brinks Chicken Kebabs Range 300g - **$6.99**

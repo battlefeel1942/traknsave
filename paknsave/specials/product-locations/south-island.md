@@ -23,15 +23,58 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Moorhouse
+    - Northlands
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Heineken 330ml 12 Pack Bottles - **$22.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
     - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
+    - Riccarton
     - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Invercargill
+    - Dunedin
+    - Queenstown
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Mud House 750ml Varieites - **$12.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Northlands
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
     - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
@@ -82,49 +125,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Riccarton
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Otago and Southland
-    - Dunedin
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Heineken 330ml 12 Pack Bottles - **$22.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
     - Hornby
-    - Moorhouse
-    - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Mud House 750ml Varieites - **$12.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Timaru
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###

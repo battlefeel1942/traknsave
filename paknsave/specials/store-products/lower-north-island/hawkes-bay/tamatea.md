@@ -40,7 +40,6 @@
 - Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
 - Steinlager Classic 330ml 24 Pack Bottles - **$38.99**
 - Streets Paddle Pop Cyclone 8s - **$7.49**
-- Telegraph Cucumber - **$3.00**
 - Villa Maria Private Bin Range 750ml (Excludes Pinot Noir/Syrah) - **$12.99**
 - Waitoa Free Range Chicken 300g -450g - **$9.99**
 - Watties Snack Meals 250g-270g - **$2.79**
