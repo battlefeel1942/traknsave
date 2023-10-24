@@ -1,63 +1,10 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Cool Charm Body Spray 75g - **$3.69**
-- Cool Charm Roll On 50ml - **$3.29**
-
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Fisherking Raw Prawn Cutlets 800g - **$14.99**
-- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
-- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
-- Libra Tampons 16s - **$3.99**
-- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
-- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Ingham Butterfly Chicken 1.1kg - **$9.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
@@ -79,7 +26,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -122,7 +68,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -151,6 +96,45 @@
     - Thames
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Ingham Butterfly Chicken 1.1kg - **$9.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Lamb Shoulder Chops - **$12.49**
 
 #### Stores available: ####
@@ -162,13 +146,63 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
     - Silverdale
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Cool Charm Body Spray 75g - **$3.69**
+- Cool Charm Roll On 50ml - **$3.29**
+
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Fisherking Raw Prawn Cutlets 800g - **$14.99**
+- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
+- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
+- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
+- Libra Tampons 16s - **$3.99**
+- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
+- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
@@ -213,8 +247,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
-    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -241,9 +273,18 @@
     - Te Awamutu
     - Thames
 --- 
-## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Broccoli - **$1.79**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
+  - Bay of Plenty
+    - Taupo
+--- 
+## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Collective Splitz Range 140g - **$5.00**
 - Tararua Dip 250g Range - **$7.00**
 
@@ -277,6 +318,18 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Anchor Protein + Yoghurt 950g - **$7.29**
+- Beef Sirloin Steak - **$26.99**
+- Brinks Chicken Kebabs Range 300g - **$6.99**
+- Prime Beef Mince - **$12.99**
+- Skinless Chicken Breast - **$13.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Lamb Shoulder Chops - **$13.99**
