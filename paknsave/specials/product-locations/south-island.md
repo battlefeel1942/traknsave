@@ -24,7 +24,6 @@
 - South Island
   - Canterbury
     - Hornby
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -34,60 +33,8 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Heineken 330ml 12 Pack Bottles - **$22.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Mud House 750ml Varieites - **$12.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
---- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Graze Skinny Dipped Almonds 300g Varieties - **$7.99**
-- Heinz Squeezy Mayo 500ml Vareities - **$5.99**
-
-#### Stores available: ####
-- South Island
-  - Otago and Southland
-    - Invercargill
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Pa Road White Range 750ml - **$12.99**
@@ -138,4 +85,56 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Heineken 330ml 12 Pack Bottles - **$22.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Mud House 750ml Varieites - **$12.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Queenstown
+--- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Graze Skinny Dipped Almonds 300g Varieties - **$7.99**
+- Heinz Squeezy Mayo 500ml Vareities - **$5.99**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
 --- 

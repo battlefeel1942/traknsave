@@ -24,7 +24,6 @@
 - South Island
   - Canterbury
     - Hornby
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -34,107 +33,12 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
-    - Queenstown
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Heineken 330ml 12 Pack Bottles - **$22.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Mud House 750ml Varieites - **$12.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
     - Queenstown
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Lamb Shoulder Chops - **$12.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Pams Frozen Fish Fillets 6s - **$5.79**
 - R2E2 Mangoes - **$5.99**
@@ -165,6 +69,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -173,6 +80,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -227,6 +135,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -235,6 +146,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -290,6 +202,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -298,6 +213,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -352,6 +268,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -360,6 +279,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -386,6 +306,72 @@
     - Clarence Street
     - Mill Street
     - Te Awamutu
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Lamb Shoulder Chops - **$12.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
@@ -417,6 +403,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -425,6 +414,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -481,6 +471,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -489,6 +482,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -548,6 +542,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -556,6 +553,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -616,6 +614,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -624,6 +625,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -688,13 +690,93 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Mangere
     - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Heineken 330ml 12 Pack Bottles - **$22.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Mangere
+    - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -749,13 +831,18 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Mangere
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -782,6 +869,24 @@
     - Te Awamutu
     - Thames
 --- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Mud House 750ml Varieites - **$12.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Queenstown
+--- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Graze Skinny Dipped Almonds 300g Varieties - **$7.99**
@@ -802,16 +907,6 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Beehive Shaved Ham/Pastrami 100g - **$5.00**
-- Country Goodness Dip 250g Range - **$3.79**
-- Galaxy Cheese Brie/Camembert 125g - **$6.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Broccoli - **$1.79**
@@ -858,4 +953,12 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Lamb Shoulder Chops - **$13.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Sylvia Park
 --- 
