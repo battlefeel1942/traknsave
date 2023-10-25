@@ -1,62 +1,11 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Cool Charm Body Spray 75g - **$3.69**
-- Cool Charm Roll On 50ml - **$3.29**
-
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Fisherking Raw Prawn Cutlets 800g - **$14.99**
-- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
-- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
-- Libra Tampons 16s - **$3.99**
-- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
-- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
+- Ingham Butterfly Chicken 1.1kg - **$9.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
@@ -78,7 +27,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -121,7 +69,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -150,7 +97,7 @@
     - Thames
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Ingham Butterfly Chicken 1.1kg - **$9.99**
+- Lamb Shoulder Chops - **$12.49**
 
 #### Stores available: ####
 - Upper North Island
@@ -161,14 +108,12 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
     - Silverdale
-    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
@@ -188,9 +133,20 @@
     - Clarence Street
     - Mill Street
     - Te Awamutu
+    - Thames
 --- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Cool Charm Body Spray 75g - **$3.69**
+- Cool Charm Roll On 50ml - **$3.29**
+
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Lamb Shoulder Chops - **$12.49**
+- Fisherking Raw Prawn Cutlets 800g - **$14.99**
+- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
+- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
+- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
+- Libra Tampons 16s - **$3.99**
+- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
+- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -201,13 +157,14 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
@@ -252,9 +209,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -262,7 +217,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -291,6 +245,14 @@
 - Upper North Island
   - Bay of Plenty
     - Taupo
+--- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Blitzem Snail/Slug Pellets 500g - **$4.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
