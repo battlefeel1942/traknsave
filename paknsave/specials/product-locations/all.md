@@ -23,8 +23,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
+    - Hornby
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -91,6 +92,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -115,8 +117,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
+    - Hornby
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -131,6 +134,7 @@
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
+- Lamb Shoulder Chops - **$12.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Pams Frozen Fish Fillets 6s - **$5.79**
 - R2E2 Mangoes - **$5.99**
@@ -160,8 +164,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -223,8 +226,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -287,8 +289,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -350,8 +351,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -388,69 +388,6 @@
     - Te Awamutu
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Lamb Shoulder Chops - **$12.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
-    - Rangiora
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
@@ -479,8 +416,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -544,8 +480,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -612,8 +547,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -681,8 +615,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -754,8 +687,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -770,6 +702,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -815,8 +748,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Rangiora
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -831,6 +763,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -848,16 +781,6 @@
     - Mill Street
     - Te Awamutu
     - Thames
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Broccoli - **$1.79**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
-  - Bay of Plenty
-    - Taupo
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
@@ -891,6 +814,7 @@
     - Napier
 --- 
 ### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Broccoli - **$1.79**
 - Collective Splitz Range 140g - **$5.00**
 - Tararua Dip 250g Range - **$7.00**
 
@@ -898,14 +822,6 @@
 - Upper North Island
   - Bay of Plenty
     - Taupo
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Blitzem Snail/Slug Pellets 500g - **$4.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
 --- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
@@ -942,24 +858,4 @@
 - Upper North Island
   - Auckland
     - Warkworth
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Anchor Protein + Yoghurt 950g - **$7.29**
-- Beef Sirloin Steak - **$26.99**
-- Brinks Chicken Kebabs Range 300g - **$6.99**
-- Prime Beef Mince - **$12.99**
-- Skinless Chicken Breast - **$13.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
---- 
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Lamb Shoulder Chops - **$13.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
 --- 
