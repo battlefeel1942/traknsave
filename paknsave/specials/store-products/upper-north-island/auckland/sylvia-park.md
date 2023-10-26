@@ -23,7 +23,7 @@
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
 - Ingham Butterfly Chicken 1.1kg - **$9.99**
 - Jacobs Creek Sparkling Range 750ml (Excludes Reserve) - **$9.99**
-- Lamb Shoulder Chops - **$13.99**
+- Lamb Shoulder Chops - **$12.49**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**

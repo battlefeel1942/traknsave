@@ -21,7 +21,6 @@
 - Haagen 330ml 12 Pack Bottles - **$16.99**
 - Heineken 330ml 12 Pack Bottles - **$22.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
-- Ingham Butterfly Chicken 1.1kg - **$9.99**
 - Jacobs Creek Sparkling Range 750ml (Excludes Reserve) - **$9.99**
 - Lamb Shoulder Chops - **$12.49**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
