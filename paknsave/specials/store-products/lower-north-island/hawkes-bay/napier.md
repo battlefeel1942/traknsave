@@ -10,17 +10,14 @@
 - Cool Charm Roll On 50ml - **$3.29**
 
 ## Product(s): Ends 29 Oct 2023 (deal ends)
-- Beehive Shaved Ham/Pastrami 100g - **$5.00**
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
-- Country Goodness Dip 250g Range - **$3.79**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$34.99**
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
 - Fresh Bluff Salmon Steaks - **$34.99**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Galaxy Cheese Brie/Camembert 125g - **$6.00**
 - Haagen 330ml 12 Pack Bottles - **$16.99**
 - Heineken 330ml 12 Pack Bottles - **$22.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**

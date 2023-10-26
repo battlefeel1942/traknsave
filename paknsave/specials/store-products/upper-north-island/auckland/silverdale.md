@@ -10,6 +10,10 @@
 - Cool Charm Roll On 50ml - **$3.29**
 
 ## Product(s): Ends 29 Oct 2023 (deal ends)
+- Anchor Protein + Yoghurt 950g - **$7.29**
+- Beef Sirloin Steak - **$26.99**
+- Brinks Chicken Kebabs Range 300g - **$6.99**
+- Broccoli - **$1.79**
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
@@ -34,8 +38,10 @@
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
 - Pams Frozen Fish Fillets 6s - **$5.79**
+- Prime Beef Mince - **$12.99**
 - R2E2 Mangoes - **$5.99**
 - Sara Lee Cheesecake 360g-415g - **$6.49**
+- Skinless Chicken Breast - **$13.99**
 - Somersby Cider 330ml 12 Pack Bottles - **$24.99**
 - Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
 - Steinlager Classic 330ml 24 Pack Bottles - **$38.99**
