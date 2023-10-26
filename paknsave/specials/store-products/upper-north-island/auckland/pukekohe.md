@@ -10,6 +10,7 @@
 - Cool Charm Roll On 50ml - **$3.29**
 
 ## Product(s): Ends 29 Oct 2023 (deal ends)
+- Blitzem Snail/Slug Pellets 500g - **$4.99**
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
