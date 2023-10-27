@@ -10,26 +10,16 @@
 - Cool Charm Roll On 50ml - **$3.29**
 
 ## Product(s): Ends 29 Oct 2023 (deal ends)
-- Arataki Honey Squeeze Me 500g - **$7.99**
-- Bens Original Express Rice 250g - **$5.50**
-- Blue Coconut Coconut Cooking Oil 1L - **$10.99**
 - Calippo Ice Blocks Minis 10s - **$7.49**
 - Capsicums (Red/Green/Yellow) - **$3.00**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
-- Deutz Cuvee Brut 750ml - **$27.99**
-- Doritos Party Bag 300g - **$6.50**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$34.99**
 - Fisherking Raw Prawn Cutlets 800g - **$14.99**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
 - Fresh Bluff Salmon Steaks - **$34.99**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
 - Haagen 330ml 12 Pack Bottles - **$16.99**
-- Haha Hawkes Bay Pinot Gris 750ml - **$14.49**
-- Haha Malborough Sauvignon Blanc 750ml - **$14.49**
-- Happy Valley Liquid Pure Honey 1kg - **$10.99**
 - Heineken 330ml 12 Pack Bottles - **$22.99**
-- Heinz Seriously Good Pasta Sauce 525g - **$3.79**
-- Hi-Chew Monsta Mix 250g - **$4.99**
 - Hummingbird Roasted & Ground Coffee 200g - **$6.99**
 - Ingham Butterfly Chicken 1.1kg - **$9.99**
 - Jacobs Creek Sparkling Range 750ml (Excludes Reserve) - **$9.99**
@@ -43,7 +33,6 @@
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
-- Oreo Cookie Original 128g - **$5.00**
 - Pams Frozen Fish Fillets 6s - **$5.79**
 - R2E2 Mangoes - **$5.99**
 - Sara Lee Cheesecake 360g-415g - **$6.49**
