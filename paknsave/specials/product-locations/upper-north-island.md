@@ -293,6 +293,14 @@
   - Bay of Plenty
     - Taupo
 --- 
+### Product(s) - Ends 29 Oct 2023 (deal ends) ###
+- Blitzem Snail/Slug Pellets 500g - **$4.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
+--- 
 ### Product(s) - Ends 23 Oct 2023 (deal ends) ###
 - 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
 - Arrogant Frog Range 750ml - **$13.99**
