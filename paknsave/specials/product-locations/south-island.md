@@ -23,9 +23,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -45,9 +45,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -113,5 +113,5 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Rangiora
+    - Hornby
 --- 
