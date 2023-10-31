@@ -8,6 +8,7 @@
 - Birds Eye Fish Fillets 6s - **$5.99**
 - Blueberries 125g - **$4.00**
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
+- Chicken Wings - **$5.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**
@@ -20,7 +21,6 @@
 - Pa Road White Range 750ml - **$12.99**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**
-- Pork Rump Steak - **$18.99**
 - Rangitikei Frozen Chicken 360g- 400g - **$9.99**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$35.49**
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.49**
@@ -30,7 +30,6 @@
 - Tip Top Ice Cream 2L - **$5.49**
 - Tohu Range 750ml (Excludes Pinot Noir/Syrah/Reserve) - **$13.99**
 - Tohu Range 750ml (Excludes Pinot Noir/Syrah/Reserve) - **$13.99**
-- Turks Free Range Whole Chicken 1.5kg - **$12.99**
 - Watties Organic Baby Food 120g - **$1.99**
 
 ## Product(s): Ends 12 Nov 2023 (deal ends)

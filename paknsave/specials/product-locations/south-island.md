@@ -25,9 +25,9 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -47,9 +47,9 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -112,5 +112,5 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
 --- 
