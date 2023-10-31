@@ -19,7 +19,6 @@
 - Much Moore Icy Licks Mini 20s - **$5.49**
 - Pa Road White Range 750ml - **$12.99**
 - Pa Road White Range 750ml - **$12.99**
-- Pams Bunched Asparagus 250g - **$5.00**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**
 - Rangitikei Frozen Chicken 360g- 400g - **$9.99**
@@ -37,7 +36,7 @@
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Starbucks by Nespresso Coffee Capsules 10s - **$6.99**

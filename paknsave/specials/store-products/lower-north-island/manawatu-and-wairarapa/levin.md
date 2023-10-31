@@ -18,7 +18,6 @@
 - Much Moore Icy Licks Mini 20s - **$5.49**
 - Pa Road White Range 750ml - **$12.99**
 - Pa Road White Range 750ml - **$12.99**
-- Pams Bunched Asparagus 250g - **$5.00**
 - Pams Olive Table Spread 500g - **$2.79**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**

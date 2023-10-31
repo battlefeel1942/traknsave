@@ -14,7 +14,6 @@
 - Magnum Minis 6s - **$7.49**
 - Much Moore Icy Licks Mini 20s - **$5.49**
 - Pa Road White Range 750ml - **$12.99**
-- Pams Bunched Asparagus 250g - **$5.00**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.49**

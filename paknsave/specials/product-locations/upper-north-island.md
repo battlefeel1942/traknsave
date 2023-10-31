@@ -165,7 +165,6 @@
 - Magnum Minis 6s - **$7.49**
 - McCain Rustica Pizza 335g-445g - **$6.99**
 - Much Moore Icy Licks Mini 20s - **$5.49**
-- Pams Bunched Asparagus 250g - **$5.00**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**
 - Rangitikei Frozen Chicken 360g- 400g - **$9.99**
@@ -174,7 +173,6 @@
 - Watties Organic Baby Food 120g - **$1.99**
 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
@@ -235,6 +233,43 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
@@ -346,6 +381,14 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Pork Rump Steak - **$18.99**
