@@ -25,12 +25,11 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -47,12 +46,11 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -111,6 +109,6 @@
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Northlands
+  - Marlborough
+    - Blenheim
 --- 
