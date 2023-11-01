@@ -25,10 +25,9 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Rangiora
+    - Northlands
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -47,10 +46,9 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Rangiora
+    - Northlands
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -58,16 +56,6 @@
   - Otago and Southland
     - Dunedin
     - Queenstown
---- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Chop Chop Chicken 160g Can Varieties - **$2.99**
-- Copper Kettle Chips 150g Varieties - **$3.49**
-
-#### Stores available: ####
-- South Island
-  - Otago and Southland
-    - Invercargill
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
@@ -112,5 +100,16 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Northlands
+    - Rangiora
+    - Wainoni
+--- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Chop Chop Chicken 160g Can Varieties - **$2.99**
+- Copper Kettle Chips 150g Varieties - **$3.49**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
 --- 

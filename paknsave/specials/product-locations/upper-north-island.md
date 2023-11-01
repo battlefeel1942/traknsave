@@ -56,7 +56,6 @@
     - Clendon
     - Glen Innes
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -308,7 +307,6 @@
     - Clendon
     - Glen Innes
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
