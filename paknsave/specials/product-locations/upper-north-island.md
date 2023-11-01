@@ -56,6 +56,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -173,7 +174,6 @@
 - Watties Organic Baby Food 120g - **$1.99**
 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
@@ -251,6 +251,43 @@
     - Te Awamutu
     - Thames
 --- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
@@ -271,6 +308,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -345,6 +383,14 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Pork Rump Steak - **$18.99**
