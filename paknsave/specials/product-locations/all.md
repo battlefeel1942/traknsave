@@ -2,62 +2,6 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
-- Fresh NZ Chicken Thigh Cutlets Skinless - **$11.69**
-- Hellers Streaky Bacon 250g - **$5.99**
-- Huggies Convience Nappies 14-28s or Nappy Pants 16-20s - **$10.49**
-- Nature's Fresh Buns or Rolls 6 Pack - **$3.29**
-- Old El Paso Dinner Kits - **$5.79**
-- Pams Fresh Cherry Tomatoes 250g Prepack - **$3.29**
-- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
-- Purina One Dog 3.6kg / Tux Tasty Bites 8kg - **$29.79**
-- Quality Bakers Muffin Splits 6 Pack Varieties - **$3.99**
-- Red Bull Energy Drink 250ml 4 Pack Varieties - **$5.99**
-- Regal Home Toilet Paper 8 Pack - **$6.49**
-- Regal Marlborough King Salmon Smoked Slices 100g Varieties - **$9.69**
-- Tasti Nut Bars 210g 6 Pack Varieties - **$2.79**
-- Tegel Free Range Meal Maker 260g Varieties - **$8.59**
-- Wattie's Salad Beans In Spring Water 400g Varieties - **$1.49**
-- Watties Snack Meals 250-270g Varieties - **$2.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Invercargill
-    - Queenstown
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Giesen 750ml Varieties - **$11.99**
-- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
 
 #### Stores available: ####
@@ -82,9 +26,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -97,6 +40,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -143,9 +87,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -159,6 +102,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -181,25 +125,19 @@
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Beef Schnitzel - **$15.99**
-- Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
-- Birds Eye Fish Fillets 6s - **$5.99**
+- Chicken Wings - **$5.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**
 - Magnum Ice Cream Pint 440ml - **$7.49**
 - Magnum Minis 6s - **$7.49**
-- McCain Rustica Pizza 335g-445g - **$6.99**
 - Much Moore Icy Licks Mini 20s - **$5.49**
 - Pams Stirfry Mix 1kg (Excludes Meat Varieties) - **$3.79**
 - Perlas Potatoes 1.5kg - **$5.99**
-- Rangitikei Frozen Chicken 360g- 400g - **$9.99**
-- Streets Magnum 4s (Excludes Luxe 4s) - **$7.49**
 - Tip Top Ice Cream 2L - **$5.49**
-- Watties Organic Baby Food 120g - **$1.99**
 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
-- Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
 - U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
 
 #### Stores available: ####
@@ -224,9 +162,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -240,71 +177,11 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Chicken Wings - **$5.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
     - Westgate
   - Bay of Plenty
     - Cameron Road
@@ -347,9 +224,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -362,6 +238,76 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
+- Birds Eye Fish Fillets 6s - **$5.99**
+- McCain Rustica Pizza 335g-445g - **$6.99**
+- Rangitikei Frozen Chicken 360g- 400g - **$9.99**
+- Streets Magnum 4s (Excludes Luxe 4s) - **$7.49**
+- Watties Organic Baby Food 120g - **$1.99**
+
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Invercargill
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -409,9 +355,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -451,15 +396,73 @@
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$35.49**
+
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Invercargill
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Manukau
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Heineken 330ml 24 Pack Bottles - **$42.99**
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$35.49**
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.49**
 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
-- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -483,9 +486,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -496,6 +498,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -543,9 +546,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Rangiora
-    - Wainoni
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -556,6 +558,7 @@
     - Ormiston
     - Papakura
     - Pukekohe
+    - Royal Oak
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -578,15 +581,56 @@
     - Te Awamutu
     - Thames
 --- 
-## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Chop Chop Chicken 160g Can Varieties - **$2.99**
-- Copper Kettle Chips 150g Varieties - **$3.49**
+- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
+- Fresh NZ Chicken Thigh Cutlets Skinless - **$11.69**
+- Giesen 750ml Varieties - **$11.99**
+- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
+- Hellers Streaky Bacon 250g - **$5.99**
+- Huggies Convience Nappies 14-28s or Nappy Pants 16-20s - **$10.49**
+- Nature's Fresh Buns or Rolls 6 Pack - **$3.29**
+- Old El Paso Dinner Kits - **$5.79**
+- Pams Fresh Cherry Tomatoes 250g Prepack - **$3.29**
+- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
+- Purina One Dog 3.6kg / Tux Tasty Bites 8kg - **$29.79**
+- Quality Bakers Muffin Splits 6 Pack Varieties - **$3.99**
+- Red Bull Energy Drink 250ml 4 Pack Varieties - **$5.99**
+- Regal Home Toilet Paper 8 Pack - **$6.49**
+- Regal Marlborough King Salmon Smoked Slices 100g Varieties - **$9.69**
+- Tasti Nut Bars 210g 6 Pack Varieties - **$2.79**
+- Tegel Free Range Meal Maker 260g Varieties - **$8.59**
+- Wattie's Salad Beans In Spring Water 400g Varieties - **$1.49**
+- Watties Snack Meals 250-270g Varieties - **$2.99**
 
 #### Stores available: ####
 - South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
-    - Invercargill
+    - Dunedin
+    - Queenstown
+--- 
+## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Beef/Pork Flavoured Sausages - **$9.99**
+- Chicago Mini Pizza 150g - **$1.89**
+- Kapiti Yoghurt 450g - **$5.49**
+- Pams Olive Table Spread 500g - **$2.79**
+
+#### Stores available: ####
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Levin
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Blueberries 125g - **$3.99**
@@ -612,33 +656,6 @@
   - Auckland
     - Pukekohe
 --- 
-### Product(s) - Ends 23 Oct 2023 (deal ends) ###
-- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
-- Arrogant Frog Range 750ml - **$13.99**
-- Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
-- Corona Extra 355ml 12 Pack Bottles - **$23.49**
-- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.99**
-- Export Gold 330ml 24 Pack Bottles - **$34.99**
-- Heineken 330ml 24 Pack Bottles - **$41.99**
-- Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$10.99**
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$35.49**
-- Steinlager Classic 330ml 15 Pack Bottles - **$25.99**
-- The Ned Range 750ml (Excludes Pinot Noir) - **$13.99**
-
-### Product(s) - Ends 29 Oct 2023 (deal ends) ###
-- Fisherking Raw Prawn Cutlets 800g - **$14.99**
-- Hummingbird Roasted & Ground Coffee 200g - **$6.99**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
-- Libra Pads with Wings 12s-16s (Excludes Value Pack) - **$3.99**
-- Libra Tampons 16s - **$3.99**
-- Nescafé Instant Coffee Refills 100g (Excludes Black Roast) - **$5.79**
-- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Royal Oak
---- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -646,15 +663,6 @@
 - Upper North Island
   - Auckland
     - Clendon
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Pork Rump Steak - **$18.99**
-- Turks Free Range Whole Chicken 1.5kg - **$12.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$4.00**
