@@ -31,7 +31,6 @@
 - Tohu Range 750ml (Excludes Pinot Noir/Syrah/Reserve) - **$13.99**
 - Tohu Range 750ml (Excludes Pinot Noir/Syrah/Reserve) - **$13.99**
 - Watties Organic Baby Food 120g - **$1.99**
-- Watties Tomato Sauce Refill 560-575g - **$5.00**
 
 ## Product(s): Ends 12 Nov 2023 (deal ends)
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**

@@ -2,6 +2,62 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
+- Fresh NZ Chicken Thigh Cutlets Skinless - **$11.69**
+- Hellers Streaky Bacon 250g - **$5.99**
+- Huggies Convience Nappies 14-28s or Nappy Pants 16-20s - **$10.49**
+- Nature's Fresh Buns or Rolls 6 Pack - **$3.29**
+- Old El Paso Dinner Kits - **$5.79**
+- Pams Fresh Cherry Tomatoes 250g Prepack - **$3.29**
+- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
+- Purina One Dog 3.6kg / Tux Tasty Bites 8kg - **$29.79**
+- Quality Bakers Muffin Splits 6 Pack Varieties - **$3.99**
+- Red Bull Energy Drink 250ml 4 Pack Varieties - **$5.99**
+- Regal Home Toilet Paper 8 Pack - **$6.49**
+- Regal Marlborough King Salmon Smoked Slices 100g Varieties - **$9.69**
+- Tasti Nut Bars 210g 6 Pack Varieties - **$2.79**
+- Tegel Free Range Meal Maker 260g Varieties - **$8.59**
+- Wattie's Salad Beans In Spring Water 400g Varieties - **$1.49**
+- Watties Snack Meals 250-270g Varieties - **$2.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Giesen 750ml Varieties - **$11.99**
+- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
 
 #### Stores available: ####
@@ -26,8 +82,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -87,8 +143,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -162,8 +218,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -224,8 +280,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -292,8 +348,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -355,8 +411,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -422,8 +478,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -486,8 +542,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -546,8 +602,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -581,46 +637,16 @@
     - Te Awamutu
     - Thames
 --- 
+## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
-- Fresh NZ Chicken Thigh Cutlets Skinless - **$11.69**
-- Giesen 750ml Varieties - **$11.99**
-- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
-- Hellers Streaky Bacon 250g - **$5.99**
-- Huggies Convience Nappies 14-28s or Nappy Pants 16-20s - **$10.49**
-- Nature's Fresh Buns or Rolls 6 Pack - **$3.29**
-- Old El Paso Dinner Kits - **$5.79**
-- Pams Fresh Cherry Tomatoes 250g Prepack - **$3.29**
-- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
-- Purina One Dog 3.6kg / Tux Tasty Bites 8kg - **$29.79**
-- Quality Bakers Muffin Splits 6 Pack Varieties - **$3.99**
-- Red Bull Energy Drink 250ml 4 Pack Varieties - **$5.99**
-- Regal Home Toilet Paper 8 Pack - **$6.49**
-- Regal Marlborough King Salmon Smoked Slices 100g Varieties - **$9.69**
-- Tasti Nut Bars 210g 6 Pack Varieties - **$2.79**
-- Tegel Free Range Meal Maker 260g Varieties - **$8.59**
-- Wattie's Salad Beans In Spring Water 400g Varieties - **$1.49**
-- Watties Snack Meals 250-270g Varieties - **$2.99**
+- Chop Chop Chicken 160g Can Varieties - **$2.99**
+- Copper Kettle Chips 150g Varieties - **$3.49**
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Invercargill
 --- 
-## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Beef/Pork Flavoured Sausages - **$9.99**
 - Chicago Mini Pizza 150g - **$1.89**
@@ -640,14 +666,6 @@
   - Bay of Plenty
     - Whakatane
 --- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Watties Tomato Sauce Refill 560-575g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
---- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -663,14 +681,4 @@
 - Upper North Island
   - Auckland
     - Botany
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Beehive Precooked Original Sausages 1kg - **$10.99**
-- Harmony Classic Pure Beef Sausages 480g - **$8.99**
-- Smoked Pork Belly - **$18.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 

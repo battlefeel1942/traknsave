@@ -309,14 +309,6 @@
   - Bay of Plenty
     - Whakatane
 --- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Watties Tomato Sauce Refill 560-575g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
---- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -332,14 +324,4 @@
 - Upper North Island
   - Auckland
     - Botany
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Beehive Precooked Original Sausages 1kg - **$10.99**
-- Harmony Classic Pure Beef Sausages 480g - **$8.99**
-- Smoked Pork Belly - **$18.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 

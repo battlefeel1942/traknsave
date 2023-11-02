@@ -4,8 +4,6 @@
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Cadbury Treatsize Sharepack 144-250g Varieties - **$3.29**
 - Fresh NZ Chicken Thigh Cutlets Skinless - **$11.69**
-- Giesen 750ml Varieties - **$11.99**
-- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
 - Hellers Streaky Bacon 250g - **$5.99**
 - Huggies Convience Nappies 14-28s or Nappy Pants 16-20s - **$10.49**
 - Nature's Fresh Buns or Rolls 6 Pack - **$3.29**
@@ -32,8 +30,27 @@
     - Riccarton
     - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Giesen 750ml Varieties - **$11.99**
+- Heineken Silver Low Carb Lager 330ml 12 Pack Bottles - **$23.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
@@ -41,6 +58,15 @@
     - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Chop Chop Chicken 160g Can Varieties - **$2.99**
+- Copper Kettle Chips 150g Varieties - **$3.49**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
+--- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Avocados - **$2.00**
@@ -83,6 +109,6 @@
 
 #### Stores available: ####
 - South Island
-  - Otago and Southland
-    - Invercargill
+  - Marlborough
+    - Blenheim
 --- 
