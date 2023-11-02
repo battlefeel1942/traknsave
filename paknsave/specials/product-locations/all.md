@@ -30,6 +30,8 @@
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -51,6 +53,8 @@
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -81,9 +85,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -142,9 +143,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -181,7 +179,6 @@
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Beef Schnitzel - **$15.99**
-- Chicken Wings - **$5.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**
 - Magnum Ice Cream Pint 440ml - **$7.49**
@@ -217,9 +214,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -238,6 +232,64 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Chicken Wings - **$5.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
     - Westgate
   - Bay of Plenty
     - Cameron Road
@@ -279,9 +331,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -347,9 +396,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -410,9 +456,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -477,9 +520,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -541,9 +581,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -601,9 +638,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -666,6 +700,22 @@
   - Bay of Plenty
     - Whakatane
 --- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Watties Tomato Sauce Refill 560-575g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
+--- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -675,10 +725,29 @@
     - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Pork Rump Steak - **$18.99**
+- Turks Free Range Whole Chicken 1.5kg - **$12.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$4.00**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
     - Botany
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Beehive Precooked Original Sausages 1kg - **$10.99**
+- Harmony Classic Pure Beef Sausages 480g - **$8.99**
+- Smoked Pork Belly - **$18.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
