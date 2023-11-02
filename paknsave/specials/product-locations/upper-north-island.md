@@ -310,14 +310,6 @@
     - Whakatane
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Watties Tomato Sauce Refill 560-575g - **$5.00**
 
 #### Stores available: ####

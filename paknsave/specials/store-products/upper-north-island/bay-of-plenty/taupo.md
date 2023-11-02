@@ -9,7 +9,6 @@
 - Blueberries 125g - **$4.00**
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
 - Chicken Wings - **$5.99**
-- Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**
