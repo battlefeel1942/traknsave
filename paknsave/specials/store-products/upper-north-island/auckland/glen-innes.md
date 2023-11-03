@@ -6,7 +6,6 @@
 - Beef Schnitzel - **$15.99**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Birds Eye Fish Fillets 6s - **$5.99**
-- Blueberries 125g - **$4.00**
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
 - Chicken Wings - **$5.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**

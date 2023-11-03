@@ -126,27 +126,20 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
     - Royal Oak
-    - Silverdale
-    - Sylvia Park
     - Wairau Road
-    - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
-    - Rotorua
     - Taupo
     - Tauriko
   - Northland
@@ -338,14 +331,6 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Blueberries 125g - **$3.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Whakatane
---- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
 

@@ -5,7 +5,6 @@
 - Beef Schnitzel - **$15.99**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Birds Eye Fish Fillets 6s - **$5.99**
-- Blueberries 125g - **$4.00**
 - Chicken Wings - **$5.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**

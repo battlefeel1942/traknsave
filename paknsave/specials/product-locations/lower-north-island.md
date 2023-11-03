@@ -3,7 +3,6 @@
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
 - Beef Schnitzel - **$15.99**
-- Blueberries 125g - **$4.00**
 - Carlsberg 330ml 12 Pack Bottles - **$20.99**
 - Chicken Wings - **$5.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
@@ -53,6 +52,29 @@
     - Upper Hutt
 --- 
 ## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Blueberries 125g - **$4.00**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+--- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
