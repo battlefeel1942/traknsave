@@ -32,10 +32,11 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
-    - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Giesen 750ml Varieties - **$11.99**
@@ -53,9 +54,10 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
-    - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
@@ -82,8 +84,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -139,11 +141,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Henderson
@@ -180,7 +181,6 @@
 - Tip Top Ice Cream 2L - **$5.49**
 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
@@ -207,8 +207,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -269,8 +269,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -288,6 +288,67 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Queenstown
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
@@ -337,8 +398,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -400,8 +461,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -467,15 +528,14 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -532,15 +592,14 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -593,15 +652,14 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -658,13 +716,13 @@
   - Bay of Plenty
     - Taupo
 --- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Watties Tomato Sauce Refill 560-575g - **$5.00**
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Pukekohe
+    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Pork Rump Steak - **$18.99**

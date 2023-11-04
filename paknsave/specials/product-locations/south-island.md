@@ -32,10 +32,11 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
-    - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Giesen 750ml Varieties - **$11.99**
@@ -53,9 +54,10 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
-    - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
@@ -109,6 +111,6 @@
 
 #### Stores available: ####
 - South Island
-  - Nelson
-    - Richmond
+  - Otago and Southland
+    - Queenstown
 --- 
