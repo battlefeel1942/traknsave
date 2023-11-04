@@ -2,7 +2,7 @@
 
 ## Product(s): Ends 05 Nov 2023 (deal ends)
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
-- Avocados - **$4.00**
+- Avocados - **$2.00**
 - Beef Schnitzel - **$15.99**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Birds Eye Fish Fillets 6s - **$5.99**

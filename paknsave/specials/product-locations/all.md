@@ -63,110 +63,6 @@
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Albany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Blueberries 125g - **$4.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-  - Wellington
-    - Kapiti
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- Upper North Island
-  - Auckland
-    - Botany
-    - Clendon
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Wairau Road
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Taupo
-    - Tauriko
-  - Northland
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Beef Schnitzel - **$15.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Mullet Catch Permitting - **$9.99**
@@ -231,6 +127,55 @@
     - Whakatane
   - Northland
     - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 05 Nov 2023 (deal ends) ###
+- Blueberries 125g - **$4.00**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+  - Wellington
+    - Kapiti
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- Upper North Island
+  - Auckland
+    - Botany
+    - Clendon
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Sylvia Park
+    - Wairau Road
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
     - Whangarei
   - Waikato
     - Clarence Street
@@ -689,14 +634,6 @@
   - Bay of Plenty
     - Taupo
 --- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Watties Tomato Sauce Refill 560-575g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
---- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -713,14 +650,6 @@
 - Upper North Island
   - Auckland
     - Warkworth
---- 
-### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Avocados - **$4.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Botany
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Beehive Precooked Original Sausages 1kg - **$10.99**
