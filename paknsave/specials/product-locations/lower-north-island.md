@@ -58,7 +58,6 @@
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Hastings
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
