@@ -142,6 +142,7 @@
     - Papamoa
     - Taupo
     - Tauriko
+    - Whakatane
   - Northland
     - Whangarei
   - Waikato
@@ -331,12 +332,12 @@
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
+- Watties Tomato Sauce Refill 560-575g - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
-  - Bay of Plenty
-    - Taupo
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**

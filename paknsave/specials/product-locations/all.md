@@ -37,6 +37,7 @@
   - Otago and Southland
     - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Giesen 750ml Varieties - **$11.99**
@@ -58,6 +59,7 @@
     - Richmond
   - Otago and Southland
     - Dunedin
+    - Queenstown
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Avocados - **$2.00**
@@ -83,9 +85,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -140,9 +139,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Botany
@@ -161,6 +157,7 @@
     - Papamoa
     - Taupo
     - Tauriko
+    - Whakatane
   - Northland
     - Whangarei
   - Waikato
@@ -206,9 +203,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -268,9 +262,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -329,9 +320,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -397,9 +385,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -460,9 +445,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -527,9 +509,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -591,9 +570,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -651,9 +627,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -709,12 +682,12 @@
     - Levin
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
-- Dettol True Clean Multipurpose Trigger Cleaner 500g - **$5.00**
+- Watties Tomato Sauce Refill 560-575g - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
-  - Bay of Plenty
-    - Taupo
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
