@@ -4,11 +4,6 @@
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
-- Persil Laundry Liquid 2L - **$15.99**
-- Rexona Advanced Antiperspirant 220ml - **$5.49**
-- Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
-- U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -49,17 +44,18 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
-- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
     - Glen Innes
+    - Henderson
+    - Lincoln Road
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -76,8 +72,85 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Persil Laundry Liquid 2L - **$15.99**
+- Rexona Advanced Antiperspirant 220ml - **$5.49**
+- Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
+- U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
+- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
@@ -88,6 +161,14 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Clendon
+--- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Avocados - **$2.00**
