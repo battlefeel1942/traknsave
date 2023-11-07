@@ -45,7 +45,6 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Avocados 1kg Bag - **$3.00**
-- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
 - Four N Twenty Pies 175g - **$2.00**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
@@ -73,6 +72,43 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
     - Henderson
     - Lincoln Road
     - Manukau
@@ -265,7 +301,9 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -274,6 +312,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -395,6 +434,14 @@
 - Upper North Island
   - Auckland
     - Wairau Road
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$4.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Glen Innes
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beehive Shoulder Bacon 200g - **$5.50**
