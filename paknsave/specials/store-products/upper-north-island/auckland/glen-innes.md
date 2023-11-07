@@ -4,7 +4,7 @@
 - Avocados 1kg Bag - **$3.00**
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
 - Beef Mince - **$10.79**
-- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$4.00**
+- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
