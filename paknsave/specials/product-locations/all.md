@@ -28,16 +28,13 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
     - Queenstown
 --- 
@@ -77,8 +74,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -137,8 +137,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -196,8 +199,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -243,7 +249,6 @@
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
@@ -257,8 +262,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -316,8 +324,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -354,6 +365,7 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Kapiti Ice Cream 1L - **$9.00**
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Popsicle Fruit Stack 6s - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.99**
@@ -381,8 +393,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -444,8 +459,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -505,8 +523,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -567,8 +588,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -628,8 +652,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -690,8 +717,11 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -727,65 +757,6 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Dunedin
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
 
 #### Stores available: ####
@@ -810,17 +781,18 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -829,7 +801,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -870,17 +841,18 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -889,7 +861,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -910,6 +881,9 @@
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Masterton
 - Upper North Island
   - Auckland
     - Royal Oak
@@ -928,22 +902,6 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables 1kg - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Protex Bar Soap 90g Range - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**

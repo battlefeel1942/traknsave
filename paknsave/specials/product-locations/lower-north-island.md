@@ -3,7 +3,6 @@
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Avocados 1kg Bag - **$3.00**
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
-- Beef Mince - **$10.79**
 - Blueberries Punnet 125g - **$4.00**
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
@@ -58,6 +57,30 @@
   - Manawatu and Wairarapa
     - Levin
     - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beef Mince - **$10.79**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
@@ -138,4 +161,12 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beef Mince - **$10.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Masterton
 --- 

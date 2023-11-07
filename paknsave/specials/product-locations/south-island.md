@@ -28,20 +28,16 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
     - Queenstown
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Avocados 1kg Bag - **$3.00**
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
@@ -79,6 +75,10 @@
 
 #### Stores available: ####
 - South Island
-  - Otago and Southland
-    - Dunedin
+  - Canterbury
+    - Northlands
+    - Timaru
+  - Nelson
+    - Richmond
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
