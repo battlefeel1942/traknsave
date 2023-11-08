@@ -21,6 +21,7 @@
 - Persil Laundry Liquid 2L - **$15.99**
 - Popsicle Fruit Stack 6s - **$5.00**
 - Pork Sirloin Steak - **$17.99**
+- Protex Bar Soap 90g Range - **$5.00**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.99**

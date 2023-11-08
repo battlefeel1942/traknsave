@@ -45,13 +45,13 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Avocados 1kg Bag - **$3.00**
+- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
 - Four N Twenty Pies 175g - **$2.00**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Kapiti Ice Cream 1L - **$9.00**
 - Leannes Kitchen Dumplings 250g - **$3.00**
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Much Moore Marvels Ice Cream 2L - **$4.00**
 - Popsicle Fruit Stack 6s - **$5.00**
@@ -73,43 +73,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
     - Henderson
     - Lincoln Road
     - Manukau
@@ -328,6 +291,43 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
@@ -338,6 +338,22 @@
     - Tauriko
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- McCain Mixed Vegetables 1kg - **$3.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Waikato
+    - Clarence Street
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Protex Bar Soap 90g Range - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
+--- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
 
@@ -379,14 +395,6 @@
 - Upper North Island
   - Auckland
     - Wairau Road
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$4.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Glen Innes
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beehive Shoulder Bacon 200g - **$5.50**
