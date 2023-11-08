@@ -38,7 +38,6 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
@@ -46,7 +45,6 @@
 - Avocados 1kg Bag - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
 - Four N Twenty Pies 175g - **$2.00**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Leannes Kitchen Dumplings 250g - **$3.00**
@@ -78,6 +76,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -135,6 +136,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -191,6 +195,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -236,7 +243,6 @@
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
@@ -249,6 +255,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -305,6 +314,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -367,6 +379,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -427,6 +442,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -485,6 +503,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -502,6 +523,66 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -545,6 +626,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -604,6 +688,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -661,6 +748,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -718,14 +808,17 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -773,14 +866,17 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -809,6 +905,9 @@
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Masterton
 - Upper North Island
   - Auckland
     - Royal Oak
@@ -906,4 +1005,12 @@
 - Upper North Island
   - Auckland
     - Silverdale
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$39.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Ormiston
 --- 
