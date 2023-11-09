@@ -27,11 +27,10 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
-    - Riccarton
+    - Rangiora
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -77,8 +76,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
-    - Rangiora
+    - Riccarton
     - Timaru
+  - Marlborough
+    - Blenheim
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
