@@ -1,6 +1,5 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
-## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
@@ -14,6 +13,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -43,6 +43,7 @@
     - Te Awamutu
     - Thames
 --- 
+## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Avocados 1kg Bag - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
@@ -51,6 +52,7 @@
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Kapiti Ice Cream 1L - **$9.00**
 - Leannes Kitchen Dumplings 250g - **$3.00**
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Much Moore Marvels Ice Cream 2L - **$4.00**
 - Popsicle Fruit Stack 6s - **$5.00**
@@ -74,6 +76,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -111,6 +114,7 @@
     - Clendon
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -149,6 +153,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -175,43 +180,6 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
@@ -226,6 +194,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -265,6 +234,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Papakura
@@ -301,8 +271,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
-    - Lincoln Road
+    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -329,43 +298,6 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
@@ -377,28 +309,12 @@
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables 1kg - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Protex Bar Soap 90g Range - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
   - Bay of Plenty
     - Taupo
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
