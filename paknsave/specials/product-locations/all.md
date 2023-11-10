@@ -32,6 +32,7 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -52,6 +53,7 @@
 - Much Moore Marvels Ice Cream 2L - **$4.00**
 - Pork Sirloin Steak - **$17.99**
 - Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.00**
+- Strawberries Punnet 250g - **$4.00**
 - Telegraph Cucumber - **$3.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
 - Tip Top Popsicle Multi 10s - **$5.00**
@@ -77,9 +79,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -122,6 +121,7 @@
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
@@ -137,74 +137,11 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Strawberries Punnet 250g - **$4.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
@@ -244,6 +181,7 @@
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
+    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
@@ -256,9 +194,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -315,9 +250,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -354,11 +286,11 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Kapiti Ice Cream 1L - **$9.00**
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Popsicle Fruit Stack 6s - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.99**
 - Tegel Free Range Tenders/Bites/Burger 650g-750g - **$9.00**
+- Watties Organic Baby Food 120g - **$5.00**
 - Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$18.99**
 
 #### Stores available: ####
@@ -381,9 +313,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -444,9 +373,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -505,9 +431,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -568,9 +491,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -609,13 +529,14 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Watties Organic Baby Food 120g - **$5.00**
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
     - Napier
+    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
@@ -630,9 +551,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -662,7 +580,6 @@
     - Kaitaia
     - Whangarei
   - Waikato
-    - Clarence Street
     - Mill Street
     - Te Awamutu
     - Thames
@@ -691,9 +608,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -748,9 +662,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -786,9 +697,6 @@
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
-- Lower North Island
-  - Manawatu and Wairarapa
-    - Masterton
 - Upper North Island
   - Auckland
     - Royal Oak
@@ -809,12 +717,12 @@
     - Levin
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Protex Bar Soap 90g Range - **$5.00**
+- McCain Mixed Vegetables 1kg - **$3.00**
 
 #### Stores available: ####
 - Upper North Island
-  - Bay of Plenty
-    - Taupo
+  - Waikato
+    - Clarence Street
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**

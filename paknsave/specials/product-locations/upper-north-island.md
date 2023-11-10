@@ -52,7 +52,6 @@
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Kapiti Ice Cream 1L - **$9.00**
 - Leannes Kitchen Dumplings 250g - **$3.00**
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Much Moore Marvels Ice Cream 2L - **$4.00**
 - Popsicle Fruit Stack 6s - **$5.00**
@@ -292,6 +291,43 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beef Mince - **$10.99**
 
 #### Stores available: ####
@@ -303,12 +339,12 @@
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Protex Bar Soap 90g Range - **$5.00**
+- McCain Mixed Vegetables 1kg - **$3.00**
 
 #### Stores available: ####
 - Upper North Island
-  - Bay of Plenty
-    - Taupo
+  - Waikato
+    - Clarence Street
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
