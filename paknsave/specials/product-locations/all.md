@@ -30,7 +30,10 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Wainoni
+    - Riccarton
+    - Timaru
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -42,6 +45,7 @@
 - Avocados 1kg Bag - **$3.00**
 - Blueberries Punnet 125g - **$4.00**
 - Four N Twenty Pies 175g - **$2.00**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Leannes Kitchen Dumplings 250g - **$3.00**
@@ -75,10 +79,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -115,6 +116,64 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$3.00**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Wainoni
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Strawberries Punnet 250g - **$4.00**
 
 #### Stores available: ####
@@ -139,10 +198,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -202,10 +258,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -240,9 +293,6 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
-- Persil Laundry Liquid 2L - **$15.99**
-- Rexona Advanced Antiperspirant 220ml - **$5.49**
-- U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -267,15 +317,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
     - Botany
-    - Clendon
     - Glen Innes
     - Henderson
     - Lincoln Road
@@ -308,6 +354,7 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Kapiti Ice Cream 1L - **$9.00**
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Popsicle Fruit Stack 6s - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.99**
@@ -336,10 +383,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -356,6 +400,70 @@
     - Royal Oak
     - Silverdale
     - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Persil Laundry Liquid 2L - **$15.99**
+- Rexona Advanced Antiperspirant 220ml - **$5.49**
+- U By Kotex Tampons 16s (Excludes Designer/Applicator/Sport) - **$3.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Wainoni
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -399,10 +507,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -420,69 +525,6 @@
     - Silverdale
     - Sylvia Park
     - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -528,10 +570,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -593,10 +632,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -632,68 +668,6 @@
     - Thames
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Babydoll Range 750ml (Excludes Pinot Noir/Sparkling) - **$12.99**
 
 #### Stores available: ####
@@ -719,10 +693,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -779,10 +750,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -841,20 +809,20 @@
     - Levin
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- McCain Mixed Vegetables 1kg - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Protex Bar Soap 90g Range - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
   - Bay of Plenty
     - Taupo
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
@@ -891,6 +859,14 @@
     - Wairau Road
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beekist Angel Tomatoes/Sunburst Classic Tomatoes 200g - **$4.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Glen Innes
+--- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Beehive Shoulder Bacon 200g - **$5.50**
 - Hellers Angus Beef Burger Patties 4pk - **$9.79**
 - Hellers Precooked Chicken Sausages 1kg - **$10.99**
@@ -902,12 +878,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$39.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Ormiston
 --- 
