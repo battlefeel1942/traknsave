@@ -9,7 +9,7 @@
 - Cool Charm Body Spray 75g - **$3.69**
 - Cool Charm Roll On 50ml - **$3.29**
 - Four N Twenty Pies 175g - **$2.00**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$39.99**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Kapiti Ice Cream 1L - **$9.00**
