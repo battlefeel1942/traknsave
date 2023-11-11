@@ -164,7 +164,6 @@
     - Papamoa
     - Rotorua
     - Taupo
-    - Tauriko
     - Whakatane
   - Northland
     - Kaitaia
@@ -328,6 +327,16 @@
     - Te Awamutu
     - Thames
 --- 
+### Product(s) - Ends 12 Nov 2023 (deal ends) ###
+- Beef Mince - **$10.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Royal Oak
+  - Bay of Plenty
+    - Tauriko
+--- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - McCain Mixed Vegetables 1kg - **$3.00**
@@ -344,14 +353,6 @@
 - Upper North Island
   - Bay of Plenty
     - Taupo
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Beef Mince - **$10.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Royal Oak
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**

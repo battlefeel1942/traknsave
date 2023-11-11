@@ -30,6 +30,7 @@
     - Moorhouse
     - Northlands
     - Rangiora
+    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -37,6 +38,7 @@
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
     - Queenstown
 --- 
@@ -76,11 +78,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -138,11 +135,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -199,11 +191,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -261,11 +248,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -288,7 +270,6 @@
     - Papamoa
     - Rotorua
     - Taupo
-    - Tauriko
     - Whakatane
   - Northland
     - Kaitaia
@@ -323,11 +304,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -390,11 +366,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -455,11 +426,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -518,11 +484,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -583,11 +544,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -647,11 +603,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -709,11 +660,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -771,11 +717,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -830,11 +771,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Riccarton
-  - Otago and Southland
-    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -876,6 +812,8 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+  - Bay of Plenty
+    - Tauriko
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
