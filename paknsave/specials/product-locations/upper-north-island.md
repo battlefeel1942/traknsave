@@ -176,43 +176,6 @@
 --- 
 ### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
 - Persil Laundry Liquid 2L - **$15.99**
 - Rexona Advanced Antiperspirant 220ml - **$5.49**
 - Starbucks by Nespresso Coffee Capsules 10s - **$6.99**
@@ -302,6 +265,7 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -311,6 +275,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -388,14 +353,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 12 Nov 2023 (deal ends) ###
-- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Clendon
 --- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
