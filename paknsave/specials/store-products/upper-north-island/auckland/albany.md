@@ -17,6 +17,7 @@
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - McCain Super Fries Cut 900g - **$3.00**
 - Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
+- Moccona Freeze Dried Coffee Refills 75g/90g - **$7.79**
 - Much Moore Marvels Ice Cream 2L - **$4.00**
 - Persil Laundry Liquid 2L - **$15.99**
 - Popsicle Fruit Stack 6s - **$5.00**
