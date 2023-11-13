@@ -27,11 +27,8 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
-    - Rangiora
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -41,7 +38,6 @@
     - Invercargill
     - Queenstown
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Can 120g - **$1.19**
 - Watties Baby Food Jar 170g - **$1.89**
@@ -99,5 +95,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Moorhouse
     - Northlands
+    - Rangiora
+    - Wainoni
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
