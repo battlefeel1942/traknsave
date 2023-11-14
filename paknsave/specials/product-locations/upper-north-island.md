@@ -13,7 +13,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Papakura
@@ -27,6 +26,7 @@
     - Cameron Road
     - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
   - Northland
@@ -47,38 +47,27 @@
 - Angel Bay Beef Cheese 720g/Lite Beef Burger Patties 600g - **$9.99**
 - Angel Bay Gourmet Beef Meatball 525g - **$9.99**
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
-- Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$3.00**
 - Cadbury Favourites 265g/Roses 225g - **$3.99**
-- Carlsberg 330ml 12 Pack Bottles - **$21.49**
-- Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Fisherking Natural Basa Fillets 1kg - **$7.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$11.99**
 - Fresh Cut Lettuce - **$1.69**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
-- Heineken 330ml 24 Pack Bottles - **$40.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.99**
 - Juicies Frozen Fruit Juice Bar 10s - **$5.49**
 - Lamb Shoulder Chops - **$11.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
-- Lindauer Special Reserve Range 750ml (Excludes Standard/Free/Vintage Series) - **$12.49**
 - Magnum Ice Cream Pint 440ml - **$6.79**
 - Magnum Luxe 4s - **$6.79**
 - Magnum Minis 6s - **$6.79**
 - McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
-- Mumm Grand Cordon Champagne 750ml - **$49.99**
-- Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
-- Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
-- Steinlager Classic 330ml 15 Pack Bottles - **$24.99**
 - Tegel Nuggets 900g - **$10.99**
 - Whole Beef Rump - **$13.79**
-- Wither Hills Range 750ml (Excludes Wither Hills Red Range) - **$11.99**
 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
@@ -97,7 +86,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -136,7 +124,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -168,13 +155,11 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -212,7 +197,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -238,17 +222,89 @@
     - Te Awamutu
     - Thames
 --- 
-## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
-- Avocados - **$2.00**
-- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
+- Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
+- Carlsberg 330ml 12 Pack Bottles - **$21.49**
+- Export Gold 330ml 24 Pack Bottles - **$34.99**
+- Heineken 330ml 24 Pack Bottles - **$40.99**
+- Lindauer Special Reserve Range 750ml (Excludes Standard/Free/Vintage Series) - **$12.49**
+- Mumm Grand Cordon Champagne 750ml - **$49.99**
+- Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
+- Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
+- Steinlager Classic 330ml 15 Pack Bottles - **$24.99**
+- Wither Hills Range 750ml (Excludes Wither Hills Red Range) - **$11.99**
 
 #### Stores available: ####
 - Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
   - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
     - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Avocados - **$2.00**
@@ -316,6 +372,14 @@
 - Upper North Island
   - Auckland
     - Sylvia Park
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Avocados - **$3.50**

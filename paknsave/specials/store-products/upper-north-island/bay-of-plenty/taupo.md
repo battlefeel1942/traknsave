@@ -5,13 +5,12 @@
 - Watties Baby Food Jar 170g - **$1.89**
 
 ## Product(s): Ends 19 Nov 2023 (deal ends)
-- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
 - Angel Bay Beef Burger Patties 720g - **$9.99**
 - Angel Bay Beef Cheese 720g/Lite Beef Burger Patties 600g - **$9.99**
 - Angel Bay Gourmet Beef Meatball 525g - **$9.99**
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
-- Avocados - **$2.00**
+- Avocados - **$0.59**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$3.00**
@@ -24,7 +23,6 @@
 - Fresh Cut Lettuce - **$1.69**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
-- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
 - Heineken 330ml 24 Pack Bottles - **$40.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.99**
 - Juicies Frozen Fruit Juice Bar 10s - **$5.49**
