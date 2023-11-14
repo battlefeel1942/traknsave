@@ -26,7 +26,6 @@
     - Cameron Road
     - Papamoa
     - Rotorua
-    - Taupo
     - Tauriko
     - Whakatane
   - Northland
@@ -66,6 +65,7 @@
 - McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
+- Tegel Free Range Quick Cook Chicken Range - **$5.99**
 - Tegel Nuggets 900g - **$10.99**
 - Whole Beef Rump - **$13.79**
 
@@ -186,43 +186,6 @@
     - Thames
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Tegel Free Range Quick Cook Chicken Range - **$5.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Carlsberg 330ml 12 Pack Bottles - **$21.49**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
@@ -305,6 +268,16 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
+- Avocados - **$2.00**
+- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
+--- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Avocados - **$2.00**
@@ -349,21 +322,6 @@
 - Upper North Island
   - Auckland
     - Wairau Road
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
-- Brinks Chicken Kebabs 300g - **$6.99**
-- Coca-Cola 2.25L Range - **$6.00**
-- Coca-Cola 330ml 8pk Cans - **$7.99**
-- Nongshim Bowl Noodle 86g - **$2.49**
-- Otis Oat Milk Barista/Everyday - **$3.49**
-- Pascall Lollies 120-180g Range - **$2.49**
-- Whittakers Block Chocolate 250g - **$4.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Chicken Thighs Bone In Skin On - **$5.00**
