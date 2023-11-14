@@ -26,11 +26,10 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
-    - Rangiora
-    - Riccarton
+    - Northlands
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -64,8 +63,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -152,8 +152,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -213,8 +214,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -274,8 +276,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Botany
@@ -334,8 +337,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -404,8 +408,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -472,8 +477,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -533,8 +539,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany
@@ -593,8 +600,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 - Upper North Island
   - Auckland
     - Albany

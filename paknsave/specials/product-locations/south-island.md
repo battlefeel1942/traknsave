@@ -26,11 +26,10 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
-    - Rangiora
-    - Riccarton
+    - Northlands
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -97,7 +96,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Northlands
-    - Wainoni
+    - Hornby
+    - Rangiora
+    - Riccarton
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
