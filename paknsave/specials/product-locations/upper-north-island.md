@@ -26,8 +26,11 @@
     - Cameron Road
     - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -65,6 +68,7 @@
 - McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Tegel Nuggets 900g - **$10.99**
 - Whole Beef Rump - **$13.79**
 
@@ -102,6 +106,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -139,6 +145,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -175,6 +183,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -212,6 +222,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -250,6 +262,7 @@
     - Silverdale
     - Sylvia Park
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -257,43 +270,8 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -304,16 +282,6 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
-- Avocados - **$2.00**
-- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
---- 
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.99**
 - Avocados - **$2.00**
