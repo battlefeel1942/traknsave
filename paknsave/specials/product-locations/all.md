@@ -2,46 +2,6 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Best Foods Real Mayonnaise 810g - **$10.99**
-- Bundaberg or Royal Crown Soft Drinks 340-375ml 4 Pack Varieties - **$5.49**
-- Cadbury Chocolate Block 150-190g Varieties - **$2.79**
-- Dilmah Premium Black Tea Bags 100 Pack - **$4.99**
-- Eta Ridgies 140g Varieties - **$1.99**
-- Graze Nut Mixes 400-625g Varieties - **$9.99**
-- Heinz Seriously Good Mayonnaise 285-295ml Varieties - **$4.99**
-- Hellers Streaky Bacon 800g - **$14.99**
-- Just Juice 2.4L Varieties - **$4.29**
-- Otis Oat Milk 1 Litre - **$3.79**
-- Pepsi/ 7UP or Mountain Dew 1.5L Varieties - **$2.49**
-- RJ's Licorice Bucket 600-800g Varieties - **$11.99**
-- Sanitarium Weet-Bix 750g - **$4.49**
-- Strawberries 250g Prepack - **$3.79**
-- Tegel Frozen Free Range Blue Bag 650-750g Varieties - **$8.49**
-- Temptations 180g - **$5.79**
-- Tomatoes Loose & Truss - **$2.99**
-- Tresemme Shampoo or Conditioner 940ml - **$7.79**
-- Wattie's Chilli Beans 420g Varieties - **$2.49**
-- Wattie's Tortellini or Risotto 350g Varieties - **$3.79**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Invercargill
-    - Queenstown
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Avocados - **$0.59**
 
 #### Stores available: ####
@@ -65,7 +25,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -87,11 +49,8 @@
     - Cameron Road
     - Papamoa
     - Rotorua
-    - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -121,7 +80,6 @@
 - Magnum Luxe 4s - **$6.79**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Whole Beef Rump - **$13.79**
 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -155,7 +113,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -181,8 +141,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -217,7 +175,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -242,8 +202,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -279,7 +237,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Botany
@@ -303,8 +263,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -340,7 +298,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -365,8 +325,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -411,7 +369,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -437,8 +397,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -480,7 +438,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -497,7 +457,6 @@
     - Silverdale
     - Sylvia Park
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -505,8 +464,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -543,7 +500,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
+    - Riccarton
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -560,7 +519,6 @@
     - Silverdale
     - Sylvia Park
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -568,8 +526,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -579,7 +535,116 @@
     - Te Awamutu
     - Thames
 --- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Nelson
+    - Richmond
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Best Foods Real Mayonnaise 810g - **$10.99**
+- Bundaberg or Royal Crown Soft Drinks 340-375ml 4 Pack Varieties - **$5.49**
+- Cadbury Chocolate Block 150-190g Varieties - **$2.79**
+- Dilmah Premium Black Tea Bags 100 Pack - **$4.99**
+- Eta Ridgies 140g Varieties - **$1.99**
+- Graze Nut Mixes 400-625g Varieties - **$9.99**
+- Heinz Seriously Good Mayonnaise 285-295ml Varieties - **$4.99**
+- Hellers Streaky Bacon 800g - **$14.99**
+- Just Juice 2.4L Varieties - **$4.29**
+- Otis Oat Milk 1 Litre - **$3.79**
+- Pepsi/ 7UP or Mountain Dew 1.5L Varieties - **$2.49**
+- RJ's Licorice Bucket 600-800g Varieties - **$11.99**
+- Sanitarium Weet-Bix 750g - **$4.49**
+- Strawberries 250g Prepack - **$3.79**
+- Tegel Frozen Free Range Blue Bag 650-750g Varieties - **$8.49**
+- Temptations 180g - **$5.79**
+- Tomatoes Loose & Truss - **$2.99**
+- Tresemme Shampoo or Conditioner 940ml - **$7.79**
+- Wattie's Chilli Beans 420g Varieties - **$2.49**
+- Wattie's Tortellini or Risotto 350g Varieties - **$3.79**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
 ## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Galaxy Brie/Camembert Cheese 125g - **$3.00**
+- Hobsons Choice Bacon Pieces 800g - **$5.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+--- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Kapiti Yoghurt 450g - **$5.49**
 - Mainland Cheese Block Edam/Colby 700g - **$10.99**
@@ -638,6 +703,22 @@
     - Wairau Road
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Sylvia Park
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Avocados - **$3.50**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Ormiston
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
 - Brinks Chicken Kebabs 300g - **$6.99**
 - Coca-Cola 2.25L Range - **$6.00**
@@ -653,14 +734,6 @@
     - Warkworth
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
@@ -669,10 +742,12 @@
     - Albany
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Avocados - **$3.50**
+- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
+- Avocados - **$2.00**
+- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
-  - Auckland
-    - Ormiston
+  - Bay of Plenty
+    - Taupo
 --- 

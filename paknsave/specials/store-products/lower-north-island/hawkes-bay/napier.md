@@ -22,8 +22,10 @@
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$11.99**
 - Fresh Cut Lettuce - **$1.69**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
+- Galaxy Brie/Camembert Cheese 125g - **$3.00**
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
 - Heineken 330ml 24 Pack Bottles - **$40.99**
+- Hobsons Choice Bacon Pieces 800g - **$5.49**
 - Inghams Butterfly Chicken 1.1kg - **$8.99**
 - Juicies Frozen Fruit Juice Bar 10s - **$5.49**
 - Lamb Shoulder Chops - **$11.99**
