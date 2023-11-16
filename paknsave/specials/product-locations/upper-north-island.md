@@ -13,6 +13,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Papakura
@@ -65,6 +66,8 @@
 - McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
+- Pams Bunched Asparagus - **$4.50**
+- Tegel Free Range Quick Cook Chicken Range - **$5.99**
 - Tegel Nuggets 900g - **$10.99**
 - Whole Beef Rump - **$13.79**
 
@@ -85,6 +88,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -99,43 +103,6 @@
     - Cameron Road
     - Papamoa
     - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Pams Bunched Asparagus - **$4.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
     - Taupo
     - Tauriko
     - Whakatane
@@ -159,6 +126,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -167,43 +135,6 @@
     - Royal Oak
     - Silverdale
     - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Tegel Free Range Quick Cook Chicken Range - **$5.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
     - Westgate
   - Bay of Plenty
     - Cameron Road
@@ -241,6 +172,7 @@
     - Clendon
     - Glen Innes
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -278,6 +210,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -364,21 +297,6 @@
 - Upper North Island
   - Auckland
     - Ormiston
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
-- Brinks Chicken Kebabs 300g - **$6.99**
-- Coca-Cola 2.25L Range - **$6.00**
-- Coca-Cola 330ml 8pk Cans - **$7.99**
-- Nongshim Bowl Noodle 86g - **$2.49**
-- Otis Oat Milk Barista/Everyday - **$3.49**
-- Pascall Lollies 120-180g Range - **$2.49**
-- Whittakers Block Chocolate 250g - **$4.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Chicken Thighs Bone In Skin On - **$5.99**
