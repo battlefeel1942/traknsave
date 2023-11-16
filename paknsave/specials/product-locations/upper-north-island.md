@@ -13,9 +13,9 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
+    - Ormiston
     - Papakura
     - Pukekohe
     - Royal Oak
@@ -29,6 +29,8 @@
     - Rotorua
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -66,7 +68,7 @@
 - McCain Complex Vegetable Mixes/Baby Peas 1kg - **$3.99**
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
-- Pams Bunched Asparagus - **$4.50**
+- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Tegel Free Range Quick Cook Chicken Range - **$5.99**
 - Tegel Nuggets 900g - **$10.99**
 - Whole Beef Rump - **$13.79**
@@ -88,7 +90,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -106,6 +107,47 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Pams Bunched Asparagus - **$4.50**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -121,12 +163,12 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
     - Botany
     - Clendon
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -143,6 +185,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -172,7 +216,6 @@
     - Clendon
     - Glen Innes
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -182,6 +225,7 @@
     - Silverdale
     - Sylvia Park
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -189,44 +233,8 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -289,22 +297,6 @@
 - Upper North Island
   - Auckland
     - Sylvia Park
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Avocados - **$3.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Ormiston
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**

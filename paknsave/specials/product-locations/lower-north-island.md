@@ -149,15 +149,6 @@
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Galaxy Brie/Camembert Cheese 125g - **$3.00**
-- Hobsons Choice Bacon Pieces 800g - **$5.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Kapiti Yoghurt 450g - **$5.49**
 - Mainland Cheese Block Edam/Colby 700g - **$10.99**
 - Pams Middle Bacon 350g - **$5.49**
