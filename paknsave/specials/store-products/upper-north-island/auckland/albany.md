@@ -16,7 +16,7 @@
 - Broccoli - **$3.00**
 - Cadbury Favourites 265g/Roses 225g - **$3.99**
 - Carlsberg 330ml 12 Pack Bottles - **$21.49**
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Fisherking Natural Basa Fillets 1kg - **$7.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$11.99**
@@ -37,7 +37,6 @@
 - Much Moore Marvels Ice Cream 2L - **$3.79**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
 - Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Pams Bunched Asparagus - **$4.50**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
 - Steinlager Classic 330ml 15 Pack Bottles - **$24.99**

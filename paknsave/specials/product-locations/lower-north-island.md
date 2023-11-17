@@ -86,30 +86,6 @@
     - Porirua
     - Upper Hutt
 --- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Pams Bunched Asparagus - **$4.50**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Jar 170g - **$1.89**
 
@@ -148,6 +124,15 @@
     - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Galaxy Brie/Camembert Cheese 125g - **$3.00**
+- Hobsons Choice Bacon Pieces 800g - **$5.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+--- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Kapiti Yoghurt 450g - **$5.49**
 - Mainland Cheese Block Edam/Colby 700g - **$10.99**

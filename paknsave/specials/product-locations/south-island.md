@@ -29,15 +29,19 @@
     - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
-    - Queenstown
+    - Invercargill
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Can 120g - **$1.19**
 - Watties Baby Food Jar 170g - **$1.89**
@@ -75,7 +79,6 @@
 - Much Moore Marvels Ice Cream 2L - **$3.79**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
 - Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Pams Bunched Asparagus - **$4.50**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
 - Steinlager Classic 330ml 15 Pack Bottles - **$24.99**
@@ -94,11 +97,6 @@
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Rangiora
-  - Marlborough
-    - Blenheim
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:

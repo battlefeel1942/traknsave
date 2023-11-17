@@ -10,7 +10,7 @@
 - Angel Bay Gourmet Beef Meatball 525g - **$9.99**
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
-- Avocados - **$0.59**
+- Avocados - **$3.50**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$3.00**
@@ -37,7 +37,6 @@
 - Much Moore Marvels Ice Cream 2L - **$3.79**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
 - Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Pams Bunched Asparagus - **$4.50**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
 - Steinlager Classic 330ml 15 Pack Bottles - **$24.99**

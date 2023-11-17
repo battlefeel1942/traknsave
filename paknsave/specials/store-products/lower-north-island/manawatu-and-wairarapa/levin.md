@@ -28,7 +28,6 @@
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
 - Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Pams Bunched Asparagus - **$4.50**
 - Pams Middle Bacon 350g - **$5.49**
 - Pams Olive Table Spread 500g - **$2.99**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
