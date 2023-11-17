@@ -11,16 +11,12 @@
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Avocados - **$0.59**
-- Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
-- Brinks Chicken Kebabs 300g - **$6.99**
 - Broccoli - **$3.00**
 - Cadbury Favourites 265g/Roses 225g - **$3.99**
 - Carlsberg 330ml 12 Pack Bottles - **$21.49**
 - Chicken Thighs Bone In Skin On - **$6.49**
-- Coca-Cola 2.25L Range - **$6.00**
-- Coca-Cola 330ml 8pk Cans - **$7.99**
 - Export Gold 330ml 24 Pack Bottles - **$34.99**
 - Fisherking Natural Basa Fillets 1kg - **$7.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$11.99**
@@ -40,15 +36,12 @@
 - Mr Chips Fries 900g (Excludes Beer Batter/ Extra Crunch/Kumara) - **$3.29**
 - Much Moore Marvels Ice Cream 2L - **$3.79**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
-- Nongshim Bowl Noodle 86g - **$2.49**
-- Otis Oat Milk Barista/Everyday - **$3.49**
 - Oyster Bay Range 750ml (Excludes Sparkling/Pinot Noir) - **$13.99**
-- Pascall Lollies 120-180g Range - **$2.49**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Squealing Pig Range 750ml (Excludes Pinot Noir) - **$13.99**
 - Steinlager Classic 330ml 15 Pack Bottles - **$24.99**
+- Tegel Free Range Quick Cook Chicken Range - **$5.99**
 - Tegel Nuggets 900g - **$10.99**
-- Whittakers Block Chocolate 250g - **$4.99**
 - Whole Beef Rump - **$13.79**
 - Wither Hills Range 750ml (Excludes Wither Hills Red Range) - **$11.99**
 
