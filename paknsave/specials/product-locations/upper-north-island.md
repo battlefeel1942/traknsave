@@ -15,7 +15,6 @@
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Ormiston
     - Papakura
     - Pukekohe
     - Royal Oak
@@ -328,6 +327,14 @@
 - Upper North Island
   - Auckland
     - Westgate
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Avocados - **$3.50**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Ormiston
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**

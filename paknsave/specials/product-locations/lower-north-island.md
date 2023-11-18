@@ -63,13 +63,35 @@
     - Upper Hutt
 --- 
 ## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Avocados - **$0.59**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+--- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Jar 170g - **$1.89**
 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
-- Avocados - **$0.59**
 - Fisherking Natural Basa Fillets 1kg - **$7.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$11.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
@@ -102,6 +124,15 @@
     - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Galaxy Brie/Camembert Cheese 125g - **$3.00**
+- Hobsons Choice Bacon Pieces 800g - **$5.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+--- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Kapiti Yoghurt 450g - **$5.49**
 - Mainland Cheese Block Edam/Colby 700g - **$10.99**

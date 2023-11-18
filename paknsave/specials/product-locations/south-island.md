@@ -32,12 +32,12 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
@@ -97,6 +97,6 @@
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 --- 

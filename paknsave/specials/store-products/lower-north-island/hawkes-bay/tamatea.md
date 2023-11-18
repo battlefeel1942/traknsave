@@ -10,7 +10,6 @@
 - Angel Bay Gourmet Beef Meatball 525g - **$9.99**
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
-- Avocados - **$0.59**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$3.00**

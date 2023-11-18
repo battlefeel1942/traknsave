@@ -9,7 +9,6 @@
   - Hawkes Bay
     - Hastings
     - Napier
-    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
     - Palmerston North
@@ -25,8 +24,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -37,7 +36,6 @@
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Ormiston
     - Papakura
     - Pukekohe
     - Royal Oak
@@ -112,8 +110,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -173,8 +171,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Botany
@@ -232,8 +230,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -301,8 +299,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -368,8 +366,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -428,8 +426,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -487,8 +485,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Wainoni
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -553,16 +551,25 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Galaxy Brie/Camembert Cheese 125g - **$3.00**
+- Hobsons Choice Bacon Pieces 800g - **$5.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+--- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Kapiti Yoghurt 450g - **$5.49**
 - Mainland Cheese Block Edam/Colby 700g - **$10.99**
@@ -635,6 +642,14 @@
 - Upper North Island
   - Auckland
     - Westgate
+--- 
+### Product(s) - Ends 19 Nov 2023 (deal ends) ###
+- Avocados - **$3.50**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Ormiston
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
