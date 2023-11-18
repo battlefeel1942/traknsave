@@ -24,8 +24,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -36,6 +39,7 @@
     - Lincoln Road
     - Manukau
     - Mt Albert
+    - Ormiston
     - Papakura
     - Pukekohe
     - Royal Oak
@@ -47,6 +51,7 @@
     - Cameron Road
     - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
   - Northland
@@ -110,8 +115,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -171,8 +179,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Botany
@@ -230,8 +241,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -299,8 +313,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -366,8 +383,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -426,8 +446,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -485,8 +508,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
   - Otago and Southland
-    - Dunedin
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -549,16 +575,14 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
-    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
@@ -644,14 +668,6 @@
     - Westgate
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Avocados - **$3.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Ormiston
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
 - Brinks Chicken Kebabs 300g - **$6.99**
 - Coca-Cola 2.25L Range - **$6.00**
@@ -673,14 +689,4 @@
 - Upper North Island
   - Auckland
     - Albany
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
-- Avocados - **$2.00**
-- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 

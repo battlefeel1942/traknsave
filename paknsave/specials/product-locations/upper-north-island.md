@@ -1,42 +1,6 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Avocados - **$0.59**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Can 120g - **$1.19**
 - Watties Baby Food Jar 170g - **$1.89**
@@ -46,6 +10,7 @@
 - Angel Bay Beef Cheese 720g/Lite Beef Burger Patties 600g - **$9.99**
 - Angel Bay Gourmet Beef Meatball 525g - **$9.99**
 - Angel Bay Gourmet Veggie Patties 6s - **$9.99**
+- Avocados - **$0.59**
 - Beef Rump Steak - **$15.99**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$3.00**
@@ -329,14 +294,6 @@
     - Westgate
 --- 
 ### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- Avocados - **$3.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Ormiston
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
 - Beard Brothers Kiwi Classic Pork & Cress Sausages 500g - **$9.99**
 - Brinks Chicken Kebabs 300g - **$6.99**
 - Coca-Cola 2.25L Range - **$6.00**
@@ -358,14 +315,4 @@
 - Upper North Island
   - Auckland
     - Albany
---- 
-### Product(s) - Ends 19 Nov 2023 (deal ends) ###
-- 7UP/Mountain Dew/Pepsi 1.5L - **$4.00**
-- Avocados - **$2.00**
-- Griffins Choc Thins/Wheaten Biscuits 180-200g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 
