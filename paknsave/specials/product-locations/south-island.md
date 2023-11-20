@@ -25,17 +25,17 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
+    - Invercargill
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -58,7 +58,6 @@
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
 - Chicken Nibbles - **$6.99**
-- Chicken Thighs Bone In Skin On - **$6.49**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
 - Dole Bobby Bananas - **$3.00**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
@@ -91,9 +90,27 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 --- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$6.49**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Rangiora
+--- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Queenstown
+--- 

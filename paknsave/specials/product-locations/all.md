@@ -56,9 +56,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 - Upper North Island
   - Auckland
@@ -121,13 +121,10 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
-  - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Moorhouse
+    - Rangiora
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
@@ -139,7 +136,6 @@
     - Papakura
     - Pukekohe
     - Silverdale
-    - Sylvia Park
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -192,9 +188,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 - Upper North Island
   - Auckland
@@ -257,9 +253,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 - Upper North Island
   - Auckland
@@ -328,9 +324,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 - Upper North Island
   - Auckland
@@ -338,7 +334,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -396,9 +391,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Wainoni
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
-    - Invercargill
     - Queenstown
 - Upper North Island
   - Auckland
@@ -406,7 +401,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -466,17 +460,29 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
+    - Invercargill
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Queenstown
+- Upper North Island
+  - Auckland
+    - Albany
+    - Royal Oak
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -534,12 +540,12 @@
     - Wairau Road
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Royal Oak
+    - Sylvia Park
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beef Sirloin Whole - **$29.99**

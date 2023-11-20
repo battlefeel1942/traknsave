@@ -78,7 +78,6 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
@@ -90,7 +89,6 @@
     - Papakura
     - Pukekohe
     - Silverdale
-    - Sylvia Park
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -169,7 +167,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -193,6 +190,15 @@
     - Mill Street
     - Te Awamutu
     - Thames
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Royal Oak
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 05 Nov 2023 (deal ends) ###
@@ -241,12 +247,12 @@
     - Wairau Road
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$5.00**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Royal Oak
+    - Sylvia Park
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beef Sirloin Whole - **$29.99**
