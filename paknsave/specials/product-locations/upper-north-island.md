@@ -46,7 +46,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -85,13 +84,13 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
     - Silverdale
+    - Sylvia Park
     - Warkworth
     - Westgate
   - Bay of Plenty
@@ -122,7 +121,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -171,7 +169,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -243,14 +241,6 @@
     - Wairau Road
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
@@ -275,6 +265,18 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beehive Shoulder Bacon 200g - **$5.00**
+- Hellers Streaky Bacon 250g - **$5.00**
+- Lamb Leg Roast (Bone In) - **$13.99**
+- Skinless Chicken Breast - **$12.99**
+- Skinless Chicken Thigh Fillet - **$15.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beehive Peppered Ham 100g - **$5.00**
