@@ -20,8 +20,9 @@
 ## Product(s): Ends 26 Nov 2023 (deal ends)
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
+- Beehive Shoulder Bacon 200g - **$5.00**
 - Chicken Nibbles - **$6.99**
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
 - Dole Bobby Bananas - **$3.00**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
@@ -30,7 +31,9 @@
 - Haagen 330ml 12 Pack Bottles - **$17.99**
 - Heineken 330ml 12 Pack Bottles - **$22.99**
 - Heinz Seriously Good Aioli/Mayonnaise 295ml - **$3.99**
+- Hellers Streaky Bacon 250g - **$5.00**
 - Inghams Chicken Breast Nuggets 1kg - **$12.49**
+- Lamb Leg Roast (Bone In) - **$13.99**
 - Lamb Loin Chops - **$19.99**
 - Lindt Lindor Pouch Packs 123g-125g - **$5.00**
 - Loose/Truss Tomatoes - **$2.99**
@@ -43,6 +46,8 @@
 - R2E2 Mangoes - **$5.00**
 - Red/Yellow/Green Capsicums - **$5.00**
 - Seifried Estate Range 750ml - **$12.99**
+- Skinless Chicken Breast - **$12.99**
+- Skinless Chicken Thigh Fillet - **$15.99**
 - Somersby Cider 330ml 12 Pack Bottles - **$24.99**
 - Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
 - Steinlager Classic 330ml 24 Pack Bottles - **$38.49**

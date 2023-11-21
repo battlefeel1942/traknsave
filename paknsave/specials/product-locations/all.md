@@ -54,10 +54,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -84,6 +84,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -94,52 +96,32 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
     - New Plymouth
-    - Whanganui
   - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Porirua
-    - Upper Hutt
+    - Petone
+- South Island
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
-    - Glen Innes
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Wairau Road
-    - Warkworth
-    - Westgate
+    - Albany
+    - Royal Oak
   - Bay of Plenty
-    - Cameron Road
-    - Rotorua
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
+    - Papamoa
+    - Taupo
+  - Gisborne
+    - Gisborne City
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -173,10 +155,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -203,6 +185,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -237,10 +221,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -266,6 +250,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -307,17 +293,16 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -334,6 +319,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -374,17 +361,16 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -401,6 +387,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -411,30 +399,54 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
+    - Napier
     - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
   - Wellington
-    - Petone
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Henderson
-    - Royal Oak
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
     - Silverdale
+    - Wairau Road
+    - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Papamoa
-    - Taupo
+    - Cameron Road
+    - Rotorua
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Blue Royal Blueberries 125g Prepack - **$5.00**
@@ -460,18 +472,18 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
-    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -509,4 +521,16 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beehive Shoulder Bacon 200g - **$5.00**
+- Hellers Streaky Bacon 250g - **$5.00**
+- Lamb Leg Roast (Bone In) - **$13.99**
+- Skinless Chicken Breast - **$12.99**
+- Skinless Chicken Thigh Fillet - **$15.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 

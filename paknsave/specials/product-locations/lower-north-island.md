@@ -62,27 +62,18 @@
 --- 
 ## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
     - New Plymouth
-    - Whanganui
   - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Porirua
-    - Upper Hutt
+    - Petone
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -123,14 +114,25 @@
     - Upper Hutt
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
+    - Napier
     - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - Whanganui
   - Wellington
-    - Petone
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Porirua
+    - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###

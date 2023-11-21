@@ -64,6 +64,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -79,13 +81,17 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Botany
+    - Clendon
     - Glen Innes
+    - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
+    - Silverdale
     - Wairau Road
     - Warkworth
     - Westgate
@@ -132,6 +138,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -164,7 +172,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -181,6 +188,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -197,14 +206,12 @@
 - Upper North Island
   - Auckland
     - Albany
-    - Botany
-    - Clendon
-    - Henderson
     - Royal Oak
-    - Silverdale
   - Bay of Plenty
     - Papamoa
     - Taupo
+  - Gisborne
+    - Gisborne City
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -232,4 +239,16 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beehive Shoulder Bacon 200g - **$5.00**
+- Hellers Streaky Bacon 250g - **$5.00**
+- Lamb Leg Roast (Bone In) - **$13.99**
+- Skinless Chicken Breast - **$12.99**
+- Skinless Chicken Thigh Fillet - **$15.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
