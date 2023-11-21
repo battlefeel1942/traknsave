@@ -18,7 +18,6 @@
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
 - Chicken Nibbles - **$6.99**
-- Chicken Thighs Bone In Skin On - **$6.49**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
 - Dole Bobby Bananas - **$3.00**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
@@ -62,6 +61,29 @@
     - Upper Hutt
 --- 
 ## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$6.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Porirua
+    - Upper Hutt
+--- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Sileni Cellar Selection Range 750ml - **$11.99**
@@ -99,6 +121,16 @@
     - Petone
     - Porirua
     - Upper Hutt
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Tamatea
+  - Wellington
+    - Petone
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
