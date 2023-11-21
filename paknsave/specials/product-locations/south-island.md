@@ -28,15 +28,15 @@
     - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -90,9 +90,9 @@
 
 #### Stores available: ####
 - South Island
-  - Marlborough
-    - Blenheim
-  - Otago and Southland
-    - Queenstown
+  - Canterbury
+    - Rangiora
+    - Riccarton
+    - Timaru
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:

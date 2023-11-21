@@ -64,8 +64,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -81,8 +79,8 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
     - Botany
-    - Clendon
     - Glen Innes
     - Henderson
     - Lincoln Road
@@ -96,12 +94,12 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
-    - Cameron Road
+    - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
     - Whakatane
   - Northland
-    - Kaitaia
     - Whangarei
   - Waikato
     - Clarence Street
@@ -138,8 +136,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -188,8 +184,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -205,13 +199,12 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
+    - Clendon
     - Royal Oak
   - Bay of Plenty
-    - Papamoa
-    - Taupo
-  - Gisborne
-    - Gisborne City
+    - Cameron Road
+  - Northland
+    - Kaitaia
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -251,4 +244,14 @@
 - Upper North Island
   - Auckland
     - Silverdale
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beehive Peppered Ham 100g - **$5.00**
+- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
+- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
 --- 

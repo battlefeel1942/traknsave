@@ -20,8 +20,9 @@
 ## Product(s): Ends 26 Nov 2023 (deal ends)
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
+- Beehive Peppered Ham 100g - **$5.00**
 - Chicken Nibbles - **$6.99**
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
 - Dole Bobby Bananas - **$3.00**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
@@ -34,8 +35,10 @@
 - Lamb Loin Chops - **$19.99**
 - Lindt Lindor Pouch Packs 123g-125g - **$5.00**
 - Loose/Truss Tomatoes - **$2.99**
+- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
 - Mandarins - **$5.00**
 - McCain Beer Batter Chips 750g - **$4.29**
+- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
 - Nescafé Gold Coffee Jar 90g-100g - **$7.89**
 - Nestl� Scorched Almonds 225g/240g - **$5.00**
 - Nivea Aerosol Deodorant 250ml - **$5.79**
