@@ -21,7 +21,7 @@
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
 - Chicken Nibbles - **$6.99**
-- Chicken Thighs Bone In Skin On - **$5.00**
+- Chicken Thighs Bone In Skin On - **$5.99**
 - Corona Extra 355ml 18 Pack Bottles - **$38.99**
 - Dole Bobby Bananas - **$3.00**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**

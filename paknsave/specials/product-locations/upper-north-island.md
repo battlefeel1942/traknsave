@@ -83,27 +83,22 @@
     - Albany
     - Botany
     - Clendon
-    - Glen Innes
-    - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Papakura
-    - Pukekohe
+    - Ormiston
     - Silverdale
     - Wairau Road
-    - Westgate
   - Bay of Plenty
     - Cameron Road
+    - Papamoa
     - Rotorua
-    - Taupo
-    - Whakatane
+    - Tauriko
   - Northland
     - Kaitaia
     - Whangarei
   - Waikato
     - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -130,6 +125,7 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -139,6 +135,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -161,22 +158,21 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Ormiston
+    - Glen Innes
+    - Henderson
+    - Papakura
+    - Pukekohe
     - Royal Oak
+    - Sylvia Park
     - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Papamoa
-    - Tauriko
+    - Taupo
+    - Whakatane
+  - Waikato
+    - Mill Street
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
---- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beehive Shoulder Bacon 200g - **$5.00**
 - Hellers Streaky Bacon 250g - **$5.00**
@@ -188,14 +184,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Beehive Peppered Ham 100g - **$5.00**
-- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
-- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 
