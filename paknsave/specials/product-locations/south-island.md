@@ -28,16 +28,18 @@
     - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
     - Queenstown
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Cartel Burrito 200g - **$5.00**
@@ -90,9 +92,6 @@
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Rangiora
-    - Riccarton
-    - Timaru
+  - Nelson
+    - Richmond
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:

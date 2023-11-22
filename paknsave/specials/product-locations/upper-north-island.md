@@ -86,20 +86,19 @@
     - Lincoln Road
     - Manukau
     - Mt Albert
-    - Ormiston
-    - Papakura
     - Pukekohe
-    - Silverdale
     - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
     - Clarence Street
@@ -200,11 +199,10 @@
 - Upper North Island
   - Auckland
     - Clendon
+    - Ormiston
+    - Papakura
     - Royal Oak
-  - Bay of Plenty
-    - Cameron Road
-  - Northland
-    - Kaitaia
+    - Silverdale
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -232,18 +230,6 @@
 - Upper North Island
   - Auckland
     - Warkworth
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Beehive Shoulder Bacon 200g - **$5.00**
-- Hellers Streaky Bacon 250g - **$5.00**
-- Lamb Leg Roast (Bone In) - **$13.99**
-- Skinless Chicken Breast - **$12.99**
-- Skinless Chicken Thigh Fillet - **$15.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beehive Peppered Ham 100g - **$5.00**

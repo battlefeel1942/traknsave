@@ -79,6 +79,9 @@
     - Whanganui
   - Wellington
     - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
     - Porirua
     - Upper Hutt
 --- 
@@ -120,18 +123,6 @@
     - Porirua
     - Upper Hutt
 --- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Manawatu and Wairarapa
-    - Palmerston North
-  - Wellington
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
---- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Anchor Probiotic + Yoghurt 4pk Range - **$5.49**
@@ -142,4 +133,12 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Palmerston North
 --- 
