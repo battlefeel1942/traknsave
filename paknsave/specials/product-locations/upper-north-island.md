@@ -79,27 +79,25 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Albany
-    - Clendon
+    - Botany
     - Glen Innes
+    - Henderson
     - Lincoln Road
-    - Manukau
-    - Papakura
+    - Mt Albert
+    - Ormiston
+    - Pukekohe
     - Silverdale
     - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
-    - Cameron Road
     - Papamoa
     - Rotorua
-    - Tauriko
     - Whakatane
   - Northland
-    - Kaitaia
     - Whangarei
   - Waikato
-    - Mill Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -163,9 +161,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -196,17 +192,20 @@
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Botany
-    - Henderson
-    - Mt Albert
-    - Ormiston
-    - Pukekohe
+    - Albany
+    - Clendon
+    - Manukau
+    - Papakura
     - Royal Oak
   - Bay of Plenty
+    - Cameron Road
     - Taupo
+    - Tauriko
+  - Northland
+    - Kaitaia
   - Waikato
     - Clarence Street
-    - Te Awamutu
+    - Mill Street
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
