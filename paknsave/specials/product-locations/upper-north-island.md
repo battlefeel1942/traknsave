@@ -35,7 +35,6 @@
 - Nivea Aerosol Deodorant 250ml - **$5.79**
 - R2E2 Mangoes - **$5.00**
 - Red/Yellow/Green Capsicums - **$5.00**
-- Value Raw Prawn Mixed Grade Meat 1kg - **$17.99**
 - Vanish Napisan Oxiaction 3kg - **$21.99**
 
 #### Stores available: ####
@@ -75,7 +74,21 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Papakura
+    - Royal Oak
+  - Bay of Plenty
+    - Tauriko
+  - Northland
+    - Kaitaia
+    - Whangarei
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Value Raw Prawn Mixed Grade Meat 1kg - **$17.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -83,22 +96,32 @@
     - Albany
     - Botany
     - Clendon
+    - Glen Innes
+    - Henderson
     - Lincoln Road
     - Manukau
     - Mt Albert
     - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
     - Silverdale
+    - Sylvia Park
     - Wairau Road
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
+    - Taupo
     - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
   - Waikato
     - Clarence Street
+    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -125,7 +148,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -135,7 +157,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -153,26 +174,64 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Albany
+    - Botany
+    - Clendon
     - Glen Innes
     - Henderson
-    - Papakura
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
     - Pukekohe
-    - Royal Oak
-    - Sylvia Park
+    - Silverdale
+    - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
     - Taupo
     - Whakatane
   - Waikato
+    - Clarence Street
     - Mill Street
+    - Te Awamutu
+    - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Chicken Thighs Bone In Skin On - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Sylvia Park
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beef Sirloin Whole - **$29.99**
+- Coca-Cola 1.5L - **$5.00**
+- Coca-Cola 330ml Can 24pk - **$20.99**
+- Eta Uppercut Deli Cut Chips 140g - **$5.00**
+- Fisherking Panko Crumb Squid Chips 375g - **$5.00**
+- Fresh Up Juice 1L - **$5.00**
+- Harmony Classic Pure Beef Sausages 480g - **$9.99**
+- Just Juice 2.4L - **$3.99**
+- Nestle Reduced Cream 230ml - **$5.00**
+- Regal Hot Smoked Salmon 100g - **$8.79**
+- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Beehive Shoulder Bacon 200g - **$5.00**
 - Hellers Streaky Bacon 250g - **$5.00**
@@ -184,4 +243,14 @@
 - Upper North Island
   - Auckland
     - Silverdale
+--- 
+### Product(s) - Ends 26 Nov 2023 (deal ends) ###
+- Beehive Peppered Ham 100g - **$5.00**
+- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
+- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Taupo
 --- 
