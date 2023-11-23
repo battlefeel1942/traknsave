@@ -68,17 +68,15 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
     - New Plymouth
+    - Whanganui
   - Wellington
-    - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
@@ -127,9 +125,12 @@
 
 #### Stores available: ####
 - Lower North Island
+  - Hawkes Bay
+    - Napier
   - Taranaki and Wanganui
-    - Whanganui
+    - Hawera
   - Wellington
+    - Kapiti
     - Porirua
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:

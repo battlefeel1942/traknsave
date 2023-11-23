@@ -54,8 +54,12 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -98,17 +102,15 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
-    - Hawera
     - New Plymouth
+    - Whanganui
   - Wellington
-    - Kapiti
     - Kilbirnie
     - Lower Hutt
     - Petone
@@ -116,15 +118,11 @@
 - Upper North Island
   - Auckland
     - Albany
-    - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Lincoln Road
     - Manukau
-    - Mt Albert
-    - Ormiston
-    - Pukekohe
+    - Papakura
     - Silverdale
     - Wairau Road
     - Warkworth
@@ -133,12 +131,13 @@
     - Cameron Road
     - Papamoa
     - Rotorua
-    - Taupo
+    - Tauriko
     - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
   - Waikato
-    - Clarence Street
     - Mill Street
-    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
@@ -173,8 +172,12 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -235,8 +238,12 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -303,15 +310,21 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -367,15 +380,21 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -405,33 +424,33 @@
 
 #### Stores available: ####
 - Lower North Island
+  - Hawkes Bay
+    - Napier
   - Taranaki and Wanganui
-    - Whanganui
+    - Hawera
   - Wellington
+    - Kapiti
     - Porirua
 - South Island
-  - Nelson
-    - Richmond
+  - Canterbury
+    - Moorhouse
+    - Wainoni
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
-    - Papakura
+    - Botany
+    - Henderson
+    - Mt Albert
+    - Ormiston
+    - Pukekohe
     - Royal Oak
   - Bay of Plenty
-    - Tauriko
-  - Northland
-    - Kaitaia
-    - Whangarei
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Manawatu and Wairarapa
-    - Levin
-- Upper North Island
-  - Bay of Plenty
     - Taupo
+  - Waikato
+    - Clarence Street
+    - Te Awamutu
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Blue Royal Blueberries 125g Prepack - **$5.00**
@@ -458,22 +477,21 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
-    - Invercargill
-    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Anchor Probiotic + Yoghurt 4pk Range - **$5.49**
+- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
 - Pams Canola Spread 1kg - **$4.99**
 
 #### Stores available: ####
@@ -518,13 +536,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Beehive Peppered Ham 100g - **$5.00**
-- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 
