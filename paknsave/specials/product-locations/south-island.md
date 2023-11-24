@@ -53,10 +53,11 @@
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Rangiora
   - Nelson
     - Richmond
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Blue Royal Blueberries 125g Prepack - **$5.00**
@@ -85,6 +86,7 @@
     - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -92,7 +94,5 @@
     - Blenheim
   - Otago and Southland
     - Dunedin
-    - Invercargill
-    - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
