@@ -53,9 +53,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -64,7 +61,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -104,41 +100,42 @@
   - Manawatu and Wairarapa
     - Levin
     - Masterton
+    - Palmerston North
   - Taranaki and Wanganui
+    - Hawera
     - New Plymouth
     - Whanganui
   - Wellington
-    - Kapiti
     - Kilbirnie
     - Lower Hutt
-    - Petone
     - Porirua
-    - Upper Hutt
 - Upper North Island
   - Auckland
+    - Albany
     - Botany
     - Clendon
+    - Glen Innes
     - Henderson
-    - Lincoln Road
+    - Manukau
     - Mt Albert
     - Ormiston
+    - Papakura
     - Pukekohe
     - Silverdale
+    - Wairau Road
     - Warkworth
     - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
     - Rotorua
-    - Taupo
     - Tauriko
     - Whakatane
   - Northland
-    - Whangarei
+    - Kaitaia
   - Waikato
     - Clarence Street
     - Mill Street
-    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
@@ -172,9 +169,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -183,7 +177,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -235,9 +228,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -246,7 +236,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -304,16 +293,13 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -369,16 +355,13 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -409,35 +392,20 @@
 
 #### Stores available: ####
 - Lower North Island
-  - Manawatu and Wairarapa
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-- South Island
-  - Canterbury
-    - Hornby
+  - Wellington
+    - Kapiti
+    - Petone
+    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
-    - Glen Innes
-    - Mangere
-    - Manukau
-    - Papakura
+    - Lincoln Road
     - Royal Oak
-    - Wairau Road
-  - Northland
-    - Kaitaia
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Manawatu and Wairarapa
-    - Levin
-- Upper North Island
   - Bay of Plenty
     - Taupo
+  - Northland
+    - Whangarei
+  - Waikato
+    - Te Awamutu
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Blue Royal Blueberries 125g Prepack - **$5.00**
@@ -463,6 +431,7 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
@@ -481,6 +450,7 @@
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Anchor Probiotic + Yoghurt 4pk Range - **$5.49**
+- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
 - Pams Canola Spread 1kg - **$4.99**
 
 #### Stores available: ####
@@ -525,13 +495,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Beehive Peppered Ham 100g - **$5.00**
-- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 

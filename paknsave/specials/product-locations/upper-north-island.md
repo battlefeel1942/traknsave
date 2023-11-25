@@ -46,7 +46,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -75,35 +74,19 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Botany
-    - Clendon
-    - Henderson
     - Lincoln Road
-    - Mt Albert
-    - Ormiston
-    - Pukekohe
-    - Silverdale
-    - Warkworth
-    - Westgate
+    - Royal Oak
   - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
     - Taupo
-    - Tauriko
-    - Whakatane
   - Northland
     - Whangarei
   - Waikato
-    - Clarence Street
-    - Mill Street
     - Te Awamutu
-    - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Value Raw Prawn Mixed Grade Meat 1kg - **$17.99**
@@ -117,7 +100,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -167,7 +149,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -194,20 +176,37 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
     - Albany
+    - Botany
+    - Clendon
     - Glen Innes
-    - Mangere
+    - Henderson
     - Manukau
+    - Mt Albert
+    - Ormiston
     - Papakura
-    - Royal Oak
+    - Pukekohe
+    - Silverdale
     - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
@@ -247,14 +246,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Beehive Peppered Ham 100g - **$5.00**
-- Macleans Toothpaste Protect Mild Mint 170g - **$2.00**
-- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
-
-#### Stores available: ####
-- Upper North Island
-  - Bay of Plenty
-    - Taupo
 --- 
