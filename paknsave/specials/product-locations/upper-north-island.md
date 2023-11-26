@@ -80,18 +80,14 @@
 - Upper North Island
   - Auckland
     - Botany
-    - Clendon
-    - Glen Innes
     - Henderson
     - Lincoln Road
     - Manukau
-    - Mt Albert
     - Papakura
     - Pukekohe
     - Silverdale
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -99,7 +95,6 @@
     - Tauriko
     - Whakatane
   - Northland
-    - Kaitaia
     - Whangarei
   - Waikato
     - Clarence Street
@@ -169,6 +164,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -177,6 +173,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -200,10 +197,16 @@
 - Upper North Island
   - Auckland
     - Albany
+    - Clendon
+    - Glen Innes
+    - Mt Albert
     - Ormiston
     - Royal Oak
+    - Westgate
   - Bay of Plenty
     - Taupo
+  - Northland
+    - Kaitaia
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
