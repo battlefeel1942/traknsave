@@ -14,30 +14,6 @@
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Can 120g - **$1.19**
 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
-- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**
-- Chicken Nibbles - **$6.99**
-- Corona Extra 355ml 18 Pack Bottles - **$38.99**
-- Dole Bobby Bananas - **$3.00**
-- Fresh Snapper Fillets Catch Permitting - **$42.99**
-- Haagen 330ml 12 Pack Bottles - **$17.99**
-- Heineken 330ml 12 Pack Bottles - **$22.99**
-- Heinz Seriously Good Aioli/Mayonnaise 295ml - **$3.99**
-- Inghams Chicken Breast Nuggets 1kg - **$12.49**
-- Lamb Loin Chops - **$19.99**
-- Lindt Lindor Pouch Packs 123g-125g - **$5.00**
-- Loose/Truss Tomatoes - **$2.99**
-- Mandarins - **$5.00**
-- Nescafé Gold Coffee Jar 90g-100g - **$7.89**
-- Nestl� Scorched Almonds 225g/240g - **$5.00**
-- Nivea Aerosol Deodorant 250ml - **$5.79**
-- R2E2 Mangoes - **$5.00**
-- Red/Yellow/Green Capsicums - **$5.00**
-- Steinlager Classic 330ml 24 Pack Bottles - **$38.49**
-- Value Raw Prawn Mixed Grade Meat 1kg - **$17.99**
-- Vanish Napisan Oxiaction 3kg - **$21.99**
-
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
@@ -61,18 +37,6 @@
     - Upper Hutt
 --- 
 ## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-  - Manawatu and Wairarapa
-    - Palmerston North
-  - Wellington
-    - Kapiti
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Sileni Cellar Selection Range 750ml - **$11.99**
@@ -80,16 +44,6 @@
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Jar 170g - **$1.89**
 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Fresh Bluff Salmon Gilled/Gutted - **$29.99**
-- Fresh Bluff Salmon Steaks - **$34.99**
-- McCain Beer Batter Chips 750g - **$4.29**
-- Pure Blonde 355ml 12 Pack Bottles - **$22.99**
-- Seifried Estate Range 750ml - **$12.99**
-- Somersby Cider 330ml 12 Pack Bottles - **$24.99**
-- Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
-- The Peoples Range 750ml (Excludes Pinot Noir/Methode) - **$12.99**
-
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
@@ -111,36 +65,4 @@
     - Porirua
     - Upper Hutt
 --- 
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
-### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Anchor Probiotic + Yoghurt 4pk Range - **$5.49**
-- Meadowfresh Yoghurt Pouches 70g Range - **$1.49**
-- Pams Canola Spread 1kg - **$4.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Manawatu and Wairarapa
-    - Levin
---- 
