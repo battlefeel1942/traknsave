@@ -74,19 +74,38 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$5.99**
+- Chicken Thighs Bone In Skin On - **$6.49**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
     - Lincoln Road
-    - Royal Oak
+    - Manukau
+    - Mt Albert
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Wairau Road
+    - Warkworth
+    - Westgate
   - Bay of Plenty
-    - Taupo
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Tauriko
+    - Whakatane
   - Northland
+    - Kaitaia
     - Whangarei
   - Waikato
+    - Clarence Street
+    - Mill Street
     - Te Awamutu
+    - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Value Raw Prawn Mixed Grade Meat 1kg - **$17.99**
@@ -149,7 +168,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -176,37 +194,16 @@
     - Thames
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
-- Chicken Thighs Bone In Skin On - **$6.49**
+- Chicken Thighs Bone In Skin On - **$5.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
     - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Manukau
-    - Mt Albert
     - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Wairau Road
-    - Warkworth
-    - Westgate
+    - Royal Oak
   - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Thames
+    - Taupo
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###

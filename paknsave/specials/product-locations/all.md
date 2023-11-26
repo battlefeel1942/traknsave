@@ -53,6 +53,12 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -99,26 +105,25 @@
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kilbirnie
     - Lower Hutt
+    - Petone
     - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
     - Henderson
+    - Lincoln Road
     - Manukau
     - Mt Albert
-    - Ormiston
     - Papakura
     - Pukekohe
     - Silverdale
@@ -133,9 +138,11 @@
     - Whakatane
   - Northland
     - Kaitaia
+    - Whangarei
   - Waikato
     - Clarence Street
     - Mill Street
+    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
@@ -169,6 +176,12 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -228,6 +241,12 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -293,13 +312,18 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -355,13 +379,18 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -392,20 +421,25 @@
 
 #### Stores available: ####
 - Lower North Island
+  - Manawatu and Wairarapa
+    - Masterton
+  - Taranaki and Wanganui
+    - New Plymouth
   - Wellington
     - Kapiti
-    - Petone
-    - Upper Hutt
+- South Island
+  - Canterbury
+    - Rangiora
+    - Riccarton
+  - Otago and Southland
+    - Invercargill
 - Upper North Island
   - Auckland
-    - Lincoln Road
+    - Albany
+    - Ormiston
     - Royal Oak
   - Bay of Plenty
     - Taupo
-  - Northland
-    - Whangarei
-  - Waikato
-    - Te Awamutu
 --- 
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Blue Royal Blueberries 125g Prepack - **$5.00**
@@ -434,8 +468,6 @@
     - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
-    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -444,7 +476,6 @@
     - Richmond
   - Otago and Southland
     - Dunedin
-    - Invercargill
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:

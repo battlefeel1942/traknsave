@@ -72,16 +72,16 @@
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
-    - New Plymouth
     - Whanganui
   - Wellington
     - Kilbirnie
     - Lower Hutt
+    - Petone
     - Porirua
+    - Upper Hutt
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -126,10 +126,12 @@
 
 #### Stores available: ####
 - Lower North Island
+  - Manawatu and Wairarapa
+    - Masterton
+  - Taranaki and Wanganui
+    - New Plymouth
   - Wellington
     - Kapiti
-    - Petone
-    - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
