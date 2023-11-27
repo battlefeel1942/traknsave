@@ -143,6 +143,15 @@
     - Hastings
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Beehive Streaky Bacon 250g - **$5.00**
+- Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Greggs Jelly 85g Range - **$5.00**
 - Kapiti Yoghurt 450g - **$5.00**
 - Pams Smoked Streaky Bacon 250g - **$5.00**

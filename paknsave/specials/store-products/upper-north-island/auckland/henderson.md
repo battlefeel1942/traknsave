@@ -24,6 +24,8 @@
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
 - Frozen Pork Spare Ribs - **$9.99**
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
+- Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
+- Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
 - Heineken 330ml 24 Pack Bottles - **$41.99**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
@@ -35,12 +37,16 @@
 - Mandarins - **$5.00**
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
+- Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
+- Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
 - R2E2 Mangoes - **$5.00**
 - Red/Yellow/Green Capsicums - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
+- Sileni Cellar Selection Range 750ml - **$11.99**
+- Sileni Cellar Selection Range 750ml - **$11.99**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Tip Top Ice Cream 2L - **$5.00**

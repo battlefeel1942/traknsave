@@ -40,6 +40,7 @@
 - Nivea Roll On Anti-Perspirant 50ml - **$3.59**
 - Surf Laundry Liquid 1L - **$5.99**
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -67,6 +68,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -117,6 +120,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -125,43 +130,6 @@
     - Mill Street
     - Te Awamutu
     - Thames
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
@@ -193,6 +161,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -212,6 +182,7 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -228,6 +199,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -274,6 +247,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -351,6 +326,19 @@
 - Upper North Island
   - Auckland
     - Pukekohe
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
+- Beehive Streaky Bacon 800g - **$14.99**
+- Chicken Thigh Fillet Skinless - **$15.99**
+- Chicken Thighs Bone In - **$5.00**
+- Fresh n Fruity Yoghurt 6pk Range - **$3.99**
+- Lamb Shoulder Chops - **$14.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$5.00**

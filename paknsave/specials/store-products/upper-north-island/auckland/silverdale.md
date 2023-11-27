@@ -2,11 +2,13 @@
 
 ## Product(s): Ends 03 Dec 2023 (deal ends)
 - All Rounders Potatoes 2.5kg - **$5.00**
+- Anchor Protein Plus Yoghurt 950g - **$7.29**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Beef Schnitzel - **$16.99**
+- Beehive Streaky Bacon 800g - **$14.99**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$0.99**
@@ -14,6 +16,8 @@
 - Cartel Burrito 200g - **$5.00**
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
+- Chicken Thigh Fillet Skinless - **$15.99**
+- Chicken Thighs Bone In - **$5.00**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
 - Courgettes - **$3.99**
 - Dole Bobby Bananas - **$3.00**
@@ -21,6 +25,7 @@
 - Export Gold 330ml 24 Pack Bottles - **$33.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
+- Fresh n Fruity Yoghurt 6pk Range - **$3.99**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
 - Frozen Pork Spare Ribs - **$9.99**
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
@@ -30,6 +35,7 @@
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
+- Lamb Shoulder Chops - **$14.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - Loose White Button Mushrooms - **$8.99**
