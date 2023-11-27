@@ -9,6 +9,7 @@
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
+- Courgettes - **$3.99**
 - Dole Bobby Bananas - **$3.00**
 - Export 33 330ml 12 Pack Bottles - **$21.49**
 - Export Gold 330ml 24 Pack Bottles - **$33.99**
@@ -109,39 +110,7 @@
     - Porirua
     - Upper Hutt
 --- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$3.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$4.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Beehive Streaky Bacon 250g - **$5.00**
 - Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**

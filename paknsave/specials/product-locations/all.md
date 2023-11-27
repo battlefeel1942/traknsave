@@ -2,32 +2,11 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- All Rounders Potatoes 2.5kg - **$5.00**
-- Beef Schnitzel - **$16.99**
-- Blueberries Punnet 125g - **$3.99**
-- Chicken Breast Fillets Skinless - **$10.99**
 - Dole Bobby Bananas - **$3.00**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-- Fresh Trevally Fillets Catch Permitting - **$26.99**
-- Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Loose White Button Mushrooms - **$8.99**
 - Loose/Truss Tomatoes - **$2.99**
 - Mandarins - **$5.00**
-- Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
 - R2E2 Mangoes - **$5.00**
 - Red/Yellow/Green Capsicums - **$5.00**
-- Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
-
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Best Foods Real Mayonnaise 405g/435g - **$5.49**
-- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
-- Libra Tampon Super 16s - **$3.89**
-- Libra Tampons 16s - **$3.89**
-- Libra Ultra Thins Wing 12s-14s - **$3.89**
-- Natureland Baby Food Pouch 120g - **$5.00**
-- Nivea Roll On Anti-Perspirant 50ml - **$3.59**
-- Surf Laundry Liquid 1L - **$5.99**
-- Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 
 #### Stores available: ####
 - Lower North Island
@@ -51,14 +30,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
@@ -81,8 +56,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -158,8 +131,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -170,19 +141,28 @@
     - Thames
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
-- Frozen Pork Spare Ribs - **$9.99**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
-- Lets Eat Plant Based Tenders 400g - **$9.99**
-- McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
-- Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
-- Waitoa Free Range Chicken 300g -450g - **$9.99**
+- All Rounders Potatoes 2.5kg - **$5.00**
+- Beef Schnitzel - **$16.99**
+- Blueberries Punnet 125g - **$3.99**
+- Chicken Breast Fillets Skinless - **$10.99**
+- Courgettes - **$3.99**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+- Fresh Trevally Fillets Catch Permitting - **$26.99**
+- Frozen Lamb Leg Roast (Bone In) - **$10.99**
+- Loose White Button Mushrooms - **$8.99**
+- Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
+- Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Avalanche Roasted & Ground Coffee 200g - **$5.00**
-- Delmaine Olives Pitted/Stuffed 450g - **$5.00**
-- Moccona Coffee Mixes 20s - **$8.49**
-- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
+- Best Foods Real Mayonnaise 405g/435g - **$5.49**
+- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
+- Libra Tampon Super 16s - **$3.89**
+- Libra Tampons 16s - **$3.89**
+- Libra Ultra Thins Wing 12s-14s - **$3.89**
+- Natureland Baby Food Pouch 120g - **$5.00**
+- Nivea Roll On Anti-Perspirant 50ml - **$3.59**
+- Surf Laundry Liquid 1L - **$5.99**
+- Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 
 #### Stores available: ####
 - Lower North Island
@@ -191,6 +171,7 @@
     - Napier
     - Tamatea
   - Manawatu and Wairarapa
+    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -205,11 +186,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -235,8 +213,77 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
+- Frozen Pork Spare Ribs - **$9.99**
+- Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
+- Lets Eat Plant Based Tenders 400g - **$9.99**
+- McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
+- Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
+- Waitoa Free Range Chicken 300g -450g - **$9.99**
+
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Avalanche Roasted & Ground Coffee 200g - **$5.00**
+- Delmaine Olives Pitted/Stuffed 450g - **$5.00**
+- Moccona Coffee Mixes 20s - **$8.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
@@ -273,11 +320,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -304,8 +348,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -314,6 +356,65 @@
     - Mill Street
     - Te Awamutu
     - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -349,11 +450,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -380,8 +478,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -417,11 +513,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -447,8 +540,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -482,19 +573,16 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -510,8 +598,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -549,11 +635,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -578,8 +661,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -618,11 +699,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -647,73 +725,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$3.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -748,26 +759,21 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$4.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Beehive Streaky Bacon 250g - **$5.00**
 - Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
@@ -834,26 +840,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Hellers Precooked Sausages 2kg - **$18.99**
-- Premium Beef Mince - **$18.99**
-- Prime Beef Mince - **$14.99**
-- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
-- Tegel Chicken Kebabs 6pk - **$7.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
---- 
-### Product(s) - Ends 30 Dec 2023 (deal ends) ###
-- Wakachangi Lager 24pk Cans - **$30.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Anchor Protein Plus Yoghurt 950g - **$7.29**

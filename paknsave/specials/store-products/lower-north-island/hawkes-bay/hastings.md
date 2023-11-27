@@ -15,7 +15,7 @@
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
-- Courgettes - **$4.99**
+- Courgettes - **$3.99**
 - Dole Bobby Bananas - **$3.00**
 - Export 33 330ml 12 Pack Bottles - **$21.49**
 - Export Gold 330ml 24 Pack Bottles - **$33.99**
