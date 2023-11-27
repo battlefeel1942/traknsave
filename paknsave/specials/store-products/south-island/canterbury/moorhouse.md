@@ -1,19 +1,24 @@
 # Products for Moorhouse PAK'nSAVE
 
 ## Product(s): Ends 03 Dec 2023 (deal ends)
-- Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
-- Cartel Burrito 200g - **$5.00**
-- Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
-- Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
-- Sileni Cellar Selection Range 750ml - **$11.99**
-- Tip Top Ice Cream 2L - **$5.00**
-- Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
-- Tip Top Popsicle Multi 10s - **$5.00**
-- Watties Snack Meals 250g-270g - **$5.00**
-
-## Product(s): Ends 10 Dec 2023 (deal ends)
-- Watties Baby Food Can 120g - **$1.19**
-- Watties Baby Food Jar 170g - **$1.89**
+- Arnott's Tim Tams 160-200g Varieties - **$5.00**
+- Balducci Pasta 500g Varieties - **$5.00**
+- Barker's Chutney or Marinade 190-300g Varieties - **$4.49**
+- Bluebird Chips 140-150g Varieties - **$1.99**
+- Broccoli - **$0.99**
+- Cadbury Novelty Bar 22-60g Varieties - **$5.00**
+- Fab Laundry Liquid 900ml-1L Varieties - **$5.00**
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$5.00**
+- Fresh'n Fruity Yoghurt 1kg Varieties - **$5.00**
+- Gregg's Herbs or Spices 7-65g Varieties - **$5.00**
+- Heartland Premium Thin Cut or Ultimate Wave Chips 140g Varieties - **$5.00**
+- Much Moore Marvels Ice Cream 2L Varieties - **$5.00**
+- Nature's Fresh Buns or Roll's 6 Pack Varieties - **$3.29**
+- Pantene Pro-V Shampoo or Conditioner 180-375ml - **$5.00**
+- Pedigree Dry 2.5-3kg - **$15.29**
+- Queen Anne Chocolate Fish Bites 170g Varieties - **$7.29**
+- RJ's Licorice Bucket 600-800g Varieties - **$11.99**
+- Robert Harris Coffee 200g or Capsules 10 Pack Varieties - **$5.00**
+- Shore Mariner FIsh Bites 400g Varieties - **$5.00**
+- V Energy Drink 250ml 4 Pack Can Varieties - **$5.00**
 
