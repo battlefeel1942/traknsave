@@ -82,6 +82,3 @@
 - Watties Baby Food Jar 170g - **$1.89**
 - Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
-## Product(s): Ends 30 Dec 2023 (deal ends)
-- Wakachangi Lager 24pk Cans - **$30.99**
-

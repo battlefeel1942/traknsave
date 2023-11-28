@@ -49,7 +49,6 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Timaru
     - Wainoni
   - Marlborough
@@ -58,7 +57,6 @@
     - Richmond
   - Otago and Southland
     - Invercargill
-    - Queenstown
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
@@ -124,9 +122,11 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Northlands
     - Rangiora
     - Riccarton
   - Otago and Southland
     - Dunedin
+    - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:

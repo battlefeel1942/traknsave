@@ -7,6 +7,7 @@
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Beef Schnitzel - **$16.99**
+- Beehive Streaky Bacon 250g - **$5.00**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
 - Blueberries Punnet 125g - **$3.99**
 - Broccoli - **$0.99**
@@ -32,6 +33,7 @@
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
+- Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
 - Loose White Button Mushrooms - **$8.99**
 - Loose/Truss Tomatoes - **$2.99**
 - Mandarins - **$5.00**
