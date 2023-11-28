@@ -50,7 +50,6 @@
     - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -60,9 +59,7 @@
     - Richmond
   - Otago and Southland
     - Invercargill
-    - Queenstown
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
@@ -126,6 +123,10 @@
 
 #### Stores available: ####
 - South Island
+  - Canterbury
+    - Rangiora
   - Otago and Southland
     - Dunedin
+    - Queenstown
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
