@@ -57,7 +57,6 @@
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
 - Tip Top Popsicle Multi 10s - **$5.00**
 - Tip Top Popsicle Multi 10s - **$5.00**
-- Tip Top Popsicle Multi 10s - **$5.00**
 - Waitoa Free Range Chicken 300g -450g - **$9.99**
 - Watties Snack Meals 250g-270g - **$5.00**
 - Watties Snack Meals 250g-270g - **$5.00**
