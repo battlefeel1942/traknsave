@@ -2,49 +2,6 @@
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Dole Bobby Bananas - **$3.00**
-- Loose/Truss Tomatoes - **$2.99**
-- Mandarins - **$5.00**
-- R2E2 Mangoes - **$5.00**
-- Red/Yellow/Green Capsicums - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
 - Beef Schnitzel - **$16.99**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
@@ -105,8 +62,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -120,7 +75,6 @@
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Cartel Burrito 200g - **$5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
 - Tip Top Popsicle Multi 10s - **$5.00**
@@ -157,8 +111,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -197,8 +149,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -237,45 +187,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Sileni Cellar Selection Range 750ml - **$11.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -322,8 +233,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -344,6 +253,10 @@
   - Auckland
     - Botany
 --- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
+- Sileni Cellar Selection Range 750ml - **$11.99**
+
 ### Product(s) - Ends 26 Nov 2023 (deal ends) ###
 - Avalanche 99% Sugar Free Hot Chocolate 10s - **$3.39**
 - Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.39**

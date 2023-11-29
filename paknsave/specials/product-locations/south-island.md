@@ -48,11 +48,9 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -61,8 +59,8 @@
   - Otago and Southland
     - Dunedin
     - Invercargill
+    - Queenstown
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
@@ -74,7 +72,6 @@
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
 - Courgettes - **$3.99**
-- Dole Bobby Bananas - **$3.00**
 - Export 33 330ml 12 Pack Bottles - **$21.49**
 - Export Gold 330ml 24 Pack Bottles - **$33.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
@@ -87,16 +84,10 @@
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - Loose White Button Mushrooms - **$8.99**
-- Loose/Truss Tomatoes - **$2.99**
-- Mandarins - **$5.00**
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
-- Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
-- R2E2 Mangoes - **$5.00**
-- Red/Yellow/Green Capsicums - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
-- Sileni Cellar Selection Range 750ml - **$11.99**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Tip Top Ice Cream 2L - **$5.00**
@@ -126,6 +117,8 @@
 
 #### Stores available: ####
 - South Island
-  - Otago and Southland
-    - Queenstown
+  - Canterbury
+    - Moorhouse
+    - Timaru
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
