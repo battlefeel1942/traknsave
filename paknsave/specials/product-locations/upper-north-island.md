@@ -2,6 +2,49 @@
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Dole Bobby Bananas - **$3.00**
+- Loose/Truss Tomatoes - **$2.99**
+- Mandarins - **$5.00**
+- R2E2 Mangoes - **$5.00**
+- Red/Yellow/Green Capsicums - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
 - Beef Schnitzel - **$16.99**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
@@ -9,7 +52,6 @@
 - Broccoli - **$0.99**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Courgettes - **$3.99**
-- Dole Bobby Bananas - **$3.00**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
@@ -17,12 +59,8 @@
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
 - Loose White Button Mushrooms - **$8.99**
-- Loose/Truss Tomatoes - **$2.99**
-- Mandarins - **$5.00**
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
-- R2E2 Mangoes - **$5.00**
-- Red/Yellow/Green Capsicums - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Waitoa Free Range Chicken 300g -450g - **$9.99**
@@ -355,6 +393,14 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Anchor Protein Plus Yoghurt 950g - **$7.29**

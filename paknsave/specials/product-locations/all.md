@@ -2,32 +2,11 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- All Rounders Potatoes 2.5kg - **$5.00**
-- Beef Schnitzel - **$16.99**
-- Blueberries Punnet 125g - **$3.99**
-- Chicken Breast Fillets Skinless - **$10.99**
 - Dole Bobby Bananas - **$3.00**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-- Fresh Trevally Fillets Catch Permitting - **$26.99**
-- Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Loose White Button Mushrooms - **$8.99**
 - Loose/Truss Tomatoes - **$2.99**
 - Mandarins - **$5.00**
-- Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
 - R2E2 Mangoes - **$5.00**
 - Red/Yellow/Green Capsicums - **$5.00**
-- Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
-
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Best Foods Real Mayonnaise 405g/435g - **$5.49**
-- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
-- Libra Tampon Super 16s - **$3.89**
-- Libra Tampons 16s - **$3.89**
-- Libra Ultra Thins Wing 12s-14s - **$3.89**
-- Natureland Baby Food Pouch 120g - **$5.00**
-- Nivea Roll On Anti-Perspirant 50ml - **$3.59**
-- Surf Laundry Liquid 1L - **$5.99**
-- Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 
 #### Stores available: ####
 - Lower North Island
@@ -51,16 +30,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
-    - Albany
     - Botany
     - Clendon
     - Glen Innes
@@ -172,6 +145,89 @@
     - Thames
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- All Rounders Potatoes 2.5kg - **$5.00**
+- Beef Schnitzel - **$16.99**
+- Blueberries Punnet 125g - **$3.99**
+- Chicken Breast Fillets Skinless - **$10.99**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+- Fresh Trevally Fillets Catch Permitting - **$26.99**
+- Frozen Lamb Leg Roast (Bone In) - **$10.99**
+- Loose White Button Mushrooms - **$8.99**
+- Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
+- Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
+
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Best Foods Real Mayonnaise 405g/435g - **$5.49**
+- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
+- Libra Tampon Super 16s - **$3.89**
+- Libra Tampons 16s - **$3.89**
+- Libra Ultra Thins Wing 12s-14s - **$3.89**
+- Natureland Baby Food Pouch 120g - **$5.00**
+- Nivea Roll On Anti-Perspirant 50ml - **$3.59**
+- Surf Laundry Liquid 1L - **$5.99**
+- Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Queenstown
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Gisborne
+    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
 - Frozen Pork Spare Ribs - **$9.99**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
@@ -206,12 +262,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -276,12 +327,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -344,12 +390,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -420,12 +461,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -490,12 +526,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -557,12 +588,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -625,12 +651,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -696,12 +717,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -762,12 +778,7 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-    - Rangiora
-    - Riccarton
   - Otago and Southland
-    - Dunedin
     - Queenstown
 - Upper North Island
   - Auckland
@@ -831,6 +842,9 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -838,6 +852,7 @@
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
@@ -927,6 +942,14 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Anchor Protein Plus Yoghurt 950g - **$7.29**
