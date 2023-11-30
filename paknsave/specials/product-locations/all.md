@@ -50,7 +50,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -82,7 +81,6 @@
 - Beef Schnitzel - **$16.99**
 - Blueberries Punnet 125g - **$3.99**
 - Chicken Breast Fillets Skinless - **$10.99**
-- Courgettes - **$3.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Frozen Lamb Leg Roast (Bone In) - **$10.99**
@@ -124,11 +122,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -137,7 +133,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -177,6 +172,7 @@
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Moccona Coffee Mixes 20s - **$8.49**
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -200,11 +196,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -213,7 +207,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -268,11 +261,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -281,7 +272,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -308,70 +298,6 @@
     - Mill Street
     - Te Awamutu
     - Thames
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -406,11 +332,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -419,7 +343,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -472,11 +395,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -485,7 +406,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -540,11 +460,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -553,7 +471,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -609,11 +526,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -622,7 +537,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -678,11 +592,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
-    - Riccarton
-  - Nelson
-    - Richmond
+    - Timaru
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -691,7 +603,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -701,6 +612,68 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Courgettes - **$3.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Timaru
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -741,18 +714,29 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
-    - Timaru
+    - Riccarton
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Courgettes - **$4.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+--- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Beehive Streaky Bacon 250g - **$5.00**
 - Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
@@ -824,6 +808,18 @@
   - Auckland
     - Royal Oak
 --- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Hellers Precooked Sausages 2kg - **$18.99**
+- Premium Beef Mince - **$18.99**
+- Prime Beef Mince - **$14.99**
+- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
+- Tegel Chicken Kebabs 6pk - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
 ### Product(s) - Ends 30 Dec 2023 (deal ends) ###
 - Wakachangi Lager 24pk Cans - **$30.99**
 
@@ -844,12 +840,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Bagged Capsicums 700g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
 --- 

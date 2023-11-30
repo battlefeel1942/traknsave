@@ -35,6 +35,7 @@
 - Nivea Roll On Anti-Perspirant 50ml - **$3.59**
 - Surf Laundry Liquid 1L - **$5.99**
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -45,7 +46,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -94,7 +94,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -122,44 +121,6 @@
     - Te Awamutu
     - Thames
 --- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
 - Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
@@ -173,7 +134,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -221,7 +181,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -300,6 +259,18 @@
   - Auckland
     - Royal Oak
 --- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Hellers Precooked Sausages 2kg - **$18.99**
+- Premium Beef Mince - **$18.99**
+- Prime Beef Mince - **$14.99**
+- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
+- Tegel Chicken Kebabs 6pk - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
 ### Product(s) - Ends 30 Dec 2023 (deal ends) ###
 - Wakachangi Lager 24pk Cans - **$30.99**
 
@@ -320,12 +291,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Bagged Capsicums 700g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
 --- 

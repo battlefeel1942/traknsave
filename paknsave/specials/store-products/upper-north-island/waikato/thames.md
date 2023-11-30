@@ -53,4 +53,5 @@
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 - Watties Baby Food Can 120g - **$1.19**
 - Watties Baby Food Jar 170g - **$1.89**
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 

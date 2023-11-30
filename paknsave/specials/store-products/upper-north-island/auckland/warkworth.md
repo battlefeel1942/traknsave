@@ -20,6 +20,7 @@
 - Frozen Pork Spare Ribs - **$9.99**
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
 - Heineken 330ml 24 Pack Bottles - **$41.99**
+- Hellers Precooked Sausages 2kg - **$18.99**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
@@ -27,9 +28,13 @@
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
 - Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
+- Premium Beef Mince - **$18.99**
+- Prime Beef Mince - **$14.99**
+- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
+- Tegel Chicken Kebabs 6pk - **$7.99**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
 - Tip Top Popsicle Multi 10s - **$5.00**
