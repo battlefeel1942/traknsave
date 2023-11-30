@@ -49,16 +49,14 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Invercargill
+    - Dunedin
     - Queenstown
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
@@ -118,8 +116,10 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:

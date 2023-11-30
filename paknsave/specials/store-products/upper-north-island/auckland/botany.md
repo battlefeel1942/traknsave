@@ -2,7 +2,6 @@
 
 ## Product(s): Ends 03 Dec 2023 (deal ends)
 - All Rounders Potatoes 2.5kg - **$5.00**
-- Arnotts Family Favourites Biscuits 500g - **$5.00**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Beef Schnitzel - **$16.99**
@@ -21,7 +20,6 @@
 - Frozen Pork Spare Ribs - **$9.99**
 - Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
 - Heineken 330ml 24 Pack Bottles - **$41.99**
-- Indomie Mi Goreng Noodles 10pk - **$7.99**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
 - Lets Eat Plant Based Tenders 400g - **$9.99**
@@ -29,7 +27,6 @@
 - McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
 - Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
 - Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
-- Sealord Tuna 95g - **$5.00**
 - Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
 - Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**

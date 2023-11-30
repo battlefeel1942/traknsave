@@ -23,6 +23,7 @@
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
+- Tip Top Popsicle Multi 10s - **$5.00**
 - Watties Snack Meals 250g-270g - **$5.00**
 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -87,30 +88,6 @@
     - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Tip Top Popsicle Multi 10s - **$5.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui

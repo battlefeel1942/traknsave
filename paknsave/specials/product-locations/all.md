@@ -50,6 +50,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -122,9 +123,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -133,6 +136,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -172,7 +176,6 @@
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Moccona Coffee Mixes 20s - **$8.49**
-- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -196,9 +199,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -207,6 +212,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -261,9 +267,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -272,6 +280,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -299,11 +308,76 @@
     - Te Awamutu
     - Thames
 --- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Invercargill
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+--- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Cartel Burrito 200g - **$5.00**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
+- Tip Top Popsicle Multi 10s - **$5.00**
 - Watties Snack Meals 250g-270g - **$5.00**
 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -332,9 +406,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -343,69 +419,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Tip Top Popsicle Multi 10s - **$5.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Timaru
-  - Otago and Southland
-    - Dunedin
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -460,9 +474,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -471,6 +487,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -526,9 +543,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -537,6 +556,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -592,9 +612,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -603,6 +625,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -653,9 +676,11 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
+    - Northlands
+  - Marlborough
+    - Blenheim
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -664,6 +689,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -716,16 +742,14 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
-  - Marlborough
-    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
-    - Invercargill
+    - Dunedin
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
@@ -755,16 +779,6 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Arnotts Family Favourites Biscuits 500g - **$5.00**
-- Indomie Mi Goreng Noodles 10pk - **$7.99**
-- Sealord Tuna 95g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Botany
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
@@ -840,4 +854,12 @@
 - Upper North Island
   - Auckland
     - Silverdale
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Bagged Capsicums 700g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Waikato
+    - Clarence Street
 --- 
