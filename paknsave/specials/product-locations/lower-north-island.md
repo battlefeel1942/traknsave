@@ -9,6 +9,7 @@
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
+- Courgettes - **$3.99**
 - Export 33 330ml 12 Pack Bottles - **$21.49**
 - Export Gold 330ml 24 Pack Bottles - **$33.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
@@ -23,7 +24,6 @@
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
-- Tip Top Popsicle Multi 10s - **$5.00**
 - Watties Snack Meals 250g-270g - **$5.00**
 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -103,13 +103,13 @@
     - Upper Hutt
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$3.99**
+- Tip Top Popsicle Multi 10s - **$5.00**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
+    - Hastings
     - Napier
-    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
@@ -127,14 +127,6 @@
     - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Courgettes - **$4.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Beehive Streaky Bacon 250g - **$5.00**
 - Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
