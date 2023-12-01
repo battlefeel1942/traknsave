@@ -47,9 +47,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -122,9 +121,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -189,9 +187,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -254,9 +251,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -325,9 +321,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -390,9 +385,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -457,9 +451,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -525,9 +518,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -593,9 +585,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -656,9 +647,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
+    - Hornby
     - Timaru
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 - Upper North Island
@@ -719,7 +709,6 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
@@ -727,6 +716,8 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -758,6 +749,16 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Arnotts Family Favourites Biscuits 500g - **$5.00**
+- Indomie Mi Goreng Noodles 10pk - **$7.99**
+- Sealord Tuna 95g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Botany
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
@@ -812,6 +813,14 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$5.00**

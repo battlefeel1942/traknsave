@@ -243,6 +243,16 @@
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Arnotts Family Favourites Biscuits 500g - **$5.00**
+- Indomie Mi Goreng Noodles 10pk - **$7.99**
+- Sealord Tuna 95g - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Botany
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Sileni Cellar Selection Range 750ml - **$11.99**
 
@@ -295,6 +305,14 @@
 - Upper North Island
   - Auckland
     - Warkworth
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$5.00**
