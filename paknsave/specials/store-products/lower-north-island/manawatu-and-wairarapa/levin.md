@@ -5,7 +5,6 @@
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Beef Schnitzel - **$16.99**
 - Blueberries Punnet 125g - **$3.99**
-- Broccoli - **$0.99**
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**

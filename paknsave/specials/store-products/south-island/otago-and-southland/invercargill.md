@@ -5,7 +5,6 @@
 - Balducci Pasta 500g Varieties - **$5.00**
 - Barker's Chutney or Marinade 190-300g Varieties - **$4.49**
 - Bluebird Chips 140-150g Varieties - **$1.99**
-- Broccoli - **$0.99**
 - Cadbury Novelty Bar 22-60g Varieties - **$5.00**
 - Fab Laundry Liquid 900ml-1L Varieties - **$5.00**
 - Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$5.00**

@@ -1,27 +1,5 @@
 
 ## Items common to **all** South Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Broccoli - **$0.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Dunedin
-    - Invercargill
-    - Queenstown
---- 
 ## Items common to **some** (but not all) South Island PAK'nSAVE stores:
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Arnott's Tim Tams 160-200g Varieties - **$5.00**
@@ -47,9 +25,12 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
+    - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -57,7 +38,6 @@
   - Otago and Southland
     - Dunedin
     - Invercargill
-    - Queenstown
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - All Rounders Potatoes 2.5kg - **$5.00**
@@ -116,9 +96,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Riccarton
-    - Timaru
-    - Wainoni
+  - Otago and Southland
+    - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:

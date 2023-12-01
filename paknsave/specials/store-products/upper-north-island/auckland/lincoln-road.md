@@ -7,7 +7,6 @@
 - Beef Schnitzel - **$16.99**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
 - Blueberries Punnet 125g - **$3.99**
-- Broccoli - **$0.99**
 - Cartel Burrito 200g - **$5.00**
 - Chicken Breast Fillets Skinless - **$10.99**
 - Corona Extra 355ml 12 Pack Bottles - **$23.49**
