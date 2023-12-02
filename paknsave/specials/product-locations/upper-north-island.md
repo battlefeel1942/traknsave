@@ -295,6 +295,26 @@
     - Royal Oak
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
+- Hellers Precooked Sausages 2kg - **$18.99**
+- Premium Beef Mince - **$18.99**
+- Prime Beef Mince - **$14.99**
+- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
+- Tegel Chicken Kebabs 6pk - **$7.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
+--- 
+### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Anchor Protein Plus Yoghurt 950g - **$7.29**
 - Beehive Streaky Bacon 800g - **$14.99**
 - Chicken Thigh Fillet Skinless - **$15.99**
