@@ -22,6 +22,7 @@
 - Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
 - Tip Top Ice Cream 2L - **$5.00**
 - Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
+- Tip Top Popsicle Multi 10s - **$5.00**
 - Watties Snack Meals 250g-270g - **$5.00**
 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -101,30 +102,6 @@
     - Upper Hutt
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Tip Top Popsicle Multi 10s - **$5.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Courgettes - **$3.99**
 
 #### Stores available: ####
@@ -156,15 +133,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Beehive Streaky Bacon 250g - **$5.00**
-- Lewis Road Creamery Fresh Chocolate Milk 750ml - **$5.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Napier
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Greggs Jelly 85g Range - **$5.00**
