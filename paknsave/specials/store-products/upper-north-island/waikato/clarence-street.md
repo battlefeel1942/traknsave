@@ -4,7 +4,6 @@
 - All Rounders Potatoes 2.5kg - **$5.00**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
-- Bagged Capsicums 700g - **$5.00**
 - Beef Schnitzel - **$16.99**
 - Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
 - Blueberries Punnet 125g - **$3.99**

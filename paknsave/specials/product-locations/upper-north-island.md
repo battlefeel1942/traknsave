@@ -61,8 +61,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -112,8 +110,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -152,8 +148,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -192,8 +186,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -240,8 +232,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -252,16 +242,6 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Arnotts Family Favourites Biscuits 500g - **$5.00**
-- Indomie Mi Goreng Noodles 10pk - **$7.99**
-- Sealord Tuna 95g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Botany
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Pams Mixed Veg 1kg/ Pams Baby Peas 750g - **$5.00**
 - Sileni Cellar Selection Range 750ml - **$11.99**
@@ -304,17 +284,13 @@
   - Auckland
     - Royal Oak
 --- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Hellers Precooked Sausages 2kg - **$18.99**
-- Premium Beef Mince - **$18.99**
-- Prime Beef Mince - **$14.99**
-- Shore Mariner Crumbed Squid Ring 450g - **$5.00**
-- Tegel Chicken Kebabs 6pk - **$7.99**
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Warkworth
+    - Pukekohe
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Anchor Protein Plus Yoghurt 950g - **$7.29**
@@ -328,12 +304,4 @@
 - Upper North Island
   - Auckland
     - Silverdale
---- 
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Bagged Capsicums 700g - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Clarence Street
 --- 
