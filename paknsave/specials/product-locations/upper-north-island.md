@@ -56,7 +56,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -74,6 +73,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -95,7 +96,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -112,6 +112,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -148,7 +150,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -165,6 +166,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -186,7 +189,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -204,6 +206,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -225,7 +229,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -244,6 +247,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -312,26 +317,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- 180 Oat Crackers 150g - **$4.69**
-- Beef Rump Steak - **$16.99**
-- Coca-Cola 1.5L Range - **$5.00**
-- Fisherking Southern Style Fish Tenders 360g - **$5.00**
-- Griffins Biscuits 250g Range - **$5.00**
-- Jimbos Cat/Dog Food 800g - **$9.99**
-- John West Pink Salmon 210g - **$4.29**
-- Leggos Passata 700g - **$3.09**
-- Mumm Grand Cordon Champage 750ml - **$54.99**
-- Ruffino Prosecco 750ml - **$15.99**
-- Schweppes Sparkling Duet 1.5L - **$4.00**
-- Selaks The Taste Collection 750ml - **$15.99**
-- Zafarelli 500g Pasta Range - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Eco-Cook Bio Plate 9inch 20pk - **$2.79**

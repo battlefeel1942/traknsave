@@ -37,10 +37,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -49,7 +49,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -67,6 +66,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -100,10 +101,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -112,7 +113,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -129,6 +129,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -179,10 +181,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -191,7 +193,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -209,6 +210,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -249,10 +252,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -261,7 +264,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -278,6 +280,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -311,10 +315,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -323,7 +327,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -341,6 +344,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -382,10 +387,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -394,7 +399,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -412,6 +416,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -446,10 +452,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -458,7 +464,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -477,6 +482,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -510,10 +517,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -522,7 +529,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -541,6 +547,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -576,10 +584,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -588,7 +596,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -606,6 +613,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -645,10 +654,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -657,7 +666,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -674,6 +682,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -708,10 +718,10 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Marlborough
-    - Blenheim
+  - Canterbury
+    - Rangiora
   - Otago and Southland
-    - Invercargill
+    - Queenstown
 - Upper North Island
   - Auckland
     - Albany
@@ -720,7 +730,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -737,6 +746,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -763,8 +774,27 @@
 - Packham Pears Loose - **$3.49**
 - Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
 - Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
 - Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
 - Wither HIlls 750ml - **$11.99**
 
 #### Stores available: ####
@@ -773,15 +803,15 @@
     - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
     - Dunedin
-    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -794,6 +824,15 @@
 - Lower North Island
   - Manawatu and Wairarapa
     - Levin
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
+- Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Mandarins - **$5.00**
@@ -853,26 +892,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- 180 Oat Crackers 150g - **$4.69**
-- Beef Rump Steak - **$16.99**
-- Coca-Cola 1.5L Range - **$5.00**
-- Fisherking Southern Style Fish Tenders 360g - **$5.00**
-- Griffins Biscuits 250g Range - **$5.00**
-- Jimbos Cat/Dog Food 800g - **$9.99**
-- John West Pink Salmon 210g - **$4.29**
-- Leggos Passata 700g - **$3.09**
-- Mumm Grand Cordon Champage 750ml - **$54.99**
-- Ruffino Prosecco 750ml - **$15.99**
-- Schweppes Sparkling Duet 1.5L - **$4.00**
-- Selaks The Taste Collection 750ml - **$15.99**
-- Zafarelli 500g Pasta Range - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Eco-Cook Bio Plate 9inch 20pk - **$2.79**
