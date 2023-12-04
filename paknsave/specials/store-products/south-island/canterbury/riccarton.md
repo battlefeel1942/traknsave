@@ -1,23 +1,23 @@
 # Products for Riccarton PAK'nSAVE
 
-## Product(s): Ends 03 Dec 2023 (deal ends)
-- Arnott's Tim Tams 160-200g Varieties - **$5.00**
-- Balducci Pasta 500g Varieties - **$5.00**
-- Barker's Chutney or Marinade 190-300g Varieties - **$4.49**
-- Bluebird Chips 140-150g Varieties - **$1.99**
-- Cadbury Novelty Bar 22-60g Varieties - **$5.00**
-- Fab Laundry Liquid 900ml-1L Varieties - **$5.00**
-- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$5.00**
-- Fresh'n Fruity Yoghurt 1kg Varieties - **$5.00**
-- Gregg's Herbs or Spices 7-65g Varieties - **$5.00**
-- Heartland Premium Thin Cut or Ultimate Wave Chips 140g Varieties - **$5.00**
-- Much Moore Marvels Ice Cream 2L Varieties - **$5.00**
-- Nature's Fresh Buns or Roll's 6 Pack Varieties - **$3.29**
-- Pantene Pro-V Shampoo or Conditioner 180-375ml - **$5.00**
-- Pedigree Dry 2.5-3kg - **$15.29**
-- Queen Anne Chocolate Fish Bites 170g Varieties - **$7.29**
-- RJ's Licorice Bucket 600-800g Varieties - **$11.99**
-- Robert Harris Coffee 200g or Capsules 10 Pack Varieties - **$5.00**
-- Shore Mariner FIsh Bites 400g Varieties - **$5.00**
-- V Energy Drink 250ml 4 Pack Can Varieties - **$5.00**
+## Product(s): Ends 10 Dec 2023 (deal ends)
+- Aoraki Cold Smoked Sliced Salmon 100g - **$9.79**
+- Barker's Chutneys or Marinades 190-395g - **$4.29**
+- Blueberries 125g Prepack - **$4.49**
+- Deep South Ice Cream 2L Varieties - **$6.99**
+- Dine Tray 85g/ excludes Desire - **$8.00**
+- Doritos Corn Chips 150-170g Varieties - **$1.99**
+- Fab Laundry Liquid 900ml-1L Varieties - **$4.99**
+- Fresh NZ Chicken Drumsticks Plain or Flavoured - **$5.29**
+- Fresh NZ Quality Mark Beef Rump Steak - **$15.79**
+- Hellers Pre-Cooked Sausages Flavoured 1kg - **$9.49**
+- Kellogg's Nutri Grain 765g/ Coco Pops 650g or Just Right Original 740g - **$7.99**
+- Lindt Lindor Cornet 193-197g Varieties - **$9.99**
+- Meadow Fresh Cottage Cheese/ Sour Cream or Tararua Dips 250g Varieties - **$3.49**
+- Packham Pears Loose - **$3.49**
+- Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
+- Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
+- Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
+- Wither HIlls 750ml - **$11.99**
 

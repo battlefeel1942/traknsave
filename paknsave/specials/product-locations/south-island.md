@@ -1,34 +1,30 @@
 
 ## Items common to **all** South Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) South Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- Arnott's Tim Tams 160-200g Varieties - **$5.00**
-- Balducci Pasta 500g Varieties - **$5.00**
-- Barker's Chutney or Marinade 190-300g Varieties - **$4.49**
-- Bluebird Chips 140-150g Varieties - **$1.99**
-- Cadbury Novelty Bar 22-60g Varieties - **$5.00**
-- Fab Laundry Liquid 900ml-1L Varieties - **$5.00**
-- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$5.00**
-- Fresh'n Fruity Yoghurt 1kg Varieties - **$5.00**
-- Gregg's Herbs or Spices 7-65g Varieties - **$5.00**
-- Heartland Premium Thin Cut or Ultimate Wave Chips 140g Varieties - **$5.00**
-- Much Moore Marvels Ice Cream 2L Varieties - **$5.00**
-- Nature's Fresh Buns or Roll's 6 Pack Varieties - **$3.29**
-- Pantene Pro-V Shampoo or Conditioner 180-375ml - **$5.00**
-- Pedigree Dry 2.5-3kg - **$15.29**
-- Queen Anne Chocolate Fish Bites 170g Varieties - **$7.29**
-- RJ's Licorice Bucket 600-800g Varieties - **$11.99**
-- Robert Harris Coffee 200g or Capsules 10 Pack Varieties - **$5.00**
-- Shore Mariner FIsh Bites 400g Varieties - **$5.00**
-- V Energy Drink 250ml 4 Pack Can Varieties - **$5.00**
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Aoraki Cold Smoked Sliced Salmon 100g - **$9.79**
+- Barker's Chutneys or Marinades 190-395g - **$4.29**
+- Blueberries 125g Prepack - **$4.49**
+- Deep South Ice Cream 2L Varieties - **$6.99**
+- Dine Tray 85g/ excludes Desire - **$8.00**
+- Doritos Corn Chips 150-170g Varieties - **$1.99**
+- Fab Laundry Liquid 900ml-1L Varieties - **$4.99**
+- Fresh NZ Chicken Drumsticks Plain or Flavoured - **$5.29**
+- Fresh NZ Quality Mark Beef Rump Steak - **$15.79**
+- Hellers Pre-Cooked Sausages Flavoured 1kg - **$9.49**
+- Kellogg's Nutri Grain 765g/ Coco Pops 650g or Just Right Original 740g - **$7.99**
+- Lindt Lindor Cornet 193-197g Varieties - **$9.99**
+- Meadow Fresh Cottage Cheese/ Sour Cream or Tararua Dips 250g Varieties - **$3.49**
+- Packham Pears Loose - **$3.49**
+- Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
+- Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
+- Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
 
 #### Stores available: ####
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -40,42 +36,25 @@
     - Dunedin
     - Invercargill
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
-### Product(s) - Ends 03 Dec 2023 (deal ends) ###
-- All Rounders Potatoes 2.5kg - **$5.00**
-- Asahi Super Dry 330ml 12 Pack Bottles - **$23.49**
-- Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
-- Beef Schnitzel - **$16.99**
-- Ben & Jerrys Cookie Dough Ice Cream Peaces 160ml - **$7.49**
-- Blueberries Punnet 125g - **$3.99**
-- Cartel Burrito 200g - **$5.00**
-- Chicken Breast Fillets Skinless - **$10.99**
-- Corona Extra 355ml 12 Pack Bottles - **$23.49**
-- Courgettes - **$3.99**
-- Export 33 330ml 12 Pack Bottles - **$21.49**
-- Export Gold 330ml 24 Pack Bottles - **$33.99**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-- Fresh Trevally Fillets Catch Permitting - **$26.99**
-- Frozen Lamb Leg Roast (Bone In) - **$10.99**
-- Frozen Pork Spare Ribs - **$9.99**
-- Giesen Range 750ml (Excludes Gemstone/ Organic/0%) - **$11.99**
-- Heineken 330ml 24 Pack Bottles - **$41.99**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$14.99**
-- Lets Eat Plant Based Tenders 400g - **$9.99**
-- Loose White Button Mushrooms - **$8.99**
-- McCain Pub Style Fries/Wedges 750g (Excludes Beer Batter) - **$3.79**
-- Ngatarawa Stables Range 750ml (Excludes Reserve) - **$10.99**
-- Pams Mixed Vegetables 1kg/Baby Peas 750g - **$5.00**
-- Shore Mariner Raw Prawn Cutlets 1kg - **$17.79**
-- Speights Summit Ultra Low Carb 330ml 24 Pack Bottles - **$34.99**
-- Streets Cookie Crumble Ice Cream Bites 16s - **$7.49**
-- Tip Top Ice Cream 2L - **$5.00**
-- Tip Top Popsicle Fruity Tube 66ml 8pk - **$5.00**
-- Tip Top Popsicle Multi 10s - **$5.00**
-- Waitoa Free Range Chicken 300g -450g - **$9.99**
-- Watties Snack Meals 250g-270g - **$5.00**
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
+- Wither HIlls 750ml - **$11.99**
 
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Northlands
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+--- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Best Foods Real Mayonnaise 405g/435g - **$5.49**
@@ -97,6 +76,19 @@
 
 #### Stores available: ####
 - South Island
+  - Canterbury
+    - Moorhouse
+    - Rangiora
   - Otago and Southland
     - Queenstown
+--- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
+- Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
 --- 
