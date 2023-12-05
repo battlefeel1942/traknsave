@@ -26,15 +26,17 @@
     - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
@@ -46,14 +48,18 @@
     - Hornby
     - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
     - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Beef Mince - **$9.99**
@@ -121,12 +127,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Rangiora
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Timaru
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
 - Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
