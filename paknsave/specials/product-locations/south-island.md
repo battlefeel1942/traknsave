@@ -34,7 +34,6 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
@@ -54,8 +53,6 @@
     - Blenheim
   - Nelson
     - Richmond
-  - Otago and Southland
-    - Dunedin
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
@@ -126,6 +123,7 @@
   - Canterbury
     - Rangiora
   - Otago and Southland
+    - Dunedin
     - Queenstown
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:

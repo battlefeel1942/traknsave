@@ -9,8 +9,6 @@
 - Chicken Drumsticks - **$4.79**
 - Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
-- Fresh Bluff Salmon Gilled/Gutted - **$29.99**
-- Fresh Bluff Salmon Steaks - **$34.99**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Harmony Beef Sausages 360-480g Range - **$8.99**
 - Harmony Burger Patties 400g - **$8.99**
