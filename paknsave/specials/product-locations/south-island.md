@@ -24,11 +24,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
@@ -44,11 +42,9 @@
 - South Island
   - Canterbury
     - Moorhouse
+    - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
@@ -123,8 +119,10 @@
 - South Island
   - Canterbury
     - Hornby
-    - Northlands
-    - Wainoni
+    - Riccarton
+    - Timaru
+  - Marlborough
+    - Blenheim
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
