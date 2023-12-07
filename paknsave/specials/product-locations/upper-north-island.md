@@ -23,7 +23,6 @@
 - Magnum Luxe 4s - **$7.49**
 - Magnum Minis 6s - **$7.49**
 - Mainland Block Cheese 1kg/ Tasty Cheese 700g (Excludes Tasty 1kg) - **$11.99**
-- Mandarins - **$4.99**
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - Moccona Coffee Mixes 20s - **$8.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
@@ -63,6 +62,44 @@
     - Pukekohe
     - Silverdale
     - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Mandarins - **$4.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
     - Wairau Road
     - Warkworth
     - Westgate
@@ -262,9 +299,9 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Mangere
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -289,6 +326,14 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Mandarins - **$5.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Sylvia Park
+--- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Cartel Burrito 200g - **$5.00**
@@ -339,26 +384,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- 180 Oat Crackers 150g - **$4.69**
-- Beef Rump Steak - **$16.99**
-- Coca-Cola 1.5L Range - **$5.00**
-- Fisherking Southern Style Fish Tenders 360g - **$5.00**
-- Griffins Biscuits 250g Range - **$5.00**
-- Jimbos Cat/Dog Food 800g - **$9.99**
-- John West Pink Salmon 210g - **$4.29**
-- Leggos Passata 700g - **$3.09**
-- Mumm Grand Cordon Champage 750ml - **$54.99**
-- Ruffino Prosecco 750ml - **$15.99**
-- Schweppes Sparkling Duet 1.5L - **$4.00**
-- Selaks The Taste Collection 750ml - **$15.99**
-- Zafarelli 500g Pasta Range - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Eco-Cook Bio Plate 9inch 20pk - **$2.79**

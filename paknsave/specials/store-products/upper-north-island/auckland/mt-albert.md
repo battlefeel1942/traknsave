@@ -30,6 +30,7 @@
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - Moccona Coffee Mixes 20s - **$8.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
+- Mud House Range 750ml (Excludes Central Otago Pinot Noir/Sub Regional Range) - **$12.99**
 - Natureland Baby Food Pouch 120g - **$5.00**
 - Nivea Roll On Anti-Perspirant 50ml - **$3.59**
 - Pams Frozen Chicken 1.5kg - **$8.49**
@@ -45,11 +46,21 @@
 - Telegraph Cucumbers - **$3.00**
 - Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
+- Veuve Clicquot Brut NV Champagne 750ml - **$64.99**
 - Watties Baby Food Can 120g - **$1.19**
 - Watties Baby Food Jar 170g - **$1.89**
 - Whole Beef Scotch Fillet - **$27.99**
 - Whole Large Raw Red Argentinian Prawns (Frozen/Pre-frozen) - **$17.99**
 
 ## Product(s): Ends 17 Dec 2023 (deal ends)
+- Corona Extra 355ml 18 Pack Bottles - **$38.49**
+- Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
+- Haagen 330ml 12 Pack Bottles - **$17.99**
+- Heineken 330ml 12 Pack Bottles - **$21.99**
+- Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
+- Jacobs Creek Reserves Range 750ml - **$10.49**
+- Somersby Cider 330ml 12 Pack Bottles - **$24.99**
+- Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
+- Steinlager Classic 330ml 24 Pack Bottles - **$38.49**
 

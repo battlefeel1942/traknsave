@@ -8,7 +8,6 @@
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Lamb Shoulder Chops - **$11.99**
-- Mandarins - **$4.99**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Pams Frozen Chicken 1.5kg - **$8.49**
 - Pams Frozen Fish Fillets 6s - **$5.99**
@@ -38,10 +37,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -58,6 +55,66 @@
     - Pukekohe
     - Silverdale
     - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Mandarins - **$4.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Otago and Southland
+    - Invercargill
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
     - Wairau Road
     - Warkworth
     - Westgate
@@ -116,10 +173,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -179,10 +234,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -241,10 +294,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -303,10 +354,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -374,10 +423,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -438,10 +485,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -502,10 +547,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -568,10 +611,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -637,19 +678,17 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Mangere
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -703,19 +742,17 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
     - Mangere
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -764,10 +801,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
   - Otago and Southland
-    - Dunedin
+    - Invercargill
 - Upper North Island
   - Auckland
     - Albany
@@ -819,27 +854,8 @@
 - Packham Pears Loose - **$3.49**
 - Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
 - Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
-- Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Invercargill
-    - Queenstown
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
+- Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
 - Wither HIlls 750ml - **$11.99**
 
 #### Stores available: ####
@@ -847,6 +863,7 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -856,6 +873,7 @@
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
@@ -871,13 +889,12 @@
     - Levin
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
-- Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
+- Mandarins - **$5.00**
 
 #### Stores available: ####
-- South Island
-  - Otago and Southland
-    - Invercargill
+- Upper North Island
+  - Auckland
+    - Sylvia Park
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -929,26 +946,6 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- 180 Oat Crackers 150g - **$4.69**
-- Beef Rump Steak - **$16.99**
-- Coca-Cola 1.5L Range - **$5.00**
-- Fisherking Southern Style Fish Tenders 360g - **$5.00**
-- Griffins Biscuits 250g Range - **$5.00**
-- Jimbos Cat/Dog Food 800g - **$9.99**
-- John West Pink Salmon 210g - **$4.29**
-- Leggos Passata 700g - **$3.09**
-- Mumm Grand Cordon Champage 750ml - **$54.99**
-- Ruffino Prosecco 750ml - **$15.99**
-- Schweppes Sparkling Duet 1.5L - **$4.00**
-- Selaks The Taste Collection 750ml - **$15.99**
-- Zafarelli 500g Pasta Range - **$3.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Warkworth
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Eco-Cook Bio Plate 9inch 20pk - **$2.79**
