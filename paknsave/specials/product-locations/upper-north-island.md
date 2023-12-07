@@ -8,10 +8,12 @@
 - Best Foods Real Mayonnaise 405g/435g - **$5.49**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Chicken Drumsticks - **$4.79**
+- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Harmony Beef Sausages 360-480g Range - **$8.99**
 - Harmony Burger Patties 400g - **$8.99**
+- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Kapiti Ice Cream 1L - **$9.49**
 - Lamb Shoulder Chops - **$11.99**
@@ -39,6 +41,7 @@
 - Tegel Frozen Turkey 2.75kg - **$35.99**
 - Tegel Frozen Turkey Size 3.75kg - **$51.99**
 - Telegraph Cucumbers - **$3.00**
+- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 - Whole Beef Scotch Fillet - **$27.99**
 
@@ -54,7 +57,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -93,7 +95,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -103,46 +104,6 @@
     - Wairau Road
     - Warkworth
     - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
-- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
-- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -171,7 +132,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -210,7 +170,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -249,7 +208,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -299,7 +257,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -309,6 +266,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -386,19 +344,22 @@
     - Royal Oak
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Eco-Cook Bio Plate 9inch 20pk - **$2.79**
-- Effects Printed Serviettes 20pk - **$3.49**
-- Korbond Foil Roaster - **$4.49**
-- Korbond Kraft Cards 8pk - **$2.49**
-- Korbond Premium Bon Bons 8pk - **$10.99**
-- Korbond Value Christmas Wrap 7m - **$2.49**
-- Qiwi 8oz Paper Cups 25pk - **$2.00**
-
-### Product(s) - Ends 30 Dec 2023 (deal ends) ###
-- Wakachangi Lager 24pk Cans - **$30.99**
+- 180 Oat Crackers 150g - **$4.69**
+- Beef Rump Steak - **$16.99**
+- Coca-Cola 1.5L Range - **$5.00**
+- Fisherking Southern Style Fish Tenders 360g - **$5.00**
+- Griffins Biscuits 250g Range - **$5.00**
+- Jimbos Cat/Dog Food 800g - **$9.99**
+- John West Pink Salmon 210g - **$4.29**
+- Leggos Passata 700g - **$3.09**
+- Mumm Grand Cordon Champage 750ml - **$54.99**
+- Ruffino Prosecco 750ml - **$15.99**
+- Schweppes Sparkling Duet 1.5L - **$4.00**
+- Selaks The Taste Collection 750ml - **$15.99**
+- Zafarelli 500g Pasta Range - **$3.00**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Pukekohe
+    - Warkworth
 --- 

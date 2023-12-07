@@ -9,8 +9,6 @@
 - Chicken Drumsticks - **$4.79**
 - Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
-- Eco-Cook Bio Plate 9inch 20pk - **$2.79**
-- Effects Printed Serviettes 20pk - **$3.49**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
 - Fresh Bluff Salmon Steaks - **$34.99**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
@@ -19,10 +17,6 @@
 - Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Kapiti Ice Cream 1L - **$9.49**
-- Korbond Foil Roaster - **$4.49**
-- Korbond Kraft Cards 8pk - **$2.49**
-- Korbond Premium Bon Bons 8pk - **$10.99**
-- Korbond Value Christmas Wrap 7m - **$2.49**
 - Lamb Shoulder Chops - **$11.99**
 - Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
 - Libra Tampon Super 16s - **$3.89**
@@ -42,7 +36,6 @@
 - Pams Frozen Chicken 1.5kg - **$8.49**
 - Pams Frozen Fish Fillets 6s - **$5.99**
 - Perlas Potatoes 1.5kg - **$5.99**
-- Qiwi 8oz Paper Cups 25pk - **$2.00**
 - Red/Yellow/Green Capsicums - **$4.00**
 - Silver Fern Farms Burgers 720g - **$10.99**
 - Streets Magnum 4s (Excludes Luxe 4s) - **$7.49**
@@ -70,7 +63,4 @@
 - Somersby Cider 330ml 12 Pack Bottles - **$24.99**
 - Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
 - Steinlager Classic 330ml 24 Pack Bottles - **$38.49**
-
-## Product(s): Ends 30 Dec 2023 (deal ends)
-- Wakachangi Lager 24pk Cans - **$30.99**
 
