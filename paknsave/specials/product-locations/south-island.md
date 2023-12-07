@@ -18,14 +18,13 @@
 - Packham Pears Loose - **$3.49**
 - Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
 - Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
 - Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
-- Wither HIlls 750ml - **$11.99**
 
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Northlands
+    - Hornby
+    - Moorhouse
     - Rangiora
     - Riccarton
     - Timaru
@@ -35,7 +34,28 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
+- Wither HIlls 750ml - **$11.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Queenstown
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
@@ -104,10 +124,17 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
+- Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
+--- 

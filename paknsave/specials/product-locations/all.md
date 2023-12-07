@@ -4,34 +4,18 @@
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Beef Mince - **$9.99**
 - Beef Scotch Fillet Steak - **$28.99**
-- Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Chicken Drumsticks - **$4.79**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
-- Harmony Beef Sausages 360-480g Range - **$8.99**
-- Harmony Burger Patties 400g - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
-- Kapiti Ice Cream 1L - **$9.49**
 - Lamb Shoulder Chops - **$11.99**
-- Magnum Ice Cream Pint 440ml - **$7.49**
-- Magnum Luxe 4s - **$7.49**
-- Magnum Minis 6s - **$7.49**
-- Mainland Block Cheese 1kg/ Tasty Cheese 700g (Excludes Tasty 1kg) - **$11.99**
-- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
+- Mandarins - **$4.99**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
 - Pams Frozen Chicken 1.5kg - **$8.49**
 - Pams Frozen Fish Fillets 6s - **$5.99**
 - Perlas Potatoes 1.5kg - **$5.99**
 - Red/Yellow/Green Capsicums - **$4.00**
-- Silver Fern Farms Burgers 720g - **$10.99**
-- Streets Magnum 4s (Excludes Luxe 4s) - **$7.49**
-- Tegel Free Range Tenders/Bites/Burger 650g-750g - **$8.99**
 - Tegel Frozen Turkey 2.75kg - **$35.99**
-- Tegel Frozen Turkey Size 3.75kg - **$51.99**
 - Telegraph Cucumbers - **$3.00**
-- Whole Beef Scotch Fillet - **$27.99**
-
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -55,11 +39,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -68,6 +50,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -95,7 +78,23 @@
     - Thames
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Mandarins - **$4.99**
+- Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
+- Harmony Beef Sausages 360-480g Range - **$8.99**
+- Harmony Burger Patties 400g - **$8.99**
+- Kapiti Ice Cream 1L - **$9.49**
+- Magnum Ice Cream Pint 440ml - **$7.49**
+- Magnum Luxe 4s - **$7.49**
+- Magnum Minis 6s - **$7.49**
+- Mainland Block Cheese 1kg/ Tasty Cheese 700g (Excludes Tasty 1kg) - **$11.99**
+- McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
+- Silver Fern Farms Burgers 720g - **$10.99**
+- Streets Magnum 4s (Excludes Luxe 4s) - **$7.49**
+- Tegel Free Range Tenders/Bites/Burger 650g-750g - **$8.99**
+- Tegel Frozen Turkey Size 3.75kg - **$51.99**
+- Whole Beef Scotch Fillet - **$27.99**
+
+### Product(s) - Ends 17 Dec 2023 (deal ends) ###
+- Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -103,7 +102,6 @@
     - Hastings
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -119,11 +117,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -132,12 +128,14 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
     - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
     - Westgate
@@ -182,11 +180,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -195,6 +191,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -230,7 +227,6 @@
     - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -246,11 +242,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -259,6 +253,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -294,7 +289,6 @@
     - Hastings
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -310,11 +304,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -323,6 +315,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -349,14 +342,11 @@
     - Thames
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Best Foods Real Mayonnaise 405g/435g - **$5.49**
-- Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.89**
 - Libra Tampon Super 16s - **$3.89**
 - Libra Tampons 16s - **$3.89**
 - Libra Ultra Thins Wing 12s-14s - **$3.89**
-- Moccona Coffee Mixes 20s - **$8.49**
 - Natureland Baby Food Pouch 120g - **$5.00**
 - Nivea Roll On Anti-Perspirant 50ml - **$3.59**
 - Surf Laundry Liquid 1L - **$5.99**
@@ -385,11 +375,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -398,6 +386,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -426,7 +415,6 @@
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Watties Baby Food Can 120g - **$1.19**
-- Watties Baby Food Jar 170g - **$1.89**
 
 #### Stores available: ####
 - Lower North Island
@@ -451,11 +439,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -464,6 +450,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -492,18 +479,207 @@
     - Thames
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Mud House Range 750ml (Excludes Central Otago Pinot Noir/Sub Regional Range) - **$12.99**
+- Watties Baby Food Jar 170g - **$1.89**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Royal Oak
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Avalanche Roasted & Ground Coffee 200g - **$5.00**
+- Delmaine Olives Pitted/Stuffed 450g - **$5.00**
+- Moccona Coffee Mixes 20s - **$8.49**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Veuve Clicquot Brut NV Champagne 750ml - **$64.99**
 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Corona Extra 355ml 18 Pack Bottles - **$38.49**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
-- Haagen 330ml 12 Pack Bottles - **$17.99**
-- Heineken 330ml 12 Pack Bottles - **$21.99**
 - Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
 - Jacobs Creek Reserves Range 750ml - **$10.49**
 - Somersby Cider 330ml 12 Pack Bottles - **$24.99**
 - Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Lincoln Road
+    - Mangere
+    - Manukau
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Mud House Range 750ml (Excludes Central Otago Pinot Noir/Sub Regional Range) - **$12.99**
+
+### Product(s) - Ends 17 Dec 2023 (deal ends) ###
+- Corona Extra 355ml 18 Pack Bottles - **$38.49**
+- Haagen 330ml 12 Pack Bottles - **$17.99**
+- Heineken 330ml 12 Pack Bottles - **$21.99**
 - Steinlager Classic 330ml 24 Pack Bottles - **$38.49**
 
 #### Stores available: ####
@@ -528,17 +704,17 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
+    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -574,7 +750,6 @@
     - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -590,11 +765,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
-    - Moorhouse
+    - Northlands
   - Otago and Southland
-    - Invercargill
-    - Queenstown
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -603,6 +776,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -645,14 +819,13 @@
 - Packham Pears Loose - **$3.49**
 - Pepsi/ 7UP or Mountain Dew 330ml 24 Pack Cans - **$16.99**
 - Sanitarium Weet-Bix Cereal 1.2kg - **$6.49**
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
 - Whittaker's Artisan Squares/ Mini Mix or Cocoa Lovers 15-18 Pack Varieties - **$8.49**
-- Wither HIlls 750ml - **$11.99**
 
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Northlands
+    - Hornby
+    - Moorhouse
     - Rangiora
     - Riccarton
     - Timaru
@@ -662,16 +835,49 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$33.99**
+- Wither HIlls 750ml - **$11.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Rangiora
+    - Riccarton
+    - Timaru
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Mandarins - **$5.00**
+- Captains Choice Crumbed Fish Fingers 900g - **$7.99**
+- Leannes Kitchen Dumplings 250g - **$3.00**
+- Medallion Middle Bacon 800g - **$9.99**
+- Pams Table Spread 500g - **$2.99**
 
 #### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
+- Lower North Island
+  - Manawatu and Wairarapa
+    - Levin
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
+- Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -723,6 +929,26 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- 180 Oat Crackers 150g - **$4.69**
+- Beef Rump Steak - **$16.99**
+- Coca-Cola 1.5L Range - **$5.00**
+- Fisherking Southern Style Fish Tenders 360g - **$5.00**
+- Griffins Biscuits 250g Range - **$5.00**
+- Jimbos Cat/Dog Food 800g - **$9.99**
+- John West Pink Salmon 210g - **$4.29**
+- Leggos Passata 700g - **$3.09**
+- Mumm Grand Cordon Champage 750ml - **$54.99**
+- Ruffino Prosecco 750ml - **$15.99**
+- Schweppes Sparkling Duet 1.5L - **$4.00**
+- Selaks The Taste Collection 750ml - **$15.99**
+- Zafarelli 500g Pasta Range - **$3.00**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Warkworth
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Eco-Cook Bio Plate 9inch 20pk - **$2.79**
