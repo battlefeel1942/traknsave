@@ -23,10 +23,10 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
+    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -45,10 +45,10 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
+    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -127,7 +127,7 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Riccarton
+    - Hornby
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
