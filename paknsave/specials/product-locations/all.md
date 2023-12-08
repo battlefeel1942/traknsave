@@ -6,7 +6,6 @@
 - Beef Scotch Fillet Steak - **$28.99**
 - Chicken Drumsticks - **$4.79**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
-- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Lamb Shoulder Chops - **$11.99**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
@@ -37,6 +36,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -94,6 +98,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -165,6 +174,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -183,6 +197,67 @@
     - Wairau Road
     - Warkworth
     - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -222,6 +297,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -278,6 +358,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -343,6 +428,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -401,6 +491,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -459,6 +554,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -496,10 +596,8 @@
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
-- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Moccona Coffee Mixes 20s - **$8.49**
-- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -521,6 +619,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -584,6 +687,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
@@ -591,7 +699,6 @@
     - Clendon
     - Glen Innes
     - Manukau
-    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -599,7 +706,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -645,12 +751,78 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Manukau
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
+- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Moorhouse
+    - Riccarton
+    - Timaru
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
     - Manukau
     - Mt Albert
     - Ormiston
@@ -660,7 +832,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -700,11 +871,8 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -723,11 +891,8 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -818,22 +983,19 @@
     - Royal Oak
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- 180 Oat Crackers 150g - **$4.69**
-- Beef Rump Steak - **$16.99**
-- Coca-Cola 1.5L Range - **$5.00**
-- Fisherking Southern Style Fish Tenders 360g - **$5.00**
-- Griffins Biscuits 250g Range - **$5.00**
-- Jimbos Cat/Dog Food 800g - **$9.99**
-- John West Pink Salmon 210g - **$4.29**
-- Leggos Passata 700g - **$3.09**
-- Mumm Grand Cordon Champage 750ml - **$54.99**
-- Ruffino Prosecco 750ml - **$15.99**
-- Schweppes Sparkling Duet 1.5L - **$4.00**
-- Selaks The Taste Collection 750ml - **$15.99**
-- Zafarelli 500g Pasta Range - **$3.00**
+- Eco-Cook Bio Plate 9inch 20pk - **$2.79**
+- Effects Printed Serviettes 20pk - **$3.49**
+- Korbond Foil Roaster - **$4.49**
+- Korbond Kraft Cards 8pk - **$2.49**
+- Korbond Premium Bon Bons 8pk - **$10.99**
+- Korbond Value Christmas Wrap 7m - **$2.49**
+- Qiwi 8oz Paper Cups 25pk - **$2.00**
+
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
 
 #### Stores available: ####
 - Upper North Island
   - Auckland
-    - Warkworth
+    - Pukekohe
 --- 
