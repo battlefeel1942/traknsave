@@ -24,8 +24,10 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -44,8 +46,10 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
@@ -55,6 +59,7 @@
     - Dunedin
     - Queenstown
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
 - Beef Mince - **$9.99**
@@ -122,11 +127,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
     - Riccarton
-    - Timaru
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Flemings Chewy/ Snacker Bar or Chockits 120-180g Varieties - **$2.49**
 - Heinz Seriously Good Dressing 285-295ml Varieties - **$4.89**
