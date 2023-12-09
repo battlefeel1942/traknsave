@@ -36,9 +36,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -64,8 +61,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -98,9 +93,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -125,8 +117,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -174,9 +164,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -202,8 +189,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -236,9 +221,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -263,8 +245,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -297,9 +277,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -325,8 +302,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -358,9 +333,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -385,8 +357,6 @@
     - Rotorua
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -428,9 +398,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -456,8 +423,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -491,9 +456,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -520,8 +482,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -554,9 +514,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -583,8 +540,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -619,9 +574,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -647,8 +599,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -687,9 +637,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -711,8 +658,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -751,9 +696,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -775,8 +717,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -810,9 +750,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Hornby
 - Upper North Island
   - Auckland
     - Albany
@@ -837,8 +774,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -870,6 +805,7 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
@@ -892,6 +828,7 @@
 #### Stores available: ####
 - South Island
   - Canterbury
+    - Hornby
     - Moorhouse
     - Northlands
     - Rangiora
