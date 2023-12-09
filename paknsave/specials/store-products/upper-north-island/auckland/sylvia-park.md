@@ -26,7 +26,7 @@
 - Magnum Luxe 4s - **$7.49**
 - Magnum Minis 6s - **$7.49**
 - Mainland Block Cheese 1kg/ Tasty Cheese 700g (Excludes Tasty 1kg) - **$11.99**
-- Mandarins - **$5.00**
+- Mandarins - **$4.99**
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - Moccona Coffee Mixes 20s - **$8.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**

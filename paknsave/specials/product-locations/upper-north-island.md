@@ -8,12 +8,10 @@
 - Best Foods Real Mayonnaise 405g/435g - **$5.49**
 - Birds Eye Chips 750g (Excludes Beer Batter / Spicy / Deli) - **$3.99**
 - Chicken Drumsticks - **$4.79**
-- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Harmony Beef Sausages 360-480g Range - **$8.99**
 - Harmony Burger Patties 400g - **$8.99**
-- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Kapiti Ice Cream 1L - **$9.49**
 - Lamb Shoulder Chops - **$11.99**
@@ -25,6 +23,7 @@
 - Magnum Luxe 4s - **$7.49**
 - Magnum Minis 6s - **$7.49**
 - Mainland Block Cheese 1kg/ Tasty Cheese 700g (Excludes Tasty 1kg) - **$11.99**
+- Mandarins - **$4.99**
 - McCain Mixed Vegetables/Peas 1kg (Excludes Baby Peas) - **$3.00**
 - Moccona Coffee Mixes 20s - **$8.49**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
@@ -41,7 +40,6 @@
 - Tegel Frozen Turkey 2.75kg - **$35.99**
 - Tegel Frozen Turkey Size 3.75kg - **$51.99**
 - Telegraph Cucumbers - **$3.00**
-- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 - Twinings English Breakfast/ Earl Grey Tea Bag 100s - **$5.00**
 - Whole Beef Scotch Fillet - **$27.99**
 
@@ -84,7 +82,9 @@
     - Thames
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Mandarins - **$4.99**
+- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
+- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
+- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 
 #### Stores available: ####
 - Upper North Island
@@ -101,9 +101,9 @@
     - Papakura
     - Pukekohe
     - Silverdale
+    - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -265,7 +265,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -283,14 +282,6 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 10 Dec 2023 (deal ends) ###
-- Mandarins - **$5.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Sylvia Park
---- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
 - Cartel Burrito 200g - **$5.00**
