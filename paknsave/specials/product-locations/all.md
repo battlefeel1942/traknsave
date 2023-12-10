@@ -6,7 +6,6 @@
 - Beef Scotch Fillet Steak - **$28.99**
 - Chicken Drumsticks - **$4.79**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
-- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
 - Inghams Butterfly Chicken 1.1kg - **$8.49**
 - Lamb Shoulder Chops - **$11.99**
 - Much Moore Marvels Ice Cream 2L - **$4.49**
@@ -37,6 +36,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -45,7 +49,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -63,8 +66,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -97,6 +98,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -105,7 +111,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -122,8 +127,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -171,6 +174,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -179,7 +187,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -197,8 +204,67 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Hellers Flavoured Precooked Sausages 900g/1kg - **$8.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
@@ -231,6 +297,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -239,7 +310,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -257,8 +327,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -290,6 +358,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -298,7 +371,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -315,8 +387,6 @@
     - Rotorua
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -358,6 +428,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -366,7 +441,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -384,8 +458,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -419,6 +491,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -427,7 +504,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -446,8 +522,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -480,6 +554,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -488,7 +567,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -507,8 +585,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -520,10 +596,8 @@
 --- 
 ### Product(s) - Ends 10 Dec 2023 (deal ends) ###
 - Avalanche Roasted & Ground Coffee 200g - **$5.00**
-- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
 - Delmaine Olives Pitted/Stuffed 450g - **$5.00**
 - Moccona Coffee Mixes 20s - **$8.49**
-- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -545,6 +619,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
@@ -553,7 +632,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -571,8 +649,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -611,13 +687,17 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -626,7 +706,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -634,8 +713,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -674,13 +751,17 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -689,7 +770,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -697,8 +777,68 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 10 Dec 2023 (deal ends) ###
+- Church Road Range 750ml (Excludes Pinot Noir/ Syrah/Grand Reserve/McDonald Series) - **$13.99**
+- Toi Toi Range 750ml (Excludes Pinot Noir) - **$12.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Napier
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
+- South Island
+  - Canterbury
+    - Riccarton
+  - Otago and Southland
+    - Dunedin
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
@@ -734,7 +874,6 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -742,7 +881,6 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
 --- 
@@ -757,7 +895,6 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
@@ -765,7 +902,6 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
