@@ -8,11 +8,13 @@
 - Cadbury Favourites 265g - **$4.99**
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
+- Doritos Big Share Bag 300g - **$4.50**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Fruzio Frozen Berry 750g - **$8.99**
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
+- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
 - Lamb Leg Roast (Bone In) - **$8.99**
 - Leader Crumbed Camembert Bites 300g - **$5.99**
@@ -39,6 +41,7 @@
 - Graze Roasted Cashews 500g - **$10.99**
 - Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
@@ -51,7 +54,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -69,6 +71,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -113,7 +120,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -130,6 +136,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -174,7 +185,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -192,6 +202,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -237,7 +252,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -255,6 +269,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -288,67 +307,6 @@
     - Whangarei
   - Waikato
     - Clarence Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Dunedin
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
     - Te Awamutu
     - Thames
 --- 
@@ -359,7 +317,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -377,6 +334,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -410,121 +372,6 @@
   - Waikato
     - Clarence Street
     - Mill Street
-    - Thames
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$4.59**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Dunedin
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Lincoln Road
-    - Mangere
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-  - Bay of Plenty
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Dunedin
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mangere
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
     - Thames
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
@@ -550,7 +397,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -568,6 +414,11 @@
     - Porirua
     - Upper Hutt
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 - Upper North Island
@@ -576,7 +427,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
+    - Henderson
     - Mangere
     - Manukau
     - Ormiston
@@ -601,21 +452,6 @@
     - Mill Street
     - Te Awamutu
     - Thames
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$3.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Wellington
-    - Kilbirnie
-- Upper North Island
-  - Auckland
-    - Henderson
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Tauriko
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Anchor Vanilla Custard 1kg - **$4.29**
@@ -643,13 +479,9 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Invercargill
     - Queenstown
@@ -665,43 +497,13 @@
     - Moorhouse
     - Northlands
     - Rangiora
-    - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Queenstown
 --- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$2.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Manukau
-    - Wairau Road
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
-    - Warkworth
---- 
 ## Items unique to **individual** PAK'nSAVE stores:
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Maggi Gravy Value Packs 3s-4s - **$2.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Wellington
-    - Kilbirnie
---- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Skinless Chicken Thigh Fillets - **$18.99**
 
@@ -734,14 +536,6 @@
 - Upper North Island
   - Auckland
     - Wairau Road
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$4.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Mt Albert
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -804,6 +598,7 @@
 - Bluebird Original Cut Chips 150g - **$5.00**
 - Bundaberg Ginger Beer 10pk - **$15.99**
 - Fantastic Rice Crackers 100g - **$5.00**
+- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
 - Keri Juice 1L Range (Exlcudes Premium) - **$4.00**
 - Mumm Cordon Rouge Champagne 750ml - **$49.99**
 - Pa Road Wine 750ml - **$13.99**
@@ -827,18 +622,6 @@
 - Upper North Island
   - Auckland
     - Pukekohe
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- BEEHIVE BACON STREAKY 800G (5309836) - **$14.99**
-- Beard Brothers Summer Boerewors 450g - **$8.99**
-- Chicken Nibbles - **$7.99**
-- Chicken Wings - **$6.99**
-- Hellers Plain Precooked Sausages 1kg - **$9.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Huggies Baby Wipes 80pk - **$2.99**

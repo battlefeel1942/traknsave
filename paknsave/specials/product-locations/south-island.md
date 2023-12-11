@@ -2,65 +2,6 @@
 ## Items common to **all** South Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) South Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Anchor Vanilla Custard 1kg - **$4.29**
-- Best Foods Real Mayonnaise 810g - **$10.99**
-- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
-- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
-- ETA Dressing 250ml Varieties - **$2.49**
-- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
-- Heartland Chips 140-150g Varieties - **$1.99**
-- Just Juice 2.4 Litre Varieties - **$3.99**
-- Maggi Gravy 22-31g - **$0.99**
-- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
-- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
-- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
-- Pams Fresh Iceberg Lettuce - **$2.59**
-- Pams Fresh Tomatoes 700g Prepack - **$2.99**
-- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
-- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
-- V Energy Drink 500ml Can Varieties - **$2.79**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Invercargill
-    - Queenstown
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
-- The Ned 750ml Varieties - **$12.99**
-
-#### Stores available: ####
-- South Island
-  - Canterbury
-    - Hornby
-    - Moorhouse
-    - Northlands
-    - Rangiora
-    - Riccarton
-    - Timaru
-    - Wainoni
-  - Marlborough
-    - Blenheim
-  - Nelson
-    - Richmond
-  - Otago and Southland
-    - Queenstown
---- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$3.99**
 - Beef Sirloin /Porterhouse Steak - **$25.99**
 - Birds Eye Fish Fillets 6s - **$6.49**
@@ -68,7 +9,7 @@
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
 - Corona Extra 355ml 18 Pack Bottles - **$38.49**
-- Doritos Big Share Bag 300g - **$4.59**
+- Doritos Big Share Bag 300g - **$4.50**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
@@ -115,7 +56,7 @@
 - Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
 - Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
@@ -130,9 +71,65 @@
 
 #### Stores available: ####
 - South Island
+  - Canterbury
+    - Riccarton
+    - Timaru
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
 --- 
+### Product(s) - Ends 17 Dec 2023 (deal ends) ###
+- Anchor Vanilla Custard 1kg - **$4.29**
+- Best Foods Real Mayonnaise 810g - **$10.99**
+- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
+- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
+- ETA Dressing 250ml Varieties - **$2.49**
+- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
+- Heartland Chips 140-150g Varieties - **$1.99**
+- Just Juice 2.4 Litre Varieties - **$3.99**
+- Maggi Gravy 22-31g - **$0.99**
+- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
+- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
+- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
+- Pams Fresh Iceberg Lettuce - **$2.59**
+- Pams Fresh Tomatoes 700g Prepack - **$2.99**
+- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
+- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
+- V Energy Drink 500ml Can Varieties - **$2.79**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 17 Dec 2023 (deal ends) ###
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
+- The Ned 750ml Varieties - **$12.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Otago and Southland
+    - Queenstown
+--- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - M&Ms or Maltesers 280-345g Varieties - **$5.99**
 - Whiskas Pouch 12 Pack - **$8.79**

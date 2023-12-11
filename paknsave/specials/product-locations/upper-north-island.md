@@ -8,6 +8,7 @@
 - Cadbury Favourites 265g - **$4.99**
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
+- Doritos Big Share Bag 300g - **$4.50**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
@@ -41,7 +42,7 @@
 - Graze Roasted Cashews 500g - **$10.99**
 - Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
@@ -202,38 +203,6 @@
     - Thames
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$4.59**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Lincoln Road
-    - Mangere
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Silverdale
-    - Sylvia Park
-    - Warkworth
-  - Bay of Plenty
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Corona Extra 355ml 18 Pack Bottles - **$38.49**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Haagen 330ml 12 Pack Bottles - **$17.99**
@@ -259,7 +228,7 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
+    - Henderson
     - Mangere
     - Manukau
     - Ormiston
@@ -285,36 +254,6 @@
     - Te Awamutu
     - Thames
 --- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$2.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Manukau
-    - Wairau Road
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$3.49**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Henderson
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Tauriko
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
-    - Warkworth
---- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 24 Dec 2023 (deal ends) ###
 - Pepsi/Mountain Dew /7UP 2L - **$1.99**
@@ -331,14 +270,6 @@
 - Upper North Island
   - Auckland
     - Wairau Road
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$4.50**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Mt Albert
 --- 
 ### Product(s) - Ends 03 Dec 2023 (deal ends) ###
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Premium Range) - **$5.00**
@@ -401,6 +332,7 @@
 - Bluebird Original Cut Chips 150g - **$5.00**
 - Bundaberg Ginger Beer 10pk - **$15.99**
 - Fantastic Rice Crackers 100g - **$5.00**
+- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
 - Keri Juice 1L Range (Exlcudes Premium) - **$4.00**
 - Mumm Cordon Rouge Champagne 750ml - **$49.99**
 - Pa Road Wine 750ml - **$13.99**
@@ -424,18 +356,6 @@
 - Upper North Island
   - Auckland
     - Pukekohe
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- BEEHIVE BACON STREAKY 800G (5309836) - **$14.99**
-- Beard Brothers Summer Boerewors 450g - **$8.99**
-- Chicken Nibbles - **$7.99**
-- Chicken Wings - **$6.99**
-- Hellers Plain Precooked Sausages 1kg - **$9.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Silverdale
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Huggies Baby Wipes 80pk - **$2.99**

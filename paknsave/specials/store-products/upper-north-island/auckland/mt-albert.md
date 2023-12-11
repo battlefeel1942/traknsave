@@ -45,7 +45,7 @@
 - Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
 - Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**

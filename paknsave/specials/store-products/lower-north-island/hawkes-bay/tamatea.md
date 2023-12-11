@@ -8,7 +8,7 @@
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
 - Corona Extra 355ml 18 Pack Bottles - **$38.49**
-- Doritos Big Share Bag 300g - **$4.59**
+- Doritos Big Share Bag 300g - **$4.50**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
@@ -17,6 +17,7 @@
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
 - Griffins Kids Bisc Cookie Bear/Super Wine/Shrewsberry/Gingernuts 195g-200g (Excludes Cookie Bear Choc Chip) - **$4.50**
 - Haagen 330ml 12 Pack Bottles - **$17.99**
+- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
 - Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
@@ -54,7 +55,7 @@
 - Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
 - Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**

@@ -1,5 +1,6 @@
 
 ## Items common to **all** Lower North Island PAK'nSAVE stores:
+## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$3.99**
 - Beef Sirloin /Porterhouse Steak - **$25.99**
@@ -8,6 +9,7 @@
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
 - Corona Extra 355ml 18 Pack Bottles - **$38.49**
+- Doritos Big Share Bag 300g - **$4.50**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
@@ -16,6 +18,7 @@
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
 - Griffins Kids Bisc Cookie Bear/Super Wine/Shrewsberry/Gingernuts 195g-200g (Excludes Cookie Bear Choc Chip) - **$4.50**
 - Haagen 330ml 12 Pack Bottles - **$17.99**
+- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
 - Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
@@ -52,6 +55,7 @@
 - Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
 - Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
 - McCain Baby Peas 1kg - **$3.49**
 - McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
@@ -68,7 +72,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -86,7 +89,6 @@
     - Porirua
     - Upper Hutt
 --- 
-## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Skinless Chicken Thigh Fillets - **$14.99**
 
@@ -94,61 +96,9 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$4.59**
-
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Maggi Gravy Value Packs 3s-4s - **$3.09**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
---- 
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Napier
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
     - Palmerston North
   - Taranaki and Wanganui
     - Hawera
@@ -163,17 +113,6 @@
     - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
-### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Doritos Big Share Bag 300g - **$3.49**
-
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Maggi Gravy Value Packs 3s-4s - **$2.49**
-
-#### Stores available: ####
-- Lower North Island
-  - Wellington
-    - Kilbirnie
---- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Skinless Chicken Thigh Fillets - **$18.99**
 
