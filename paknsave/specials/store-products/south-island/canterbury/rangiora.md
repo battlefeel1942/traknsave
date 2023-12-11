@@ -1,14 +1,23 @@
 # Products for Rangiora PAK'nSAVE
 
 ## Product(s): Ends 17 Dec 2023 (deal ends)
-- Corona Extra 355ml 18 Pack Bottles - **$38.49**
-- Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
-- Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
-- Haagen 330ml 12 Pack Bottles - **$17.99**
-- Heineken 330ml 12 Pack Bottles - **$21.99**
-- Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
-- Jacobs Creek Reserves Range 750ml - **$10.49**
-- Somersby Cider 330ml 12 Pack Bottles - **$24.99**
-- Speights/ Lion Red/ Waikato 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$33.99**
-- Steinlager Classic 330ml 24 Pack Bottles - **$38.49**
+- Anchor Vanilla Custard 1kg - **$4.29**
+- Best Foods Real Mayonnaise 810g - **$10.99**
+- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
+- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
+- ETA Dressing 250ml Varieties - **$2.49**
+- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
+- Heartland Chips 140-150g Varieties - **$1.99**
+- Just Juice 2.4 Litre Varieties - **$3.99**
+- Maggi Gravy 22-31g - **$0.99**
+- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
+- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
+- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
+- Pams Fresh Iceberg Lettuce - **$2.59**
+- Pams Fresh Tomatoes 700g Prepack - **$2.99**
+- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
+- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
+- The Ned 750ml Varieties - **$12.99**
+- V Energy Drink 500ml Can Varieties - **$2.79**
 
