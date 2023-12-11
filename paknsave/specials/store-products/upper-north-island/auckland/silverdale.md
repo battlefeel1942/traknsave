@@ -1,16 +1,21 @@
 # Products for Silverdale PAK'nSAVE
 
 ## Product(s): Ends 17 Dec 2023 (deal ends)
+- BEEHIVE BACON STREAKY 800G (5309836) - **$14.99**
 - Bagged Capsicums 700g - **$3.99**
+- Beard Brothers Summer Boerewors 450g - **$8.99**
 - Beef Sirloin /Porterhouse Steak - **$25.99**
 - Birds Eye Fish Fillets 6s - **$6.49**
 - Cadbury Favourites 265g - **$4.99**
 - Cadbury Large Block Chocolate Range 315-360g - **$4.49**
 - Cadbury Roses 225g - **$4.99**
+- Chicken Nibbles - **$7.99**
+- Chicken Wings - **$6.99**
 - Corona Extra 355ml 18 Pack Bottles - **$38.49**
 - Doritos Big Share Bag 300g - **$4.50**
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$12.99**
+- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
 - Fresh Snapper Fillets Catch Permitting - **$42.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
 - Fruzio Frozen Berry 750g - **$8.99**
@@ -20,6 +25,7 @@
 - Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
+- Hellers Plain Precooked Sausages 1kg - **$9.99**
 - Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
 - Jacobs Creek Reserves Range 750ml - **$10.49**
 - Lamb Leg Roast (Bone In) - **$8.99**

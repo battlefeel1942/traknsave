@@ -60,12 +60,10 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -99,11 +97,9 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -139,12 +135,10 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -177,12 +171,10 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
     - Papakura
-    - Pukekohe
     - Silverdale
     - Sylvia Park
     - Warkworth
@@ -228,12 +220,10 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
-    - Mangere
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
-    - Pukekohe
     - Silverdale
     - Sylvia Park
     - Wairau Road
@@ -253,6 +243,15 @@
     - Mill Street
     - Te Awamutu
     - Thames
+--- 
+### Product(s) - Ends 17 Dec 2023 (deal ends) ###
+- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Silverdale
+    - Warkworth
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 24 Dec 2023 (deal ends) ###
@@ -332,7 +331,6 @@
 - Bluebird Original Cut Chips 150g - **$5.00**
 - Bundaberg Ginger Beer 10pk - **$15.99**
 - Fantastic Rice Crackers 100g - **$5.00**
-- Fisherking Raw Prawn stir fry Meat 800g - **$12.99**
 - Keri Juice 1L Range (Exlcudes Premium) - **$4.00**
 - Mumm Cordon Rouge Champagne 750ml - **$49.99**
 - Pa Road Wine 750ml - **$13.99**
@@ -347,10 +345,25 @@
     - Warkworth
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Ornelle Brie/Camembert Cheese 110g - **$2.99**
-
-### Product(s) - Ends 30 Dec 2023 (deal ends) ###
-- Wakachangi Lager 24pk Cans - **$30.99**
+- Anchor Vanilla Custard 1kg - **$4.29**
+- Best Foods Real Mayonnaise 810g - **$10.99**
+- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
+- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
+- ETA Dressing 250ml Varieties - **$2.49**
+- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
+- Heartland Chips 140-150g Varieties - **$1.99**
+- Just Juice 2.4 Litre Varieties - **$3.99**
+- Maggi Gravy 22-31g - **$0.99**
+- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
+- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
+- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
+- Pams Fresh Iceberg Lettuce - **$2.59**
+- Pams Fresh Tomatoes 700g Prepack - **$2.99**
+- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
+- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
+- The Ned 750ml Varieties - **$12.99**
+- V Energy Drink 500ml Can Varieties - **$2.79**
 
 #### Stores available: ####
 - Upper North Island
@@ -358,17 +371,16 @@
     - Pukekohe
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Huggies Baby Wipes 80pk - **$2.99**
-- Mainland Special Reserve Blue Vein Cheese 100g - **$4.69**
-- Philadelphia Cream Cheese 250g - **$4.49**
-- Philadelphia Spreadable Cream Cheese 250g - **$4.49**
-- The Collective Flavoured Yoghurt 500g Range - **$5.00**
-- Verkerks Salami 100g Range - **$3.79**
+- BEEHIVE BACON STREAKY 800G (5309836) - **$14.99**
+- Beard Brothers Summer Boerewors 450g - **$8.99**
+- Chicken Nibbles - **$7.99**
+- Chicken Wings - **$6.99**
+- Hellers Plain Precooked Sausages 1kg - **$9.99**
 
 #### Stores available: ####
 - Upper North Island
-  - Bay of Plenty
-    - Taupo
+  - Auckland
+    - Silverdale
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Griffins Kids Bisc Cookie Bear/Super Wine/Shrewsberry/Gingernuts 195g-200g (Excludes Cookie Bear Choc Chip) - **$3.29**

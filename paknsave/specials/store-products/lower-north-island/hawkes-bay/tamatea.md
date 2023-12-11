@@ -17,7 +17,6 @@
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
 - Griffins Kids Bisc Cookie Bear/Super Wine/Shrewsberry/Gingernuts 195g-200g (Excludes Cookie Bear Choc Chip) - **$4.50**
 - Haagen 330ml 12 Pack Bottles - **$17.99**
-- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
 - Jacobs Creek Reserve Sparkling Range 750ml - **$10.49**
