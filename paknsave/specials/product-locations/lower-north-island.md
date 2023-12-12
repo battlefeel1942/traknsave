@@ -15,6 +15,7 @@
 - Fruzio Frozen Berry 750g - **$8.99**
 - Golden Gourmet Baby Potatoes 1.5kg - **$4.99**
 - Haagen 330ml 12 Pack Bottles - **$17.99**
+- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Heinz Seriously Good Aioli/Mayonnaise 500ml - **$5.49**
 - Lamb Leg Roast (Bone In) - **$8.99**
@@ -54,11 +55,9 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Tamatea
   - Manawatu and Wairarapa
     - Levin
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
     - New Plymouth
@@ -69,7 +68,6 @@
     - Lower Hutt
     - Petone
     - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Skinless Chicken Thigh Fillets - **$14.99**
@@ -78,10 +76,8 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Tamatea
   - Manawatu and Wairarapa
     - Levin
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
     - New Plymouth
@@ -92,7 +88,6 @@
     - Lower Hutt
     - Petone
     - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$33.99**
@@ -121,10 +116,8 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Tamatea
   - Manawatu and Wairarapa
     - Masterton
-    - Palmerston North
   - Taranaki and Wanganui
     - Hawera
     - New Plymouth
@@ -135,29 +128,35 @@
     - Lower Hutt
     - Petone
     - Porirua
-    - Upper Hutt
 --- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
-- Heartland Kettle Cooked Crisps/ Extreme Crunch Chips 150g - **$6.00**
+- Anchor Vanilla Custard 1kg - **$4.29**
+- Best Foods Real Mayonnaise 810g - **$10.99**
+- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
+- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
+- ETA Dressing 250ml Varieties - **$2.49**
+- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
+- Heartland Chips 140-150g Varieties - **$1.99**
+- Just Juice 2.4 Litre Varieties - **$3.99**
+- Maggi Gravy 22-31g - **$0.99**
+- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
+- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
+- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
+- Pams Fresh Iceberg Lettuce - **$2.59**
+- Pams Fresh Tomatoes 700g Prepack - **$2.99**
+- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
+- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
+- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
+- The Ned 750ml Varieties - **$12.99**
+- V Energy Drink 500ml Can Varieties - **$2.79**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
-    - Hastings
+    - Tamatea
   - Manawatu and Wairarapa
-    - Levin
-    - Masterton
     - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
   - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
     - Upper Hutt
 --- 
 ## Items unique to **individual** Lower North Island PAK'nSAVE stores:
