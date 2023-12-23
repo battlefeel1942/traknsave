@@ -1,23 +1,25 @@
 # Products for Warkworth PAK'nSAVE
 
-## Product(s): Ends 17 Dec 2023 (deal ends)
-- Anchor Vanilla Custard 1kg - **$4.29**
-- Best Foods Real Mayonnaise 810g - **$10.99**
-- Cadbury Favourites 265g/ Cadbury Roses 225g or Cadbury Milk Tray 180g - **$5.79**
-- Coca-Cola/ Sprite or L&P 330ml 18 Pack Can Varieties - **$17.99**
-- ETA Dressing 250ml Varieties - **$2.49**
-- Finish Ultimate Dishwasher Tablets 31-26 Pack Varieties - **$18.99**
-- Heartland Chips 140-150g Varieties - **$1.99**
-- Just Juice 2.4 Litre Varieties - **$3.99**
-- Maggi Gravy 22-31g - **$0.99**
-- McCain Pub Style Beer Batter Fries 750g Varieties - **$3.79**
-- Moccona Coffee Sachets 8-10 Pack Varieties - **$4.49**
-- Mother Earth Deluxe Nuts/ Pistachios or Cashews 320-400g Varieties - **$9.49**
-- Pams Fresh Iceberg Lettuce - **$2.59**
-- Pams Fresh Tomatoes 700g Prepack - **$2.99**
-- Sanitarium So Good Oat No Added Sugar 1 Litre - **$2.69**
-- Sanitarium So Good Regular/ Almond/ Vanilla/ Coconut 1 Litre - **$2.99**
-- Speight's Gold Medal Ale 330ml 24 Pack Bottles - **$32.99**
-- The Ned 750ml Varieties - **$12.99**
-- V Energy Drink 500ml Can Varieties - **$2.79**
+## Product(s): Ends 24 Dec 2023 (deal ends)
+- Colgate Extra Clean Medium Toothbrush 2 Pack - **$2.00**
+- Colgate Toothpaste 110g/120g - **$2.00**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+- Graze Roasted Cashews 500g - **$10.99**
+- Graze Roasted/Salted Pistachios 425g - **$10.99**
+- Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
+- Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
+- Inghams Whole Bird Size 24/2.3kg - **$10.99**
+- Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
+- McCain Baby Peas 1kg - **$3.49**
+- McCain Complex Vegetable Mixes 1kg - **$3.49**
+- Mumm Grand Cordon Champagne 750ml - **$49.99**
+- Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
+- Pepsi/Mountain Dew /7UP 2L - **$1.89**
+- Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
+- The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
+
+## Product(s): Ends 31 Dec 2023 (deal ends)
+- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
+- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
