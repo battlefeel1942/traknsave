@@ -29,10 +29,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -100,10 +97,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -164,10 +158,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -229,10 +220,7 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -296,16 +284,14 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -355,16 +341,14 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Northlands
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -420,7 +404,7 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -430,7 +414,9 @@
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Heineken 330ml 12 Pack Bottles - **$21.99**
@@ -440,7 +426,7 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -449,6 +435,9 @@
     - Blenheim
   - Nelson
     - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
