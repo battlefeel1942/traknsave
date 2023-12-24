@@ -29,7 +29,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -97,7 +99,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -158,7 +162,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -220,7 +226,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -284,14 +292,16 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -341,14 +351,16 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Moorhouse
+    - Timaru
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Lincoln Road
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -404,15 +416,13 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -426,15 +436,13 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
-    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown
