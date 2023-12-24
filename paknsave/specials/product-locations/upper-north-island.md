@@ -1,18 +1,6 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Colgate Toothpaste 110g/120g - **$2.00**
-- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
-- Graze Roasted Cashews 500g - **$10.99**
-- Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
-- Inghams Whole Bird Size 24/2.3kg - **$10.99**
-- Maggi Gravy Value Packs 3s-4s - **$4.50**
-- McCain Baby Peas 1kg - **$3.49**
-- McCain Complex Vegetable Mixes 1kg - **$3.49**
-- Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
-- Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
-
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
 - Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
@@ -43,8 +31,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -54,93 +40,6 @@
     - Te Awamutu
     - Thames
 --- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Pepsi/Mountain Dew /7UP 2L - **$1.89**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Colgate Extra Clean Medium Toothbrush 2 Pack - **$2.00**
-- Graze Roasted/Salted Pistachios 425g - **$10.99**
-- Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Gisborne
-    - Gisborne City
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
-- Mumm Grand Cordon Champagne 750ml - **$49.99**
-- The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
-
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
 - Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
 
@@ -167,8 +66,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -179,14 +76,6 @@
     - Thames
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Pepsi/Mountain Dew /7UP 2L - **$1.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Manukau
---- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$3.99**
 - Beef Sirloin /Porterhouse Steak - **$25.99**
@@ -232,6 +121,25 @@
 - Watties Classic Burger Sauce 500ml - **$5.49**
 - Whole Beef Sirloin - **$21.99**
 
+### Product(s) - Ends 24 Dec 2023 (deal ends) ###
+- Colgate Extra Clean Medium Toothbrush 2 Pack - **$2.00**
+- Colgate Toothpaste 110g/120g - **$2.00**
+- Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
+- Graze Roasted Cashews 500g - **$10.99**
+- Graze Roasted/Salted Pistachios 425g - **$10.99**
+- Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
+- Huggies Jumbo Pack Nappy Pants 45s-56s - **$33.99**
+- Inghams Whole Bird Size 24/2.3kg - **$10.99**
+- Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
+- Maggi Gravy Value Packs 3s-4s - **$4.50**
+- McCain Baby Peas 1kg - **$3.49**
+- McCain Complex Vegetable Mixes 1kg - **$3.49**
+- Mumm Grand Cordon Champagne 750ml - **$49.99**
+- Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
+- Pepsi/Mountain Dew /7UP 2L - **$1.89**
+- Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
+- The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
+
 #### Stores available: ####
 - Upper North Island
   - Auckland
@@ -244,14 +152,4 @@
 - Upper North Island
   - Auckland
     - Pukekohe
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- Colgate Extra Clean Medium Toothbrush 2 Pack - **$150.00**
-- Graze Roasted/Salted Pistachios 425g - **$150.00**
-- Huggies Jumbo Pack Nappy Pants 45s-56s - **$150.00**
-
-#### Stores available: ####
-- Upper North Island
-  - Waikato
-    - Mill Street
 --- 
