@@ -2,80 +2,19 @@
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
 ### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- McCain Baby Peas 1kg - **$3.49**
-- McCain Complex Vegetable Mixes 1kg - **$3.49**
-
-### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
 - Colgate Toothpaste 110g/120g - **$2.00**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Graze Roasted Cashews 500g - **$10.99**
 - Huggies Jumbo Pack Nappies 64s-108s (Excludes Nappy Pants) - **$33.99**
 - Inghams Whole Bird Size 24/2.3kg - **$10.99**
 - Maggi Gravy Value Packs 3s-4s - **$4.50**
+- McCain Baby Peas 1kg - **$3.49**
+- McCain Complex Vegetable Mixes 1kg - **$3.49**
 - Oak Fruit Salad/ Peaches/Apricots 410g - **$1.49**
 - Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
+
+### Product(s) - Ends 31 Dec 2023 (deal ends) ###
+- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
@@ -99,9 +38,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
+    - Moorhouse
+    - Rangiora
 - Upper North Island
   - Auckland
     - Albany
@@ -128,6 +66,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -162,9 +102,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
+    - Moorhouse
+    - Rangiora
 - Upper North Island
   - Auckland
     - Albany
@@ -190,6 +129,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -226,9 +167,8 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
+    - Moorhouse
+    - Rangiora
 - Upper North Island
   - Auckland
     - Albany
@@ -255,6 +195,8 @@
     - Taupo
     - Tauriko
     - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -266,6 +208,7 @@
 ### Product(s) - Ends 24 Dec 2023 (deal ends) ###
 - Lindauer Standard Range 750ml (Excludes Special Reserve /Free /Vintage Series) - **$9.99**
 - Mumm Grand Cordon Champagne 750ml - **$49.99**
+- The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
 
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
 - Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
@@ -292,16 +235,14 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
+    - Moorhouse
+    - Rangiora
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -318,65 +259,8 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 24 Dec 2023 (deal ends) ###
-- The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Canterbury
-    - Timaru
-  - Nelson
-    - Richmond
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
+  - Gisborne
+    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -416,13 +300,14 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -436,13 +321,14 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
+    - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown
