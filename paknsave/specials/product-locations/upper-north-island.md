@@ -13,7 +13,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -51,8 +50,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
-    - Mangere
     - Manukau
     - Ormiston
     - Papakura

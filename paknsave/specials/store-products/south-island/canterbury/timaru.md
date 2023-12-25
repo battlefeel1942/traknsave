@@ -22,9 +22,6 @@
 - Purina One Dog 3.6kg or Tux Tasty Bites 8kg - **$28.99**
 - Tip Top Ice Cream 2 Litre Varieties - **$5.49**
 
-## Product(s): Ends 25 Dec 2023 (deal ends)
-- Fresh Quality Mark Lamb Leg Roast - **$8.79**
-
 ## Product(s): Ends 26 Dec 2023 (deal ends)
 - Nestle Scorched Almonds 225-240g Varieties - **$4.79**
 

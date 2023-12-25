@@ -23,6 +23,11 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Wainoni
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -31,7 +36,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -82,14 +86,17 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Wainoni
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
-    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -135,9 +142,6 @@
 - Purina One Dog 3.6kg or Tux Tasty Bites 8kg - **$28.99**
 - Tip Top Ice Cream 2 Litre Varieties - **$5.49**
 
-### Product(s) - Ends 25 Dec 2023 (deal ends) ###
-- Fresh Quality Mark Lamb Leg Roast - **$8.79**
-
 ### Product(s) - Ends 26 Dec 2023 (deal ends) ###
 - Nestle Scorched Almonds 225-240g Varieties - **$4.79**
 
@@ -150,11 +154,8 @@
     - Rangiora
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -173,11 +174,8 @@
     - Rangiora
     - Riccarton
     - Timaru
-    - Wainoni
   - Marlborough
     - Blenheim
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown
