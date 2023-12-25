@@ -23,9 +23,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -84,9 +81,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -153,6 +147,7 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -175,6 +170,7 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
