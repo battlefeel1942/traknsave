@@ -145,3 +145,11 @@
   - Auckland
     - Royal Oak
 --- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
+--- 
