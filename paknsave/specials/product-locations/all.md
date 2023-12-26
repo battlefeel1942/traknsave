@@ -23,11 +23,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
-  - Nelson
-    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -86,11 +81,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
-  - Nelson
-    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -154,8 +144,11 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -174,8 +167,11 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown
@@ -260,12 +256,4 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 30 Dec 2023 (deal ends) ###
-- Wakachangi Lager 24pk Cans - **$30.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
 --- 
