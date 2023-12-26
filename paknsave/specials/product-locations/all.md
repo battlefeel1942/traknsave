@@ -10,6 +10,7 @@
     - Hastings
     - Tamatea
   - Manawatu and Wairarapa
+    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -23,12 +24,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -87,12 +82,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Moorhouse
-    - Rangiora
-  - Marlborough
-    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -144,17 +133,18 @@
 - Purina One Dog 3.6kg or Tux Tasty Bites 8kg - **$28.99**
 - Tip Top Ice Cream 2 Litre Varieties - **$5.49**
 
-### Product(s) - Ends 26 Dec 2023 (deal ends) ###
-- Nestle Scorched Almonds 225-240g Varieties - **$4.79**
-
 #### Stores available: ####
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
@@ -170,10 +160,14 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
+    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
