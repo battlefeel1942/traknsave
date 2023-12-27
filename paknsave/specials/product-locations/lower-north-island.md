@@ -1,15 +1,16 @@
 
 ## Items common to **all** Lower North Island PAK'nSAVE stores:
-## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
+- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
     - Tamatea
   - Manawatu and Wairarapa
+    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
@@ -24,16 +25,17 @@
     - Porirua
     - Upper Hutt
 --- 
+## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
+- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
 #### Stores available: ####
 - Lower North Island
   - Hawkes Bay
     - Hastings
+    - Napier
     - Tamatea
   - Manawatu and Wairarapa
-    - Levin
     - Masterton
     - Palmerston North
   - Taranaki and Wanganui
