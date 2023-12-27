@@ -23,9 +23,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
@@ -34,7 +31,6 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
-    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -85,16 +81,14 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Wainoni
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Mangere
+    - Henderson
+    - Lincoln Road
     - Manukau
     - Ormiston
     - Papakura
@@ -149,6 +143,7 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
@@ -171,6 +166,7 @@
     - Rangiora
     - Riccarton
     - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
