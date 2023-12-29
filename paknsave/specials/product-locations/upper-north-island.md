@@ -50,6 +50,7 @@
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -59,7 +60,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa

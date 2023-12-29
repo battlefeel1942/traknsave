@@ -24,10 +24,8 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-  - Marlborough
-    - Blenheim
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -87,16 +85,15 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-  - Marlborough
-    - Blenheim
+  - Nelson
+    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -106,7 +103,6 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
-    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -148,12 +144,13 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Nelson
-    - Richmond
+  - Marlborough
+    - Blenheim
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -168,12 +165,13 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Nelson
-    - Richmond
+  - Marlborough
+    - Blenheim
   - Otago and Southland
     - Dunedin
     - Queenstown

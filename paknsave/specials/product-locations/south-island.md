@@ -26,12 +26,13 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Nelson
-    - Richmond
+  - Marlborough
+    - Blenheim
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -46,28 +47,27 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
-  - Nelson
-    - Richmond
+  - Marlborough
+    - Blenheim
   - Otago and Southland
     - Dunedin
     - Queenstown
 --- 
+## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
 - Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
 - Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
 #### Stores available: ####
 - South Island
-  - Canterbury
-    - Northlands
-  - Marlborough
-    - Blenheim
+  - Nelson
+    - Richmond
 --- 
-## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Oak Fruit in Syrup 410g Can Varieties - **$1.69**
 
