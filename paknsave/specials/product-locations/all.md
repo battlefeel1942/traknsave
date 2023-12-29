@@ -23,9 +23,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Nelson
-    - Richmond
 - Upper North Island
   - Auckland
     - Albany
@@ -84,16 +81,12 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Nelson
-    - Richmond
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
@@ -151,6 +144,8 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Invercargill
@@ -172,6 +167,8 @@
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown

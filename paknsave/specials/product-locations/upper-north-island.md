@@ -50,7 +50,6 @@
     - Botany
     - Clendon
     - Glen Innes
-    - Henderson
     - Manukau
     - Ormiston
     - Papakura
