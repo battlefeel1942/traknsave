@@ -26,16 +26,16 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Heineken 330ml 12 Pack Bottles - **$21.99**
@@ -46,14 +46,15 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
 --- 
 ### Product(s) - Ends 31 Dec 2023 (deal ends) ###
 - Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
@@ -62,10 +63,9 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Wainoni
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Northlands
+  - Marlborough
+    - Blenheim
 --- 
 ## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###

@@ -25,10 +25,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Northlands
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -89,10 +88,9 @@
     - Upper Hutt
 - South Island
   - Canterbury
-    - Wainoni
-  - Otago and Southland
-    - Dunedin
-    - Queenstown
+    - Northlands
+  - Marlborough
+    - Blenheim
 - Upper North Island
   - Auckland
     - Albany
@@ -108,6 +106,7 @@
     - Sylvia Park
     - Wairau Road
     - Warkworth
+    - Westgate
   - Bay of Plenty
     - Cameron Road
     - Papamoa
@@ -149,16 +148,16 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
+    - Dunedin
     - Invercargill
+    - Queenstown
 --- 
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Heineken 330ml 12 Pack Bottles - **$21.99**
@@ -169,14 +168,15 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
@@ -258,4 +258,12 @@
 - Upper North Island
   - Auckland
     - Royal Oak
+--- 
+### Product(s) - Ends 30 Dec 2023 (deal ends) ###
+- Wakachangi Lager 24pk Cans - **$30.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Pukekohe
 --- 
