@@ -23,6 +23,9 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -31,6 +34,7 @@
     - Glen Innes
     - Henderson
     - Lincoln Road
+    - Mangere
     - Manukau
     - Mt Albert
     - Ormiston
@@ -81,12 +85,16 @@
     - Petone
     - Porirua
     - Upper Hutt
+- South Island
+  - Canterbury
+    - Northlands
 - Upper North Island
   - Auckland
     - Albany
     - Botany
     - Clendon
     - Glen Innes
+    - Mangere
     - Manukau
     - Ormiston
     - Papakura
@@ -137,7 +145,6 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -160,7 +167,6 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -253,12 +259,4 @@
 - Upper North Island
   - Auckland
     - Royal Oak
---- 
-### Product(s) - Ends 30 Dec 2023 (deal ends) ###
-- Wakachangi Lager 24pk Cans - **$30.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Pukekohe
 --- 
