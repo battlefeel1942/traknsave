@@ -23,9 +23,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -84,9 +81,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Moorhouse
 - Upper North Island
   - Auckland
     - Albany
@@ -142,6 +136,7 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
@@ -164,6 +159,7 @@
 - South Island
   - Canterbury
     - Hornby
+    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
