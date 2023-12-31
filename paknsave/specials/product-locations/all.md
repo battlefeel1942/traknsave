@@ -1,132 +1,13 @@
 
 ## Items common to **all** PAK'nSAVE stores:
 ## Items common to **some** (but not all) PAK'nSAVE stores:
-### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Invercargill
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
-
-#### Stores available: ####
-- Lower North Island
-  - Hawkes Bay
-    - Hastings
-    - Tamatea
-  - Manawatu and Wairarapa
-    - Levin
-    - Masterton
-    - Palmerston North
-  - Taranaki and Wanganui
-    - Hawera
-    - New Plymouth
-    - Whanganui
-  - Wellington
-    - Kapiti
-    - Kilbirnie
-    - Lower Hutt
-    - Petone
-    - Porirua
-    - Upper Hutt
-- South Island
-  - Otago and Southland
-    - Invercargill
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Aunt Betty's Steamed Puddings 95g 2 Pack Varieties - **$2.49**
 - Bundaberg 375ml 4 Pack Bottle Varieties - **$5.99**
 - Coca-Cola/ Sprite/ Fanta/ Lift or L&P 1.5L Bottle Varieties - **$1.89**
-- Heineken 330ml 12 Pack Bottles - **$21.99**
 - Hellers Streaky Bacon 800g Varieties - **$14.29**
 - Jersey Benne Potatoes 1kg Prepack - **$3.99**
 - Keri Juice or Fruit Drink 2.4L-3L Varieties - **$3.79**
-- Lindauer 750ml Varieties - **$10.99**
 - Lindt Lindor Bags 123-125g Varieties - **$4.49**
 - Natures Fresh King Burger Buns 8 pack - **$3.99**
 - Purex Toilet Paper 24 Pack - **$9.99**
@@ -149,7 +30,28 @@
     - Rangiora
     - Riccarton
     - Timaru
-    - Wainoni
+  - Marlborough
+    - Blenheim
+  - Nelson
+    - Richmond
+  - Otago and Southland
+    - Dunedin
+    - Invercargill
+    - Queenstown
+--- 
+### Product(s) - Ends 02 Jan 2024 (deal ends) ###
+- Heineken 330ml 12 Pack Bottles - **$21.99**
+- Lindauer 750ml Varieties - **$10.99**
+
+#### Stores available: ####
+- South Island
+  - Canterbury
+    - Hornby
+    - Moorhouse
+    - Northlands
+    - Rangiora
+    - Riccarton
+    - Timaru
   - Marlborough
     - Blenheim
   - Nelson
@@ -159,6 +61,17 @@
     - Queenstown
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
+### Product(s) - Ends 02 Jan 2024 (deal ends) ###
+- Oak Fruit in Syrup 410g Can Varieties - **$1.69**
+
+### Product(s) - Ends 07 Jan 2024 (deal ends) ###
+- Mother Earth Nut Range 140-150g Varieties - **$3.99**
+
+#### Stores available: ####
+- South Island
+  - Otago and Southland
+    - Invercargill
+--- 
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$3.99**
 - Beef Sirloin /Porterhouse Steak - **$25.99**
@@ -222,6 +135,10 @@
 - Pepsi/Mountain Dew /7UP 2L - **$1.89**
 - Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
 - The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
+
+### Product(s) - Ends 31 Dec 2023 (deal ends) ###
+- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
+- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
 #### Stores available: ####
 - Upper North Island

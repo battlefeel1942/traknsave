@@ -1,80 +1,6 @@
 
 ## Items common to **all** Upper North Island PAK'nSAVE stores:
 ## Items common to **some** (but not all) Upper North Island PAK'nSAVE stores:
-### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Henderson
-    - Lincoln Road
-    - Manukau
-    - Mt Albert
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-    - Westgate
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
-### Product(s) - Ends 31 Dec 2023 (deal ends) ###
-- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
-
-#### Stores available: ####
-- Upper North Island
-  - Auckland
-    - Albany
-    - Botany
-    - Clendon
-    - Glen Innes
-    - Manukau
-    - Ormiston
-    - Papakura
-    - Pukekohe
-    - Royal Oak
-    - Silverdale
-    - Sylvia Park
-    - Wairau Road
-    - Warkworth
-  - Bay of Plenty
-    - Cameron Road
-    - Papamoa
-    - Rotorua
-    - Taupo
-    - Tauriko
-    - Whakatane
-  - Northland
-    - Kaitaia
-    - Whangarei
-  - Waikato
-    - Clarence Street
-    - Mill Street
-    - Te Awamutu
-    - Thames
---- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###
 - Bagged Capsicums 700g - **$3.99**
@@ -139,6 +65,10 @@
 - Pepsi/Mountain Dew /7UP 2L - **$1.89**
 - Pepsi/Mountain Dew /7UP 330ml 24 Pack Cans - **$15.99**
 - The Ned Range 750ml (Excludes Pinot Noir) - **$12.99**
+
+### Product(s) - Ends 31 Dec 2023 (deal ends) ###
+- Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$19.29**
+- Pams Finest Cooked Prawn Cutlet with Seafood Sauce 400g - **$12.99**
 
 #### Stores available: ####
 - Upper North Island
