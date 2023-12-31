@@ -24,10 +24,6 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Invercargill
 - Upper North Island
@@ -89,10 +85,6 @@
     - Porirua
     - Upper Hutt
 - South Island
-  - Canterbury
-    - Northlands
-  - Nelson
-    - Richmond
   - Otago and Southland
     - Invercargill
 - Upper North Island
@@ -153,12 +145,15 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
   - Marlborough
     - Blenheim
+  - Nelson
+    - Richmond
   - Otago and Southland
     - Dunedin
     - Queenstown
