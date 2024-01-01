@@ -30,8 +30,7 @@
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
@@ -52,8 +51,7 @@
     - Rangiora
     - Riccarton
     - Timaru
-  - Marlborough
-    - Blenheim
+    - Wainoni
   - Nelson
     - Richmond
   - Otago and Southland
