@@ -25,10 +25,10 @@
 
 #### Stores available: ####
 - Upper North Island
-  - Northland
-    - Kaitaia
+  - Auckland
+    - Sylvia Park
   - Waikato
-    - Clarence Street
+    - Te Awamutu
 --- 
 ## Items unique to **individual** Upper North Island PAK'nSAVE stores:
 ### Product(s) - Ends 17 Dec 2023 (deal ends) ###

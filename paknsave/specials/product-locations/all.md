@@ -22,6 +22,9 @@
 - Tip Top Ice Cream 2 Litre Varieties - **$5.49**
 
 #### Stores available: ####
+- Lower North Island
+  - Taranaki and Wanganui
+    - New Plymouth
 - South Island
   - Canterbury
     - Hornby
@@ -40,16 +43,19 @@
     - Invercargill
     - Queenstown
 - Upper North Island
-  - Northland
-    - Kaitaia
+  - Auckland
+    - Sylvia Park
   - Waikato
-    - Clarence Street
+    - Te Awamutu
 --- 
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
 - Heineken 330ml 12 Pack Bottles - **$21.99**
 - Lindauer 750ml Varieties - **$10.99**
 
 #### Stores available: ####
+- Lower North Island
+  - Taranaki and Wanganui
+    - New Plymouth
 - South Island
   - Canterbury
     - Hornby
@@ -67,10 +73,10 @@
     - Dunedin
     - Queenstown
 - Upper North Island
-  - Northland
-    - Kaitaia
+  - Auckland
+    - Sylvia Park
   - Waikato
-    - Clarence Street
+    - Te Awamutu
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 02 Jan 2024 (deal ends) ###
