@@ -1,5 +1,6 @@
 
 ## Items common to **all** South Island PAK'nSAVE stores:
+## Items common to **some** (but not all) South Island PAK'nSAVE stores:
 ### Product(s) - Ends 07 Jan 2024 (deal ends) ###
 - Cadbury Favourites 520g Varieties - **$9.79**
 - Copper Kettle Chips 140-150g Varieties - **$2.99**
@@ -9,10 +10,8 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -25,7 +24,6 @@
     - Invercargill
     - Queenstown
 --- 
-## Items common to **some** (but not all) South Island PAK'nSAVE stores:
 ## Items unique to **individual** South Island PAK'nSAVE stores:
 ### Product(s) - Ends 07 Jan 2024 (deal ends) ###
 - Mother Earth Nut Range 140-150g Varieties - **$3.99**

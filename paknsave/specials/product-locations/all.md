@@ -8,12 +8,13 @@
 - Tip Top Ice Cream 2 Litre Varieties - **$5.49**
 
 #### Stores available: ####
+- Lower North Island
+  - Wellington
+    - Upper Hutt
 - South Island
   - Canterbury
-    - Hornby
     - Moorhouse
     - Northlands
-    - Rangiora
     - Riccarton
     - Timaru
     - Wainoni
@@ -27,7 +28,10 @@
     - Queenstown
 - Upper North Island
   - Auckland
-    - Lincoln Road
+    - Clendon
+    - Wairau Road
+  - Bay of Plenty
+    - Cameron Road
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 07 Jan 2024 (deal ends) ###
