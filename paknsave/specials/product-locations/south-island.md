@@ -10,10 +10,11 @@
 #### Stores available: ####
 - South Island
   - Canterbury
-    - Moorhouse
+    - Hornby
     - Northlands
-    - Rangiora
     - Riccarton
+    - Timaru
+    - Wainoni
   - Marlborough
     - Blenheim
   - Nelson
