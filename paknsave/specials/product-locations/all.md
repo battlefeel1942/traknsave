@@ -12,7 +12,6 @@
   - Canterbury
     - Hornby
     - Moorhouse
-    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -22,12 +21,8 @@
   - Nelson
     - Richmond
   - Otago and Southland
-    - Dunedin
     - Invercargill
     - Queenstown
-- Upper North Island
-  - Auckland
-    - Glen Innes
 --- 
 ## Items unique to **individual** PAK'nSAVE stores:
 ### Product(s) - Ends 07 Jan 2024 (deal ends) ###
