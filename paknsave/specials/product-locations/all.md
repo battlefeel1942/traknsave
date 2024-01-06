@@ -11,7 +11,6 @@
 - South Island
   - Canterbury
     - Hornby
-    - Moorhouse
     - Northlands
     - Rangiora
     - Riccarton
