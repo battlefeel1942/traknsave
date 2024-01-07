@@ -14,8 +14,11 @@
     - Moorhouse
     - Northlands
     - Rangiora
+    - Riccarton
     - Timaru
     - Wainoni
+  - Marlborough
+    - Blenheim
   - Nelson
     - Richmond
   - Otago and Southland
