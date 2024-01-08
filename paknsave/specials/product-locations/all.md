@@ -7,7 +7,6 @@
 - Angel Bay Gormet Beef Meatball 525g - **$10.99**
 - Angel Tomatoes 200g - **$2.99**
 - Beef Rump Steak - **$14.99**
-- Cherries Value Pack 900g - **$8.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
 - Fresh Whole Trevally Catch Permitting - **$8.99**
@@ -28,7 +27,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -45,9 +43,63 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Cameron Road
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 14 Jan 2024 (deal ends) ###
+- Cherries Value Pack 900g - **$8.99**
+
+#### Stores available: ####
+- Lower North Island
+  - Hawkes Bay
+    - Hastings
+    - Tamatea
+  - Manawatu and Wairarapa
+    - Levin
+    - Masterton
+    - Palmerston North
+  - Taranaki and Wanganui
+    - Hawera
+    - New Plymouth
+    - Whanganui
+  - Wellington
+    - Kapiti
+    - Kilbirnie
+    - Lower Hutt
+    - Petone
+    - Porirua
+    - Upper Hutt
 - Upper North Island
   - Auckland
     - Albany
@@ -72,8 +124,6 @@
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -101,7 +151,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton
@@ -117,9 +166,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -139,13 +185,12 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -162,7 +207,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton
@@ -178,9 +222,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -200,12 +241,11 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -222,7 +262,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -239,9 +278,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -261,12 +297,11 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -288,7 +323,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton
@@ -304,9 +338,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -314,6 +345,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -322,13 +354,12 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -349,7 +380,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -366,9 +396,6 @@
     - Petone
     - Porirua
     - Upper Hutt
-- South Island
-  - Canterbury
-    - Northlands
 - Upper North Island
   - Auckland
     - Albany
@@ -376,6 +403,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -384,13 +412,12 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -435,6 +462,7 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -457,6 +485,7 @@
   - Canterbury
     - Hornby
     - Moorhouse
+    - Northlands
     - Rangiora
     - Riccarton
     - Timaru
@@ -523,4 +552,12 @@
 - Upper North Island
   - Bay of Plenty
     - Taupo
+--- 
+### Product(s) - Ends 14 Jan 2024 (deal ends) ###
+- Cherries Value Pack 900g - **$9.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Cameron Road
 --- 

@@ -1,5 +1,6 @@
 
 ## Items common to **all** Lower North Island PAK'nSAVE stores:
+## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 14 Jan 2024 (deal ends) ###
 - Angel Bay Beef Burger Patties 720g - **$10.99**
 - Angel Bay Beef Cheese/Lite Beef Burgers 600-720g - **$10.99**
@@ -33,7 +34,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Levin
@@ -51,7 +51,6 @@
     - Porirua
     - Upper Hutt
 --- 
-## Items common to **some** (but not all) Lower North Island PAK'nSAVE stores:
 ### Product(s) - Ends 14 Jan 2024 (deal ends) ###
 - Angel Bay Gourmet Veggie Patties 6s - **$10.99**
 - Asahi Super Dry 330ml 12 Pack Bottles - **$22.49**
@@ -75,7 +74,6 @@
 - Lower North Island
   - Hawkes Bay
     - Hastings
-    - Napier
     - Tamatea
   - Manawatu and Wairarapa
     - Masterton

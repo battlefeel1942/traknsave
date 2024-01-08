@@ -10,7 +10,6 @@
 - Baby Bellies Baby Snacks 12g - **$1.69**
 - Beef Rump Steak - **$14.99**
 - Birds Eye Golden Crunch Chips 750g (excl. Potato Gems) - **$3.99**
-- Cherries Value Pack 900g - **$8.99**
 - Fisherking Raw Prawn Stir Fry Meat 800g - **$13.99**
 - Fresh Bluff Salmon Fillets Skin On Bone In - **$44.99**
 - Fresh Trevally Fillets Catch Permitting - **$26.99**
@@ -54,13 +53,49 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
+  - Northland
+    - Kaitaia
+    - Whangarei
+  - Waikato
+    - Clarence Street
+    - Mill Street
+    - Te Awamutu
+    - Thames
+--- 
+### Product(s) - Ends 14 Jan 2024 (deal ends) ###
+- Cherries Value Pack 900g - **$8.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Auckland
+    - Albany
+    - Botany
+    - Clendon
+    - Glen Innes
+    - Henderson
+    - Lincoln Road
+    - Manukau
+    - Mt Albert
+    - Ormiston
+    - Papakura
+    - Pukekohe
+    - Silverdale
+    - Sylvia Park
+    - Wairau Road
+    - Warkworth
+    - Westgate
+  - Bay of Plenty
+    - Papamoa
+    - Rotorua
+    - Taupo
+    - Tauriko
+    - Whakatane
   - Northland
     - Kaitaia
     - Whangarei
@@ -94,12 +129,11 @@
     - Warkworth
     - Westgate
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -130,6 +164,7 @@
     - Clendon
     - Glen Innes
     - Manukau
+    - Mt Albert
     - Ormiston
     - Papakura
     - Pukekohe
@@ -138,13 +173,12 @@
     - Wairau Road
     - Warkworth
   - Bay of Plenty
+    - Cameron Road
     - Papamoa
     - Rotorua
     - Taupo
     - Tauriko
     - Whakatane
-  - Gisborne
-    - Gisborne City
   - Northland
     - Kaitaia
     - Whangarei
@@ -191,4 +225,12 @@
 - Upper North Island
   - Bay of Plenty
     - Taupo
+--- 
+### Product(s) - Ends 14 Jan 2024 (deal ends) ###
+- Cherries Value Pack 900g - **$9.99**
+
+#### Stores available: ####
+- Upper North Island
+  - Bay of Plenty
+    - Cameron Road
 --- 
