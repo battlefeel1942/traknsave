@@ -9,7 +9,13 @@ def format_filename(filename, lowercase_words):
     return formatted_name
 
 def generate_content(base_dir, url_prefix, lowercase_words):
-    content = []
+    content = [
+        "# PAK'nSave Deals Tracker\n\n",
+        "This repository is updated daily with featured deals from Pak'nSave's [Deals Page](https://www.paknsave.co.nz/deals).\n",
+        "These selected offers may include substantial discounts intended to attract customers.\n\n",
+        "Additionally, Pak'nSave maintains a broader range of promotions on their [Shop Deals Page](https://www.paknsave.co.nz/shop/deals),\n",
+        "which encompasses a variety of products available through their online shopping platform.\n\n"
+    ]
 
     # Walk through the directory structure
     for root, dirs, files in os.walk(base_dir):
@@ -39,7 +45,6 @@ content = generate_content(base_dir, url_prefix, lowercase_words)
 
 # Write to the README.md file in /traknsave
 with open("README.md", "w") as readme:
-    readme.write("# PAK'nSave Deals\n\n")
     readme.writelines(content)
 
 print("README.md file generated successfully in /traknsave/!")
