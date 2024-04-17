@@ -117,7 +117,8 @@ def extract_specials(content):
     for card in specials_cards:
         try:
             product_name = card.find(class_='sxa-specials-card__heading').text.strip()
-            limit = card.find(class_='sxa-specials-card__heading-legal').text.strip()
+            limit_element = card.find(class_='sxa-specials-card__heading-legal')
+            limit = limit_element.text.strip() if limit_element else None
 
             # Safely get the 'multi' value if the element exists, otherwise default to None
             multi_element = card.find(class_='sxa-specials-card__pricing-multi-text')
@@ -134,7 +135,9 @@ def extract_specials(content):
             else:
                 price_summary = f"${price} each"
             
-            price_summary = f"${price_summary} ${limit}"
+            # Add limit
+            if limit:
+                price_summary = f"{price_summary} - {limit}"
 
             specials_data.append({
                 'Product Name': product_name,
