@@ -1,21 +1,85 @@
 # Products for Dunedin PAK'nSAVE
 
+## Product(s): Ends 11 Aug 2024 (deal ends)
+- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79 each**
+
 ## Product(s): Ends 21 Apr 2024 (deal ends)
-- Arnott's Shapes or Bluey Crackers 130g-190g Varieties - **2 for $5.00**
-- Bluebird Original Chips 140-150g Varieties - **3 for $5.00**
-- Colgate Advanced Whitening Toothpaste, Original Toothpaste 90-200g Varieties, 360 Toothbrush 2pk, Plax Mouthwash 500ml - **$5.00 each**
-- F. Whitlock & Sons Soup 420g - **2 for $5.00**
-- Fancy Feast 85g Varieties - **4 for $5.00**
-- Fantastic Rice Crackers 100g Varieties - **3 for $5.00**
-- Farrah's Wraps 6-8 Pack Varieties - **$5.00 each**
-- Just Juice 1L Varieties - **3 for $5.00**
-- Kapiti Yoghurt 450g Varieties - **$5.00 each**
-- Monster Energy Drink 500ml Can Varieties - **2 for $5.00**
-- Nanna's 550-600g or Apple Pies 4 Pack - **$5.00 each**
-- Pams Iceberg Lettuce, Onions 1.5kg or Pyper's Carrots 1kg - **2 for $5.00**
-- Pepsi, Mountain Dew or 7UP 1.5L Bottle Varieties - **3 for $5.00**
-- Rascal + Friends Nappies 16-28s or Nappy Pants 14-20s - **$5.00 each**
-- The Natural Confectionery Co. 180-260g Varieties - **2 for $5.00**
-- V Energy Drink 250ml 4 Pack Varieties - **$5.00 each**
-- Wattie's Gravy Mix 29g - **6 for $5.00**
+- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99 each**
+- Bell Tea Original 100s - **$4.79 each**
+- Bell Zesty Green Tea Tea Bags 50s - **$4.79 each**
+- Black Seedless Grapes 500g - **$5.00 each**
+- Carlsberg 330ml 12 Pack Bottles - **$21.99 each**
+- Cartel Food Co Burrito 200g - **$5.00 each**
+- Celery/Leeks/Spring Onions - **Any 3 for $5.00**
+- Comfort Fragrance Booster 200g - **$9.99 each**
+- Export 33 330ml 12 Pack Bottles - **$22.99 each**
+- Fresh Bluff Salmon Gilled/Gutted - **$29.99 each**
+- Fresh Bluff Salmon Steaks - **$34.99 each**
+- Fresh Tarakihi Fillets Catch Permitting - **$36.99 each**
+- Gold Kiwifruit - **$3.00 each**
+- Green Seedless Grapes 500g - **$5.00 each**
+- Heineken 330ml 24 Pack Bottles - **$44.49 each**
+- Inghams Butterfly Chicken 1.1kg - **$9.49 each**
+- Juicy Chinese Dumplings 450g - **$5.00 each**
+- Kelloggs Coco Pops 650g - **$8.49 each**
+- Kelloggs Froot Loops 460g - **$8.49 each**
+- Kelloggs Sultana Bran 700g - **$8.49 each**
+- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00 each**
+- Lamb Shoulder Chops - **$11.99 each**
+- Leader BBQ Burger Patties 20 Pack - **$9.99 each**
+- Leader Burger Quarter Pounders 8 Pack - **$9.99 each**
+- Leader Frozen Meat Large Tray Range (Excluded Burger Patties 1kg/ Quarter Pounder and Southern Style) - **$9.99 each**
+- Leader Southern Style Chicken Patties 8 Pack - **$9.99 each**
+- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.99 each**
+- Libra Tampon Super 16s - **$3.99 each**
+- Libra Tampons 16s - **$3.99 each**
+- Libra Ultra Thins Wing 12s-14s - **$3.99 each**
+- Moccona Coffee Mixes 20s - **$9.49 each**
+- Nannas Apple Pie 4 Pack 450g - **$5.00 each**
+- Nannas Crumble 550g - **$5.00 each**
+- Pams Classic Whole Egg Mayo 443ml - **$3.49 each**
+- Pams Hash Brown Patties 1kg - **$5.00 each**
+- Pams Spinach 120g - **2 for $5.00**
+- Patties Party Pies 560g - **$5.00 each**
+- Persil Laundry Liquid 1L - **$9.99 each**
+- Red Seedless Grapes 500g - **$5.00 each**
+- Sanitarium Up & Go 6 Pack - **$9.49 each**
+- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00 each**
+- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49 each**
+- Steinlager Classic 330ml 15 Pack Bottles - **$25.79 each**
+- Steinlager Pure 330ml 12 Pack Bottles - **$21.49 each**
+- Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49 each**
+- Stoneleigh Red Range 750ml - **$11.99 each**
+- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99 each**
+- Tegel Free Range Nuggets 900g - **$11.49 each**
+- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99 each**
+- Tip Top Ice Cream 2L - **$5.00 each**
+- Watties Frozen Peas 1kg - **$3.79 each**
+- Watties Mixed Vegetables 1kg - **$3.79 each**
+- Watties Organic Baby Food 120g - **$1.99 each**
+- Yummy Mariri Red Apples - **$2.99 each**
+
+## Product(s): Ends 28 Apr 2024 (deal ends)
+- Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
+- Aunt Bettys Steamy Puddings 2 Pack (Excludes Gluten Free and Premium Range) - **2 for $5.00**
+- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.89 each**
+- Coffee Supreme Roasted & Ground Coffee 200g - **$8.49 each**
+- Dove Antiperspirant Aerosol 220ml-254ml - **$5.00 each**
+- Earthwise Laundry Powder 1kg - **$5.49 each**
+- Healtheries Tea 20s - **2 for $5.00**
+- Hellers Cheerios 500g - **$5.00 each**
+- Hellers Family Burger 4 pk - **$5.00 each**
+- Hubbards Light/Right Cereal 425g/450g - **$5.00 each**
+- Huttons Traditional Ham Steak 4pk - **$5.00 each**
+- Meadow Fresh Sour Cream 500g - **$5.00 each**
+- Nestl� Reduced Cream 230ml - **$2.99 each**
+- Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00 each**
+- Rapaura Springs Reserve Range 750ml (Excludes Pinot Noir) - **$14.99 each**
+- Sealord Tuna 95g/Spreads 90g - **3 for $4.80**
+- Tampax Tampon Regular 20s - **$5.00 each**
+- Tampax Tampon Super 20s - **$5.00 each**
+- Tampax Tampon Super Plus 20s - **$5.00 each**
+- Tararua Original Super-Soft Spread 500g - **$5.00 each**
+- Tohu Range 750ml (Excludes Pinot Noir/Reserve) - **$13.99 each**
+- Vogels Caf� Style Muesli 400g - **$6.49 each**
 

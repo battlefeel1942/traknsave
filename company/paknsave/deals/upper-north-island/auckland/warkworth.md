@@ -1,4 +1,4 @@
-# Products for Moorhouse PAK'nSAVE
+# Products for Warkworth PAK'nSAVE
 
 ## Product(s): Ends 11 Aug 2024 (deal ends)
 - Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79 each**
@@ -13,6 +13,7 @@
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
 - Comfort Fragrance Booster 200g - **$9.99 each**
 - Export 33 330ml 12 Pack Bottles - **$22.99 each**
+- Fisherking Southern Style Fish Tenders 360g - **$5.00 each**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99 each**
 - Fresh Bluff Salmon Steaks - **$34.99 each**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99 each**
@@ -23,7 +24,9 @@
 - Juicy Chinese Dumplings 450g - **$5.00 each**
 - Kelloggs Coco Pops 650g - **$8.49 each**
 - Kelloggs Froot Loops 460g - **$8.49 each**
+- Kelloggs LCM Rice Bubble Bars 12s - **$5.00 each**
 - Kelloggs Sultana Bran 700g - **$8.49 each**
+- Kinder Surprise 20g - **4 for $5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00 each**
 - Lamb Shoulder Chops - **$11.99 each**
 - Leader BBQ Burger Patties 20 Pack - **$9.99 each**
@@ -34,18 +37,22 @@
 - Libra Tampon Super 16s - **$3.99 each**
 - Libra Tampons 16s - **$3.99 each**
 - Libra Ultra Thins Wing 12s-14s - **$3.99 each**
+- Lotus Biscoff Sandwich Biscuits 150g - **2 for $5.00**
 - Moccona Coffee Mixes 20s - **$9.49 each**
 - Nannas Apple Pie 4 Pack 450g - **$5.00 each**
 - Nannas Crumble 550g - **$5.00 each**
+- Noshu Low Carb Muesli Bars Peanut Caramel/Double Brownie 5 Pack - **$7.49 each**
 - Pams Classic Whole Egg Mayo 443ml - **$3.49 each**
 - Pams Hash Brown Patties 1kg - **$5.00 each**
 - Pams Spinach 120g - **2 for $5.00**
 - Patties Party Pies 560g - **$5.00 each**
 - Persil Laundry Liquid 1L - **$9.99 each**
 - Red Seedless Grapes 500g - **$5.00 each**
+- Ribena Blackcurrant Fruit Drink 2.4L - **$5.00 each**
 - Sanitarium Up & Go 6 Pack - **$9.49 each**
 - Sea Cuisine Raw Prawn Cutlets 300g - **$5.00 each**
 - Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49 each**
+- Shore Mariner Crumbed Squid Rings 450g - **$5.00 each**
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.79 each**
 - Steinlager Pure 330ml 12 Pack Bottles - **$21.49 each**
 - Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49 each**

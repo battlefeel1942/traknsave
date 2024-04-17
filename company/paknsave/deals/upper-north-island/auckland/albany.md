@@ -1,17 +1,10 @@
-# Products for Moorhouse PAK'nSAVE
-
-## Product(s): Ends 11 Aug 2024 (deal ends)
-- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79 each**
+# Products for Albany PAK'nSAVE
 
 ## Product(s): Ends 21 Apr 2024 (deal ends)
-- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99 each**
-- Bell Tea Original 100s - **$4.79 each**
-- Bell Zesty Green Tea Tea Bags 50s - **$4.79 each**
 - Black Seedless Grapes 500g - **$5.00 each**
 - Carlsberg 330ml 12 Pack Bottles - **$21.99 each**
 - Cartel Food Co Burrito 200g - **$5.00 each**
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
-- Comfort Fragrance Booster 200g - **$9.99 each**
 - Export 33 330ml 12 Pack Bottles - **$22.99 each**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99 each**
 - Fresh Bluff Salmon Steaks - **$34.99 each**
@@ -21,42 +14,27 @@
 - Heineken 330ml 24 Pack Bottles - **$44.49 each**
 - Inghams Butterfly Chicken 1.1kg - **$9.49 each**
 - Juicy Chinese Dumplings 450g - **$5.00 each**
-- Kelloggs Coco Pops 650g - **$8.49 each**
-- Kelloggs Froot Loops 460g - **$8.49 each**
-- Kelloggs Sultana Bran 700g - **$8.49 each**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00 each**
 - Lamb Shoulder Chops - **$11.99 each**
 - Leader BBQ Burger Patties 20 Pack - **$9.99 each**
 - Leader Burger Quarter Pounders 8 Pack - **$9.99 each**
 - Leader Frozen Meat Large Tray Range (Excluded Burger Patties 1kg/ Quarter Pounder and Southern Style) - **$9.99 each**
 - Leader Southern Style Chicken Patties 8 Pack - **$9.99 each**
-- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.99 each**
-- Libra Tampon Super 16s - **$3.99 each**
-- Libra Tampons 16s - **$3.99 each**
-- Libra Ultra Thins Wing 12s-14s - **$3.99 each**
-- Moccona Coffee Mixes 20s - **$9.49 each**
 - Nannas Apple Pie 4 Pack 450g - **$5.00 each**
 - Nannas Crumble 550g - **$5.00 each**
-- Pams Classic Whole Egg Mayo 443ml - **$3.49 each**
 - Pams Hash Brown Patties 1kg - **$5.00 each**
 - Pams Spinach 120g - **2 for $5.00**
 - Patties Party Pies 560g - **$5.00 each**
-- Persil Laundry Liquid 1L - **$9.99 each**
 - Red Seedless Grapes 500g - **$5.00 each**
-- Sanitarium Up & Go 6 Pack - **$9.49 each**
 - Sea Cuisine Raw Prawn Cutlets 300g - **$5.00 each**
 - Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49 each**
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.79 each**
 - Steinlager Pure 330ml 12 Pack Bottles - **$21.49 each**
 - Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49 each**
-- Stoneleigh Red Range 750ml - **$11.99 each**
-- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99 each**
 - Tegel Free Range Nuggets 900g - **$11.49 each**
-- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99 each**
 - Tip Top Ice Cream 2L - **$5.00 each**
 - Watties Frozen Peas 1kg - **$3.79 each**
 - Watties Mixed Vegetables 1kg - **$3.79 each**
-- Watties Organic Baby Food 120g - **$1.99 each**
 - Yummy Mariri Red Apples - **$2.99 each**
 
 ## Product(s): Ends 28 Apr 2024 (deal ends)

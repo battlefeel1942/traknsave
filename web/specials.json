@@ -5,6 +5,14 @@
         ],
         "deals": {
             "upper-north-island": {
+                "waikato": {
+                    "files": [
+                        "mill-street.json",
+                        "clarence-street.json",
+                        "te-awamutu.json",
+                        "thames.json"
+                    ]
+                },
                 "northland": {
                     "files": [
                         "kaitaia.json"
@@ -13,26 +21,46 @@
                 "auckland": {
                     "files": [
                         "sylvia-park.json",
+                        "warkworth.json",
+                        "westgate.json",
+                        "albany.json",
                         "papakura.json",
+                        "silverdale.json",
                         "ormiston.json",
                         "mt-albert.json",
                         "lincoln-road.json",
+                        "clendon.json",
                         "henderson.json",
                         "pukekohe.json",
                         "royal-oak.json",
                         "manukau.json",
-                        "glen-innes.json"
+                        "glen-innes.json",
+                        "wairau-road.json",
+                        "botany.json"
                     ]
                 },
                 "bay-of-plenty": {
                     "files": [
+                        "taupo.json",
+                        "cameron-road.json",
                         "papamoa.json",
                         "whakatane.json",
+                        "tauriko.json",
                         "rotorua.json"
                     ]
                 }
             },
             "south-island": {
+                "marlborough": {
+                    "files": [
+                        "blenheim.json"
+                    ]
+                },
+                "nelson": {
+                    "files": [
+                        "richmond.json"
+                    ]
+                },
                 "otago-and-southland": {
                     "files": [
                         "invercargill.json",
@@ -42,9 +70,12 @@
                 },
                 "canterbury": {
                     "files": [
+                        "wainoni.json",
+                        "timaru.json",
                         "riccarton.json",
                         "hornby.json",
                         "moorhouse.json",
+                        "rangiora.json",
                         "papanui.json"
                     ]
                 }
@@ -55,11 +86,28 @@
                         "kapiti.json",
                         "lower-hutt.json",
                         "upper-hutt.json",
+                        "kilbirnie.json",
+                        "porirua.json",
                         "petone.json"
+                    ]
+                },
+                "hawkes-bay": {
+                    "files": [
+                        "tamatea.json",
+                        "hastings.json",
+                        "napier.json"
+                    ]
+                },
+                "manawatu-and-wairarapa": {
+                    "files": [
+                        "masterton.json",
+                        "levin.json",
+                        "palmerston-north.json"
                     ]
                 },
                 "taranaki-and-wanganui": {
                     "files": [
+                        "new-plymouth.json",
                         "whanganui.json",
                         "hawera.json"
                     ]
