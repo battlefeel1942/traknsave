@@ -1,9 +1,10 @@
-# Products for Mt-Albert PAK'nSAVE
+# Products for Whangarei PAK'nSAVE
 
 ## Product(s): Ends 11 Aug 2024 (deal ends)
 - Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79 each**
 
 ## Product(s): Ends 21 Apr 2024 (deal ends)
+- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99 each**
 - Bell Tea Original 100s - **$4.79 each**
 - Bell Zesty Green Tea Tea Bags 50s - **$4.79 each**
 - Black Seedless Grapes 500g - **$5.00 each**
@@ -48,7 +49,10 @@
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.79 each**
 - Steinlager Pure 330ml 12 Pack Bottles - **$21.49 each**
 - Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49 each**
+- Stoneleigh Red Range 750ml - **$11.99 each**
+- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99 each**
 - Tegel Free Range Nuggets 900g - **$11.49 each**
+- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99 each**
 - Tip Top Ice Cream 2L - **$5.00 each**
 - Watties Frozen Peas 1kg - **$3.79 each**
 - Watties Mixed Vegetables 1kg - **$3.79 each**
