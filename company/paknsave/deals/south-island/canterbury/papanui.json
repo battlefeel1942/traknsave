@@ -12,7 +12,7 @@
         "Limit": "Limit 2 sets",
         "Multi": "3 for",
         "Price": "5.00",
-        "Price Summary": "3 for $5.00",
+        "Price Summary": "3 for $5.00 - Limit 2 sets",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -28,7 +28,7 @@
         "Limit": "Limit 2 sets",
         "Multi": "3 for",
         "Price": "5.00",
-        "Price Summary": "3 for $5.00",
+        "Price Summary": "3 for $5.00 - Limit 2 sets",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -36,7 +36,7 @@
         "Limit": "Limit 2 sets",
         "Multi": "2 for",
         "Price": "5.00",
-        "Price Summary": "2 for $5.00",
+        "Price Summary": "2 for $5.00 - Limit 2 sets",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -68,7 +68,7 @@
         "Limit": "Exclusions apply.",
         "Multi": "",
         "Price": "5.00",
-        "Price Summary": "$5.00 each",
+        "Price Summary": "$5.00 each - Exclusions apply.",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -92,7 +92,7 @@
         "Limit": "Limit 2 sets",
         "Multi": "2 for",
         "Price": "5.00",
-        "Price Summary": "2 for $5.00",
+        "Price Summary": "2 for $5.00 - Limit 2 sets",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -116,7 +116,7 @@
         "Limit": "Limit 2 Sets",
         "Multi": "3 for",
         "Price": "5.00",
-        "Price Summary": "3 for $5.00",
+        "Price Summary": "3 for $5.00 - Limit 2 Sets",
         "Expiry Date": "Ends 21 Apr 2024"
     },
     {
@@ -132,7 +132,7 @@
         "Limit": "Exclusions apply.",
         "Multi": "4 for",
         "Price": "5.00",
-        "Price Summary": "4 for $5.00",
+        "Price Summary": "4 for $5.00 - Exclusions apply.",
         "Expiry Date": "Ends 21 Apr 2024"
     }
 ]
