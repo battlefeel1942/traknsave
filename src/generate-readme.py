@@ -31,15 +31,15 @@ def generate_content(base_dir, url_prefix, lowercase_words):
 
 # Directory to start the walk
 base_dir = "company/paknsave"
-url_prefix = "https://github.com/battlefeel1942/grocery-saver/blob/main/company/paknsave/"
+url_prefix = "https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/"
 lowercase_words = {'and', 'or', 'the', 'a', 'an', 'to', 'of', 'in', 'for'}
 
 # Generate content
 content = generate_content(base_dir, url_prefix, lowercase_words)
 
-# Write to the README.md file in /grocery-saver
+# Write to the README.md file in /traknsave
 with open("README.md", "w") as readme:
     readme.write("# PAK'nSave Deals\n\n")
     readme.writelines(content)
 
-print("README.md file generated successfully in /grocery-saver/!")
+print("README.md file generated successfully in /traknsave/!")
