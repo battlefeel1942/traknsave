@@ -12,6 +12,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException,
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+
 def initialize_driver():
     try:
         print("Initializing the driver...")
@@ -28,22 +29,6 @@ def initialize_driver():
         print(f"Error initializing the driver: {e}")
         sys.exit(1)
 
-def fetch_content_with_retry(url, driver, max_retries=5):
-    """Attempts to fetch content and retry if no specials are found."""
-    attempts = 0
-    content = None
-    while attempts < max_retries and not content:
-        content = get_content_from_paknsave(url, driver)
-        if content:
-            specials = extract_specials(content)
-            if not specials:
-                print("No specials found, retrying...")
-                time.sleep(5)  # Wait for 5 seconds before retrying
-                content = None  # Reset content to ensure retry
-        attempts += 1
-    if not content:
-        print("Max retries reached, no specials found.")
-    return content
 
 def get_content_from_paknsave(url, driver):
     try:
@@ -111,10 +96,8 @@ def extract_specials(content):
     print("Extracting specials from the content...")
     soup = BeautifulSoup(content, 'lxml')
     specials_cards = soup.find_all(class_='component-specials-card')
-    if not specials_cards:
-        return []  # Return empty list if no specials found
-
     specials_data = []
+
     for card in specials_cards:
         try:
             product_name = card.find(class_='sxa-specials-card__heading').text.strip()
@@ -188,7 +171,7 @@ def main(url):
     content = get_content_from_paknsave(url, driver)
 
     if content:
-        specials = fetch_content_with_retry(url, driver)
+        specials = extract_specials(content)
         print("Printing extracted specials:")
         for special in specials:
             print(special)
