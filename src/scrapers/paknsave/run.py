@@ -135,9 +135,9 @@ def extract_specials(content):
             else:
                 price_summary = f"${price} each"
             
-            # Add limit
             if limit:
-                price_summary = f"{price_summary} - {limit}"
+                print(f"Debug - Product: {product_name}, Price Summary before Limit: {price_summary}")
+                price_summary += f" - {limit}"
 
             specials_data.append({
                 'Product Name': product_name,
