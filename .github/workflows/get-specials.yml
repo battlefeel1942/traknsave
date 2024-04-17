@@ -1,12 +1,8 @@
-name: Run Python Scripts - Grocery Saver
+name: Run Python Scripts
 
 on:
-  #schedule:
-  #  - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
 
 jobs:
   run-scripts:
