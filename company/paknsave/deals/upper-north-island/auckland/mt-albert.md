@@ -4,20 +4,11 @@
 - Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
 
 ## Product(s): Ends 21 Apr 2024 (deal ends)
-<<<<<<< HEAD
-- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
 - Bell Tea Original 100s - **$4.79**
 - Bell Zesty Green Tea Tea Bags 50s - **$4.79**
 - Black Seedless Grapes 500g - **$5.00**
 - Carlsberg 330ml 12 Pack Bottles - **$21.99**
 - Cartel Food Co Burrito 200g - **$5.00**
-=======
-- Bell Tea Original 100s - **$4.79 each**
-- Bell Zesty Green Tea Tea Bags 50s - **$4.79 each**
-- Black Seedless Grapes 500g - **$5.00 each**
-- Carlsberg 330ml 12 Pack Bottles - **$21.99 each**
-- Cartel Food Co Burrito 200g - **$5.00 each**
->>>>>>> d7d91b3e4882c902a9ffa59bd09fd0e3192b42db
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
 - Comfort Fragrance Booster 200g - **$9.99**
 - Export 33 330ml 12 Pack Bottles - **$22.99**
@@ -48,7 +39,6 @@
 - Pams Classic Whole Egg Mayo 443ml - **$3.49**
 - Pams Hash Brown Patties 1kg - **$5.00**
 - Pams Spinach 120g - **2 for $5.00**
-<<<<<<< HEAD
 - Patties Party Pies 560g - **$5.00**
 - Persil Laundry Liquid 1L - **$9.99**
 - Red Seedless Grapes 500g - **$5.00**
@@ -58,32 +48,12 @@
 - Steinlager Classic 330ml 15 Pack Bottles - **$25.79**
 - Steinlager Pure 330ml 12 Pack Bottles - **$21.49**
 - Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49**
-- Stoneleigh Red Range 750ml - **$11.99**
-- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99**
 - Tegel Free Range Nuggets 900g - **$11.49**
-- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
 - Tip Top Ice Cream 2L - **$5.00**
 - Watties Frozen Peas 1kg - **$3.79**
 - Watties Mixed Vegetables 1kg - **$3.79**
 - Watties Organic Baby Food 120g - **$1.99**
 - Yummy Mariri Red Apples - **$2.99**
-=======
-- Patties Party Pies 560g - **$5.00 each**
-- Persil Laundry Liquid 1L - **$9.99 each**
-- Red Seedless Grapes 500g - **$5.00 each**
-- Sanitarium Up & Go 6 Pack - **$9.49 each**
-- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00 each**
-- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49 each**
-- Steinlager Classic 330ml 15 Pack Bottles - **$25.79 each**
-- Steinlager Pure 330ml 12 Pack Bottles - **$21.49 each**
-- Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49 each**
-- Tegel Free Range Nuggets 900g - **$11.49 each**
-- Tip Top Ice Cream 2L - **$5.00 each**
-- Watties Frozen Peas 1kg - **$3.79 each**
-- Watties Mixed Vegetables 1kg - **$3.79 each**
-- Watties Organic Baby Food 120g - **$1.99 each**
-- Yummy Mariri Red Apples - **$2.99 each**
->>>>>>> d7d91b3e4882c902a9ffa59bd09fd0e3192b42db
 
 ## Product(s): Ends 28 Apr 2024 (deal ends)
 - Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
