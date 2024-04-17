@@ -2,11 +2,7 @@ name: Run Python Scripts
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    - cron: '0 0 */2 * *'  # Runs at 00:00 UTC every second day
 
 jobs:
   run-scripts:
