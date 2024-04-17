@@ -1,95 +1,95 @@
 # Products for Westgate PAK'nSAVE
 
 ## Product(s): Ends 11 Aug 2024 (deal ends)
-- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79 each**
+- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
 
 ## Product(s): Ends 21 Apr 2024 (deal ends)
-- Avalanche 99% Sugar Free Coffee Sticks 10pk - **$4.69 each**
-- Avalanche Coffee Mixes 10s (Excludes 99% Sugar Free) - **$3.89 each**
-- Bell Tea Original 100s - **$4.79 each**
-- Bell Zesty Green Tea Tea Bags 50s - **$4.79 each**
-- Betty Crocker Baking Mixes 345g-540g (Excludes Gluten Free/Frosting) - **$5.00 each**
-- Black Seedless Grapes 500g - **$5.00 each**
-- Cartel Food Co Burrito 200g - **$5.00 each**
+- Avalanche 99% Sugar Free Coffee Sticks 10pk - **$4.69**
+- Avalanche Coffee Mixes 10s (Excludes 99% Sugar Free) - **$3.89**
+- Bell Tea Original 100s - **$4.79**
+- Bell Zesty Green Tea Tea Bags 50s - **$4.79**
+- Betty Crocker Baking Mixes 345g-540g (Excludes Gluten Free/Frosting) - **$5.00**
+- Black Seedless Grapes 500g - **$5.00**
+- Cartel Food Co Burrito 200g - **$5.00**
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
 - Coca Cola 1.5L Range - **2 for $5.00 - Limit 2 Assorted**
-- Comfort Fragrance Booster 200g - **$9.99 each**
+- Comfort Fragrance Booster 200g - **$9.99**
 - Delisio Potato Chips 130g-140g - **2 for $5.00**
 - Delisio Restaurant Series Chips 140g - **2 for $6.00**
-- Fresh Bluff Salmon Gilled/Gutted - **$29.99 each**
-- Fresh Bluff Salmon Steaks - **$34.99 each**
-- Fresh Tarakihi Fillets Catch Permitting - **$36.99 each**
-- Gold Kiwifruit - **$3.00 each**
-- Green Seedless Grapes 500g - **$5.00 each**
+- Fresh Bluff Salmon Gilled/Gutted - **$29.99**
+- Fresh Bluff Salmon Steaks - **$34.99**
+- Fresh Tarakihi Fillets Catch Permitting - **$36.99**
+- Gold Kiwifruit - **$3.00**
+- Green Seedless Grapes 500g - **$5.00**
 - Griffins Toffee Pops 200g Range - **2 for $6.00**
 - Handee Paper Towels Twin Pack - **2 for $6.00**
-- Inghams Butterfly Chicken 1.1kg - **$9.49 each**
-- Juicy Chinese Dumplings 450g - **$5.00 each**
-- Kelloggs Coco Pops 650g - **$8.49 each**
-- Kelloggs Froot Loops 460g - **$8.49 each**
-- Kelloggs Sultana Bran 700g - **$8.49 each**
-- Keri Juice 2.4L - **$5.00 each**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00 each**
-- Lamb Shoulder Chops - **$11.99 each**
-- Leader BBQ Burger Patties 20 Pack - **$9.99 each**
-- Leader Burger Quarter Pounders 8 Pack - **$9.99 each**
-- Leader Frozen Meat Large Tray Range (Excluded Burger Patties 1kg/ Quarter Pounder and Southern Style) - **$9.99 each**
-- Leader Southern Style Chicken Patties 8 Pack - **$9.99 each**
-- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.99 each**
-- Libra Tampon Super 16s - **$3.99 each**
-- Libra Tampons 16s - **$3.99 each**
-- Libra Ultra Thins Wing 12s-14s - **$3.99 each**
-- MacLeans Protect Toothpaste 170g - **$2.00 each**
-- Moccona Coffee Mixes 16-20pk Range - **$9.49 each**
-- Moccona Coffee Mixes 20s - **$9.49 each**
-- Nannas Apple Pie 4 Pack 450g - **$5.00 each**
-- Nannas Crumble 550g - **$5.00 each**
-- OFood Seaweed Snack 40g - **$5.00 each**
+- Inghams Butterfly Chicken 1.1kg - **$9.49**
+- Juicy Chinese Dumplings 450g - **$5.00**
+- Kelloggs Coco Pops 650g - **$8.49**
+- Kelloggs Froot Loops 460g - **$8.49**
+- Kelloggs Sultana Bran 700g - **$8.49**
+- Keri Juice 2.4L - **$5.00**
+- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
+- Lamb Shoulder Chops - **$11.99**
+- Leader BBQ Burger Patties 20 Pack - **$9.99**
+- Leader Burger Quarter Pounders 8 Pack - **$9.99**
+- Leader Frozen Meat Large Tray Range (Excluded Burger Patties 1kg/ Quarter Pounder and Southern Style) - **$9.99**
+- Leader Southern Style Chicken Patties 8 Pack - **$9.99**
+- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.99**
+- Libra Tampon Super 16s - **$3.99**
+- Libra Tampons 16s - **$3.99**
+- Libra Ultra Thins Wing 12s-14s - **$3.99**
+- MacLeans Protect Toothpaste 170g - **$2.00**
+- Moccona Coffee Mixes 16-20pk Range - **$9.49**
+- Moccona Coffee Mixes 20s - **$9.49**
+- Nannas Apple Pie 4 Pack 450g - **$5.00**
+- Nannas Crumble 550g - **$5.00**
+- OFood Seaweed Snack 40g - **$5.00**
 - Ottogi Jin Ramen Noodles 110g - **3 for $5.00**
-- Pams Classic Whole Egg Mayo 443ml - **$3.49 each**
-- Pams Hash Brown Patties 1kg - **$5.00 each**
+- Pams Classic Whole Egg Mayo 443ml - **$3.49**
+- Pams Hash Brown Patties 1kg - **$5.00**
 - Pams Spinach 120g - **2 for $5.00**
-- Patties Party Pies 560g - **$5.00 each**
+- Patties Party Pies 560g - **$5.00**
 - Peckish Thins Rice Crackers 90g - **3 for $5.00**
-- Persil Laundry Liquid 1L - **$9.99 each**
-- Pics Peanut Butter 380g - **$5.49 each**
-- Ploughmans Bakery Bread 750g (Excludes Lower Carb) - **$3.89 each**
+- Persil Laundry Liquid 1L - **$9.99**
+- Pics Peanut Butter 380g - **$5.49**
+- Ploughmans Bakery Bread 750g (Excludes Lower Carb) - **$3.89**
 - Red Bull Energy Drink 250ml - **3 for $5.00**
-- Red Seedless Grapes 500g - **$5.00 each**
-- Remedy Kombucha 4 Pack - **$5.00 each**
-- Sanitarium Up & Go 6 Pack - **$9.49 each**
-- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00 each**
-- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49 each**
+- Red Seedless Grapes 500g - **$5.00**
+- Remedy Kombucha 4 Pack - **$5.00**
+- Sanitarium Up & Go 6 Pack - **$9.49**
+- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00**
+- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49**
 - Snickers Butterscotch Chocolate Bar 44g - **5 for $5.00**
 - Sorbent Facial Tissues 224s - **2 for $5.00**
-- Sorbent Toilet Paper Long Roll 8pk - **$7.99 each**
-- Tegel Free Range Nuggets 900g - **$11.49 each**
-- Tip Top Ice Cream 2L - **$5.00 each**
-- Watties Frozen Peas 1kg - **$3.79 each**
-- Watties Mixed Vegetables 1kg - **$3.79 each**
-- Watties Organic Baby Food 120g - **$1.99 each**
-- Whittakers Chocolate Block 250g - **$5.49 each**
-- Yummy Mariri Red Apples - **$2.99 each**
+- Sorbent Toilet Paper Long Roll 8pk - **$7.99**
+- Tegel Free Range Nuggets 900g - **$11.49**
+- Tip Top Ice Cream 2L - **$5.00**
+- Watties Frozen Peas 1kg - **$3.79**
+- Watties Mixed Vegetables 1kg - **$3.79**
+- Watties Organic Baby Food 120g - **$1.99**
+- Whittakers Chocolate Block 250g - **$5.49**
+- Yummy Mariri Red Apples - **$2.99**
 
 ## Product(s): Ends 28 Apr 2024 (deal ends)
 - Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Gluten Free and Premium Range) - **2 for $5.00**
-- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.89 each**
-- Coffee Supreme Roasted & Ground Coffee 200g - **$8.49 each**
-- Dove Antiperspirant Aerosol 220ml-254ml - **$5.00 each**
-- Earthwise Laundry Powder 1kg - **$5.49 each**
+- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.89**
+- Coffee Supreme Roasted & Ground Coffee 200g - **$8.49**
+- Dove Antiperspirant Aerosol 220ml-254ml - **$5.00**
+- Earthwise Laundry Powder 1kg - **$5.49**
 - Healtheries Tea 20s - **2 for $5.00**
-- Hellers Cheerios 500g - **$5.00 each**
-- Hellers Family Burger 4 pk - **$5.00 each**
-- Hubbards Light/Right Cereal 425g/450g - **$5.00 each**
-- Huttons Traditional Ham Steak 4pk - **$5.00 each**
-- Meadow Fresh Sour Cream 500g - **$5.00 each**
-- Nestl� Reduced Cream 230ml - **$2.99 each**
-- Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00 each**
+- Hellers Cheerios 500g - **$5.00**
+- Hellers Family Burger 4 pk - **$5.00**
+- Hubbards Light/Right Cereal 425g/450g - **$5.00**
+- Huttons Traditional Ham Steak 4pk - **$5.00**
+- Meadow Fresh Sour Cream 500g - **$5.00**
+- Nestl� Reduced Cream 230ml - **$2.99**
+- Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00**
 - Sealord Tuna 95g/Spreads 90g - **3 for $4.80**
-- Tampax Tampon Regular 20s - **$5.00 each**
-- Tampax Tampon Super 20s - **$5.00 each**
-- Tampax Tampon Super Plus 20s - **$5.00 each**
-- Tararua Original Super-Soft Spread 500g - **$5.00 each**
-- Vogels Caf� Style Muesli 400g - **$6.49 each**
+- Tampax Tampon Regular 20s - **$5.00**
+- Tampax Tampon Super 20s - **$5.00**
+- Tampax Tampon Super Plus 20s - **$5.00**
+- Tararua Original Super-Soft Spread 500g - **$5.00**
+- Vogels Caf� Style Muesli 400g - **$6.49**
 

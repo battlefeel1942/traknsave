@@ -117,6 +117,8 @@ def extract_specials(content):
     for card in specials_cards:
         try:
             product_name = card.find(class_='sxa-specials-card__heading').text.strip()
+            
+            # Safely get the 'limit' value if the element exists, otherwise default to None
             limit_element = card.find(class_='sxa-specials-card__heading-legal')
             limit = limit_element.text.strip() if limit_element else None
 
@@ -129,22 +131,11 @@ def extract_specials(content):
             price = f"{dollars}.{cents}"
             expiry_date = card.find(class_='sxa-specials-card__expiry').text.strip()
 
-            # Calculate Price Summary based on multi information
-            if multi:
-                price_summary = f"{multi} ${price}"
-            else:
-                price_summary = f"${price} each"
-            
-            if limit:
-                print(f"Debug - Product: {product_name}, Price Summary before Limit: {price_summary}")
-                price_summary += f" - {limit}"
-
             specials_data.append({
                 'Product Name': product_name,
                 'Limit': limit,
                 'Multi': multi,
                 'Price': price,
-                'Price Summary': price_summary,  # Now includes logic to format based on 'multi'
                 'Expiry Date': expiry_date
             })
         except AttributeError:
