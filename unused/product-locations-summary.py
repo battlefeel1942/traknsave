@@ -16,7 +16,7 @@ def slugify(value):
 def read_json(filepath):
     with open(filepath, 'r') as f:
         data = json.load(f)
-        return {(item["Product Name"], f"${item['Purchase Price']}", item["Expiry Date"]): filepath for item in data}
+        return {(item["Product Name"], f"${item['Price Summary']}", item["Expiry Date"]): filepath for item in data}
 
 def hierarchy_format(files):
     hierarchy = {}

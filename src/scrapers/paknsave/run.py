@@ -128,18 +128,20 @@ def extract_specials(content):
             price = f"{dollars}.{cents}"
             expiry_date = card.find(class_='sxa-specials-card__expiry').text.strip()
 
-            # Calculate purchase price based on multi information
+            # Calculate Price Summary based on multi information
             if multi:
-                purchase_price = f"{multi} ${price}"
+                price_summary = f"{multi} ${price}"
             else:
-                purchase_price = f"${price} each"
+                price_summary = f"${price} each"
+            
+            price_summary = f"${price_summary} ${limit}"
 
             specials_data.append({
                 'Product Name': product_name,
                 'Limit': limit,
                 'Multi': multi,
                 'Price': price,
-                'Purchase Price': purchase_price,  # Now includes logic to format based on 'multi'
+                'Price Summary': price_summary,  # Now includes logic to format based on 'multi'
                 'Expiry Date': expiry_date
             })
         except AttributeError:

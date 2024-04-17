@@ -15,7 +15,7 @@ def slugify(value):
 def read_json(filepath):
     with open(filepath, 'r') as f:
         data = json.load(f)
-        return [(item["Product Name"], f"{item['Purchase Price']}", item["Expiry Date"]) for item in data]
+        return [(item["Product Name"], f"{item['Price Summary']}", item["Expiry Date"]) for item in data]
 
 def custom_title(string):
     lowercase_words = {'and', 'or', 'the', 'a', 'an', 'to', 'of', 'in', 'for'}
@@ -26,8 +26,8 @@ def custom_title(string):
 def write_items_to_md(f, grouped_items):
     for expiry_date, items in sorted(grouped_items.items()):
         f.write(f"## Product(s): {expiry_date} (deal ends)\n")
-        for product_name, purchase_price in sorted(items):
-            f.write(f"- {product_name} - **{purchase_price}**\n")
+        for product_name, price_summary in sorted(items):
+            f.write(f"- {product_name} - **{price_summary}**\n")
         f.write("\n")
 
 start_dir = "company/paknsave/deals"
@@ -39,8 +39,8 @@ for json_file in json_files:
     items = read_json(json_file)
     grouped_by_expiry = defaultdict(list)
 
-    for product_name, purchase_price, expiry_date in items:
-        grouped_by_expiry[expiry_date].append((product_name, purchase_price))
+    for product_name, price_summary, expiry_date in items:
+        grouped_by_expiry[expiry_date].append((product_name, price_summary))
 
     relative_path = os.path.relpath(os.path.dirname(json_file), start_dir)
     store_output_dir = os.path.join(output_base_dir, relative_path)
