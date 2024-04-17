@@ -72,7 +72,13 @@ def get_content_from_paknsave(url, driver):
             print("Failed to navigate to the new page after multiple attempts.")
             return None
 
-        print("Successfully navigated to the new page!")
+        # Wait for the body element to be present in the DOM
+        print("Waiting for the body element to ensure the page has loaded...")
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        print("Page should be loaded, and body tag is present.")
+
         return driver.page_source
 
     except TimeoutException:
@@ -172,6 +178,10 @@ def main(url):
 
     if content:
         specials = extract_specials(content)
+        if not specials:  # Check if the specials list is empty
+            print("No specials extracted. Nothing to save.")
+            return  # Exit the function early if no specials
+
         print("Printing extracted specials:")
         for special in specials:
             print(special)
@@ -186,6 +196,9 @@ def main(url):
         with open(save_path, 'w', encoding='utf-8') as f:
             json.dump(specials, f, ensure_ascii=False, indent=4)
         print(f"Specials saved to {save_path}")
+    else:
+        print("No content retrieved from the page.")
+
 
 
 if __name__ == "__main__":
