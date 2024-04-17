@@ -72,14 +72,23 @@ def get_content_from_paknsave(url, driver):
             print("Failed to navigate to the new page after multiple attempts.")
             return None
 
-        # Wait for the body element to be present in the DOM
-        print("Waiting for the body element to ensure the page has loaded...")
-        WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-        print("Page should be loaded, and body tag is present.")
+        # Additional retry mechanism for component-specials-card
+        retries = 0
+        max_retries = 5  # Ensure we try to find specials cards only twice
+        while retries < max_retries:
+            if driver.find_elements(By.CLASS_NAME, "component-specials-card"):
+                print("Specials cards found on the page.")
+                return driver.page_source
+            else:
+                print(f"Attempt {retries + 1}: Specials cards not found. Refreshing the page...")
+                driver.refresh()
+                WebDriverWait(driver, 30).until(
+                    EC.presence_of_element_located((By.TAG_NAME, "body"))
+                )  # Ensure page is reloaded properly
+                retries += 1
 
-        return driver.page_source
+        print("Failed to find specials cards after multiple attempts.")
+        return None
 
     except TimeoutException:
         print("Timeout while waiting for an element.")
@@ -96,6 +105,7 @@ def get_content_from_paknsave(url, driver):
     finally:
         print("Closing the browser...")
         driver.quit()
+
 
 
 def extract_specials(content):
