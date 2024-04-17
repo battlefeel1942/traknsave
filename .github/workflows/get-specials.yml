@@ -1,0 +1,59 @@
+name: Run Python Scripts - Grocery Saver
+
+on:
+  #schedule:
+  #  - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly use GITHUB_TOKEN for checkout
+
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
+
+    - name: Setup Google Chrome
+      uses: browser-actions/setup-chrome@v1.5.0
+
+    - name: Setup ChromeDriver
+      uses: nanasess/setup-chromedriver@v2.2.2
+
+    - name: Install Python dependencies
+      run: |
+        pip install selenium beautifulsoup4 lxml
+
+    - name: Run get-physical-stores.py
+      run: python src/scrapers/paknsave/get-physical-stores.py
+
+    - name: Run run.py
+      run: python src/scrapers/paknsave/run.py
+
+    - name: Run generate-store-deals-markdown.py
+      run: python src/generate-store-deals-markdown.py
+
+    - name: Run generate-readme.py
+      run: python src/generate-readme.py
+
+    - name: Run generate-web-specials-json.py
+      run: python src/scrapers/paknsave/generate-web-specials-json.py
+
+
+    - name: Git Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5.0.1
+      with:
+        commit_message: Auto-update data from scripts
+        branch: main
+        file_pattern: .  # Adjust this if you want to commit specific files or directories
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

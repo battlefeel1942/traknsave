@@ -1,0 +1,350 @@
+[
+    {
+        "Region Name": "NORTHLAND",
+        "Store Name": "Kaitāia",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/northland/kaitaia",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-35.0992991646612,173.258369030025"
+    },
+    {
+        "Region Name": "NORTHLAND",
+        "Store Name": "Whangārei",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/northland/whangarei",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-35.7260494719722,174.324604973572"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Albany",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/albany",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.7298088789946,174.706806965884"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Botany",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/botany",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9304221677906,174.91303057473"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Clendon",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/clendon",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.03240302697506, 174.8673199390137"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Glen Innes",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/glen-innes",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8757912773487,174.85492767368"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Henderson",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/henderson",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8772442411447,174.632596509123"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Lincoln Road",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/lincoln-road",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8577152298053,174.628004935968"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Māngere",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/mangere",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9684852208986,174.796890179901"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Manukau",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/manukau",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9880257504886,174.880616206885"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Mt Albert",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/mt-albert",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.89287512877,174.705936301189"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Ormiston",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/ormiston",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.964776329824936, 174.91439343905316"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Papakura",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/papakura",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.0531793356172,174.931095598148"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Pukekohe",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/pukekohe",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.2051431578211,174.899781234779"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Royal Oak",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/royal-oak",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9099893235125,174.77446504841"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Silverdale",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/silverdale",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.6202668532456,174.673322153442"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Sylvia Park",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/sylvia-park",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9133765784607,174.8401827248542"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Wairau Road",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/wairau-road",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.7789245251372,174.744035266132"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Warkworth",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/warkworth",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.39165304184114,174.65097882813322"
+    },
+    {
+        "Region Name": "AUCKLAND",
+        "Store Name": "Westgate",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/westgate",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8207564,174.6089347"
+    },
+    {
+        "Region Name": "WAIKATO",
+        "Store Name": "Clarence Street",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/waikato/clarence-street",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.7955529539244,175.282843287311"
+    },
+    {
+        "Region Name": "WAIKATO",
+        "Store Name": "Mill Street",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/waikato/mill-street",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.7799363153992,175.272786211917"
+    },
+    {
+        "Region Name": "WAIKATO",
+        "Store Name": "Te Awamutu",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/waikato/te-awamutu",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-38.0068287292382,175.339039676721"
+    },
+    {
+        "Region Name": "WAIKATO",
+        "Store Name": "Thames",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/waikato/thames",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.1387301638818,175.539051931213"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Pāpāmoa",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/papamoa",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.7020707831534,176.284443759524"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Rotorua",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/rotorua",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-38.1406705010232,176.254663233899"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Taupō",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/taupo",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-38.6859242958358,176.073362270114"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Cameron Road",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/cameron-road",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.6966817,176.1616364"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Whakatāne",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/whakatane",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.961650889228,176.98260466925"
+    },
+    {
+        "Region Name": "BAY OF PLENTY",
+        "Store Name": "Tauriko",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/bay-of-plenty/tauriko",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-37.739035516141,176.103676638129"
+    },
+    {
+        "Region Name": "GISBORNE",
+        "Store Name": "Gisborne City",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/gisborne/gisborne-city",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-38.6642235120308,178.02097051468"
+    },
+    {
+        "Region Name": "HAWKES BAY",
+        "Store Name": "Hastings",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/hawkes-bay/hastings",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.6367236178962,176.836790570531"
+    },
+    {
+        "Region Name": "HAWKES BAY",
+        "Store Name": "Napier",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/hawkes-bay/napier",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.494756170417,176.913509917444"
+    },
+    {
+        "Region Name": "HAWKES BAY",
+        "Store Name": "Tamatea",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/hawkes-bay/tamatea",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.5104496854406,176.870002559247"
+    },
+    {
+        "Region Name": "TARANAKI & WHANGANUI",
+        "Store Name": "Hāwera",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/taranaki-and-wanganui/hawera",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.5909753932748,174.283801063229"
+    },
+    {
+        "Region Name": "TARANAKI & WHANGANUI",
+        "Store Name": "New Plymouth",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/taranaki-and-wanganui/new-plymouth",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.0571325066603,174.081094116672"
+    },
+    {
+        "Region Name": "TARANAKI & WHANGANUI",
+        "Store Name": "Whanganui",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/taranaki-and-wanganui/whanganui",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-39.9270467609844,175.039357460188"
+    },
+    {
+        "Region Name": "MANAWATU & WAIRARAPA",
+        "Store Name": "Palmerston North",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/manawatu-and-wairarapa/palmerston-north",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-40.3591659066066,175.611718976444"
+    },
+    {
+        "Region Name": "MANAWATU & WAIRARAPA",
+        "Store Name": "Masterton",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/manawatu-and-wairarapa/masterton",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-40.9568530132681,175.649536046835"
+    },
+    {
+        "Region Name": "MANAWATU & WAIRARAPA",
+        "Store Name": "Levin",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/manawatu-and-wairarapa/levin",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-40.6226012,175.2876779"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Lower Hutt",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/lower-hutt",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.2054531645066,174.913454026984"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Kāpiti",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/kapiti",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-40.9181374343415,175.002416064835"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Kilbirnie",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/kilbirnie",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.3191131401515,174.796649584656"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Petone",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/petone",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.2247029497647,174.872416340337"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Porirua",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/porirua",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.1314069803828,174.842148493918"
+    },
+    {
+        "Region Name": "WELLINGTON",
+        "Store Name": "Upper Hutt",
+        "Store URL": "https://www.paknsave.co.nz/lower-north-island/wellington/upper-hutt",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.1240180210474,175.066665902655"
+    },
+    {
+        "Region Name": "NELSON",
+        "Store Name": "Richmond",
+        "Store URL": "https://www.paknsave.co.nz/south-island/nelson/richmond",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.33854755797297,173.1866178447052"
+    },
+    {
+        "Region Name": "MARLBOROUGH",
+        "Store Name": "Blenheim",
+        "Store URL": "https://www.paknsave.co.nz/south-island/marlborough/blenheim",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-41.508641113181795,173.9234682364014"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Hornby",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/hornby",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-43.542540854010916,172.52275767116396"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Moorhouse",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/moorhouse",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-43.53889986394847,172.63831266242676"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Papanui",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/papanui",
+        "Directions URL": "https://maps.app.goo.gl/EBaG1ENHH3bZd4Hn6"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Riccarton",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/riccarton",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-43.53099691110821,172.59617139601744"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Timaru",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/timaru",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-44.38326709923632,171.23646710237733"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Wainoni",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/wainoni",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-43.513245167402054,172.69400674498297"
+    },
+    {
+        "Region Name": "CANTERBURY",
+        "Store Name": "Rangiora",
+        "Store URL": "https://www.paknsave.co.nz/south-island/canterbury/rangiora",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-43.3250671,172.59902950000003"
+    },
+    {
+        "Region Name": "OTAGO & SOUTHLAND",
+        "Store Name": "Dunedin",
+        "Store URL": "https://www.paknsave.co.nz/south-island/otago-and-southland/dunedin",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-45.8925435,170.49902499999996"
+    },
+    {
+        "Region Name": "OTAGO & SOUTHLAND",
+        "Store Name": "Invercargill",
+        "Store URL": "https://www.paknsave.co.nz/south-island/otago-and-southland/invercargill",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-46.41404731693401,168.35311259881132"
+    },
+    {
+        "Region Name": "OTAGO & SOUTHLAND",
+        "Store Name": "Queenstown",
+        "Store URL": "https://www.paknsave.co.nz/south-island/otago-and-southland/queenstown",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-45.010504273072165,168.7477875429688"
+    }
+]
