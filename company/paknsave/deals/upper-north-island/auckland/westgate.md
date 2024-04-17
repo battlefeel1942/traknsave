@@ -12,7 +12,7 @@
 - Black Seedless Grapes 500g - **$5.00 each**
 - Cartel Food Co Burrito 200g - **$5.00 each**
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
-- Coca Cola 1.5L Range - **2 for $5.00**
+- Coca Cola 1.5L Range - **2 for $5.00 - Limit 2 Assorted**
 - Comfort Fragrance Booster 200g - **$9.99 each**
 - Delisio Potato Chips 130g-140g - **2 for $5.00**
 - Delisio Restaurant Series Chips 140g - **2 for $6.00**
