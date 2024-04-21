@@ -4,31 +4,26 @@
 - Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
 
 ## Product(s): Ends 21 Apr 2024 (deal ends)
-- Avalanche 99% Sugar Free Coffee Sticks 10pk - **$4.69**
-- Avalanche Coffee Mixes 10s (Excludes 99% Sugar Free) - **$3.89**
+- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
 - Bell Tea Original 100s - **$4.79**
 - Bell Zesty Green Tea Tea Bags 50s - **$4.79**
-- Betty Crocker Baking Mixes 345g-540g (Excludes Gluten Free/Frosting) - **$5.00**
 - Black Seedless Grapes 500g - **$5.00**
+- Carlsberg 330ml 12 Pack Bottles - **$21.99**
 - Cartel Food Co Burrito 200g - **$5.00**
 - Celery/Leeks/Spring Onions - **Any 3 for $5.00**
-- Coca Cola 1.5L Range - **2 for $5.00 - Limit 2 Assorted**
 - Comfort Fragrance Booster 200g - **$9.99**
-- Delisio Potato Chips 130g-140g - **2 for $5.00**
-- Delisio Restaurant Series Chips 140g - **2 for $6.00**
+- Export 33 330ml 12 Pack Bottles - **$22.99**
 - Fresh Bluff Salmon Gilled/Gutted - **$29.99**
 - Fresh Bluff Salmon Steaks - **$34.99**
 - Fresh Tarakihi Fillets Catch Permitting - **$36.99**
 - Gold Kiwifruit - **$3.00**
 - Green Seedless Grapes 500g - **$5.00**
-- Griffins Toffee Pops 200g Range - **2 for $6.00**
-- Handee Paper Towels Twin Pack - **2 for $6.00**
+- Heineken 330ml 24 Pack Bottles - **$44.49**
 - Inghams Butterfly Chicken 1.1kg - **$9.49**
 - Juicy Chinese Dumplings 450g - **$5.00**
 - Kelloggs Coco Pops 650g - **$8.49**
 - Kelloggs Froot Loops 460g - **$8.49**
 - Kelloggs Sultana Bran 700g - **$8.49**
-- Keri Juice 2.4L - **$5.00**
 - Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
 - Lamb Shoulder Chops - **$11.99**
 - Leader BBQ Burger Patties 20 Pack - **$9.99**
@@ -39,36 +34,29 @@
 - Libra Tampon Super 16s - **$3.99**
 - Libra Tampons 16s - **$3.99**
 - Libra Ultra Thins Wing 12s-14s - **$3.99**
-- MacLeans Protect Toothpaste 170g - **$2.00**
-- Moccona Coffee Mixes 16-20pk Range - **$9.49**
 - Moccona Coffee Mixes 20s - **$9.49**
 - Nannas Apple Pie 4 Pack 450g - **$5.00**
 - Nannas Crumble 550g - **$5.00**
-- OFood Seaweed Snack 40g - **$5.00**
-- Ottogi Jin Ramen Noodles 110g - **3 for $5.00**
 - Pams Classic Whole Egg Mayo 443ml - **$3.49**
 - Pams Hash Brown Patties 1kg - **$5.00**
 - Pams Spinach 120g - **2 for $5.00**
 - Patties Party Pies 560g - **$5.00**
-- Peckish Thins Rice Crackers 90g - **3 for $5.00**
 - Persil Laundry Liquid 1L - **$9.99**
-- Pics Peanut Butter 380g - **$5.49**
-- Ploughmans Bakery Bread 750g (Excludes Lower Carb) - **$3.89**
-- Red Bull Energy Drink 250ml - **3 for $5.00**
 - Red Seedless Grapes 500g - **$5.00**
-- Remedy Kombucha 4 Pack - **$5.00**
 - Sanitarium Up & Go 6 Pack - **$9.49**
 - Sea Cuisine Raw Prawn Cutlets 300g - **$5.00**
 - Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49**
-- Snickers Butterscotch Chocolate Bar 44g - **5 for $5.00**
-- Sorbent Facial Tissues 224s - **2 for $5.00**
-- Sorbent Toilet Paper Long Roll 8pk - **$7.99**
+- Steinlager Classic 330ml 15 Pack Bottles - **$25.79**
+- Steinlager Pure 330ml 12 Pack Bottles - **$21.49**
+- Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49**
+- Stoneleigh Red Range 750ml - **$11.99**
+- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99**
 - Tegel Free Range Nuggets 900g - **$11.49**
+- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
 - Tip Top Ice Cream 2L - **$5.00**
 - Watties Frozen Peas 1kg - **$3.79**
 - Watties Mixed Vegetables 1kg - **$3.79**
 - Watties Organic Baby Food 120g - **$1.99**
-- Whittakers Chocolate Block 250g - **$5.49**
 - Yummy Mariri Red Apples - **$2.99**
 
 ## Product(s): Ends 28 Apr 2024 (deal ends)
@@ -86,10 +74,12 @@
 - Meadow Fresh Sour Cream 500g - **$5.00**
 - Nestl� Reduced Cream 230ml - **$2.99**
 - Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00**
+- Rapaura Springs Reserve Range 750ml (Excludes Pinot Noir) - **$14.99**
 - Sealord Tuna 95g/Spreads 90g - **3 for $4.80**
 - Tampax Tampon Regular 20s - **$5.00**
 - Tampax Tampon Super 20s - **$5.00**
 - Tampax Tampon Super Plus 20s - **$5.00**
 - Tararua Original Super-Soft Spread 500g - **$5.00**
+- Tohu Range 750ml (Excludes Pinot Noir/Reserve) - **$13.99**
 - Vogels Caf� Style Muesli 400g - **$6.49**
 

@@ -50,6 +50,8 @@ which encompasses a variety of products available through their online shopping 
 - [Taupo](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/bay-of-plenty/taupo.md)
 - [Tauriko](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/bay-of-plenty/tauriko.md)
 - [Whakatane](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/bay-of-plenty/whakatane.md)
+#### Gisborne
+- [Gisborne City](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/gisborne/gisborne-city.md)
 #### Northland
 - [Kaitaia](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/northland/kaitaia.md)
 - [Whangarei](https://github.com/battlefeel1942/traknsave/blob/main/company/paknsave/deals/upper-north-island/northland/whangarei.md)
