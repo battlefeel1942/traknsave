@@ -1,85 +1,21 @@
 # Products for Invercargill PAK'nSAVE
 
-## Product(s): Ends 11 Aug 2024 (deal ends)
-- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
-
-## Product(s): Ends 21 Apr 2024 (deal ends)
-- 19 Crimes 750ml (Excludes Cali Red/Rose) - **$12.99**
-- Bell Tea Original 100s - **$4.79**
-- Bell Zesty Green Tea Tea Bags 50s - **$4.79**
-- Black Seedless Grapes 500g - **$5.00**
-- Carlsberg 330ml 12 Pack Bottles - **$21.99**
-- Cartel Food Co Burrito 200g - **$5.00**
-- Celery/Leeks/Spring Onions - **Any 3 for $5.00**
-- Comfort Fragrance Booster 200g - **$9.99**
-- Export 33 330ml 12 Pack Bottles - **$22.99**
-- Fresh Bluff Salmon Gilled/Gutted - **$29.99**
-- Fresh Bluff Salmon Steaks - **$34.99**
-- Fresh Tarakihi Fillets Catch Permitting - **$36.99**
-- Gold Kiwifruit - **$3.00**
-- Green Seedless Grapes 500g - **$5.00**
-- Heineken 330ml 24 Pack Bottles - **$44.49**
-- Inghams Butterfly Chicken 1.1kg - **$9.49**
-- Juicy Chinese Dumplings 450g - **$5.00**
-- Kelloggs Coco Pops 650g - **$8.49**
-- Kelloggs Froot Loops 460g - **$8.49**
-- Kelloggs Sultana Bran 700g - **$8.49**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Lamb Shoulder Chops - **$11.99**
-- Leader BBQ Burger Patties 20 Pack - **$9.99**
-- Leader Burger Quarter Pounders 8 Pack - **$9.99**
-- Leader Frozen Meat Large Tray Range (Excluded Burger Patties 1kg/ Quarter Pounder and Southern Style) - **$9.99**
-- Leader Southern Style Chicken Patties 8 Pack - **$9.99**
-- Libra Pads with Wings12s-16s (Excludes Value Pack) - **$3.99**
-- Libra Tampon Super 16s - **$3.99**
-- Libra Tampons 16s - **$3.99**
-- Libra Ultra Thins Wing 12s-14s - **$3.99**
-- Moccona Coffee Mixes 20s - **$9.49**
-- Nannas Apple Pie 4 Pack 450g - **$5.00**
-- Nannas Crumble 550g - **$5.00**
-- Pams Classic Whole Egg Mayo 443ml - **$3.49**
-- Pams Hash Brown Patties 1kg - **$5.00**
-- Pams Spinach 120g - **2 for $5.00**
-- Patties Party Pies 560g - **$5.00**
-- Persil Laundry Liquid 1L - **$9.99**
-- Red Seedless Grapes 500g - **$5.00**
-- Sanitarium Up & Go 6 Pack - **$9.49**
-- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00**
-- Sealord Hoki Family Pack 6s/Gluten Free 4s - **$6.49**
-- Steinlager Classic 330ml 15 Pack Bottles - **$25.79**
-- Steinlager Pure 330ml 12 Pack Bottles - **$21.49**
-- Steinlager Ultra Low Carb 330ml 12 Pack Bottle - **$21.49**
-- Stoneleigh Red Range 750ml - **$11.99**
-- Stoneleigh Whites Range 750ml (Excludes Latitude/Rapaura/Merlot/Pinot and Wild Valley) - **$11.99**
-- Tegel Free Range Nuggets 900g - **$11.49**
-- Thornbury Range 750ml (Excludes Pinot Noir) - **$10.99**
-- Tip Top Ice Cream 2L - **$5.00**
-- Watties Frozen Peas 1kg - **$3.79**
-- Watties Mixed Vegetables 1kg - **$3.79**
-- Watties Organic Baby Food 120g - **$1.99**
-- Yummy Mariri Red Apples - **$2.99**
-
 ## Product(s): Ends 28 Apr 2024 (deal ends)
-- Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
-- Aunt Bettys Steamy Puddings 2 Pack (Excludes Gluten Free and Premium Range) - **2 for $5.00**
-- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.89**
-- Coffee Supreme Roasted & Ground Coffee 200g - **$8.49**
-- Dove Antiperspirant Aerosol 220ml-254ml - **$5.00**
-- Earthwise Laundry Powder 1kg - **$5.49**
-- Healtheries Tea 20s - **2 for $5.00**
-- Hellers Cheerios 500g - **$5.00**
-- Hellers Family Burger 4 pk - **$5.00**
-- Hubbards Light/Right Cereal 425g/450g - **$5.00**
-- Huttons Traditional Ham Steak 4pk - **$5.00**
-- Meadow Fresh Sour Cream 500g - **$5.00**
-- Nestl� Reduced Cream 230ml - **$2.99**
-- Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00**
-- Rapaura Springs Reserve Range 750ml (Excludes Pinot Noir) - **$14.99**
-- Sealord Tuna 95g/Spreads 90g - **3 for $4.80**
-- Tampax Tampon Regular 20s - **$5.00**
-- Tampax Tampon Super 20s - **$5.00**
-- Tampax Tampon Super Plus 20s - **$5.00**
-- Tararua Original Super-Soft Spread 500g - **$5.00**
-- Tohu Range 750ml (Excludes Pinot Noir/Reserve) - **$13.99**
-- Vogels Caf� Style Muesli 400g - **$6.49**
+- Coca-Cola/ Sprite/ Lift or L&P 1.5L Bottle Varieties - **2 for $5.00**
+- Eta Ripples Chips 140-150g Varieties - **3 for $5.00 - Limit 2 Sets**
+- Fancy Feast Cat Food 85g - **4 for $5.00 - Exclusions Apply.**
+- Greggs Herbs and Spices 7-65g Varieties - **3 for $5.00**
+- Just Juice 1L Varieties - **3 for $5.00 - Limit 2 Sets**
+- Kelloggs Nutri Grain/ Coco Pops 290g or Crispix 260g - **$5.00 - Limit 4 Assorted**
+- Meadow White Button Mushroom 400g Prepack - **$5.00**
+- Much Moore Marvels Frozen Dessert 2L Varieties - **$5.00**
+- Purex Toilet Paper Mega Long 6 or 12 Pack - **$5.00 - Limit 4 Assorted**
+- RJs Fabulicious/ Oddfellows/ Mackintoshs or Black Knight Confectionery 170-200g Varieties - **2 for $5.00**
+- Sanitarium Weet-Bix 750g - **$4.49 - Limit 4**
+- Sizzlers 450g Varieties - **$5.00**
+- Tom Organic 16 Pack Tampons/ 8-10 Pack Pads/ or 26 Pack Liners - **$5.00**
+- V Energy Drink 250ml 4 Pack Varieties - **$5.00**
+- Watties Condensed Soup 420g - **2 for $5.00**
+- Watties Wok Creations Sauce 125g - **2 for $5.00**
+- Whittakers Block 250g Varieties - **$5.00**
 
