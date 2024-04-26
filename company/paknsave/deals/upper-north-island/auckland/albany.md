@@ -1,8 +1,5 @@
 # Products for Albany PAK'nSAVE
 
-## Product(s): Ends 11 Aug 2024 (deal ends)
-- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
-
 ## Product(s): Ends 28 Apr 2024 (deal ends)
 - Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
 - Aunt Bettys Steamy Puddings 2 Pack (Excludes Gluten Free and Premium Range) - **2 for $5.00**
