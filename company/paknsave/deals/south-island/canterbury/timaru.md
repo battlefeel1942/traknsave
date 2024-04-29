@@ -1,76 +1,23 @@
 # Products for Timaru PAK'nSAVE
 
-## Product(s): Ends 11 Aug 2024 (deal ends)
-- Diamond Pasta 500g (Excludes Gluten Free/Pasta Shapes) - **$2.79**
-
-## Product(s): Ends 28 Apr 2024 (deal ends)
-- Anchor UHT Milk 1L (Excludes Chilled) - **2 for $5.00**
-- Aunt Bettys Steamy Puddings 2 Pack (Excludes Gluten Free and Premium Range) - **2 for $5.00**
-- Avalanche Flavoured Coffee 10s (Excludes 99% Sugar Free) - **$3.89**
-- Beef Scotch Fillet Steak - **$30.99**
-- Black Grapes 500g - **$5.00**
-- Cadbury Drinking Chocolate Canister 450g - **$5.00**
-- Cartel Food Co Burrito 200g - **$5.00**
-- Coffee Supreme Roasted & Ground Coffee 200g - **$8.49**
-- Continental Cup a Soup 2/4 Serve (Excludes Sensations 2/4 Serve) - **3 for $5.00**
-- Dilmah English Breakfast/Earl Grey Tea Bags 50s - **$5.00**
-- Dilmah Premium Tea Bags 100s (Excludes Extra Strength) - **$5.00**
-- Dove Antiperspirant Aerosol 220ml-254ml - **$5.00**
-- Earthwise Laundry Powder 1kg - **$5.49**
-- Export Ultra Low Carb Lager 330ml 24 Pack Bottles - **$36.99**
-- Fisherking Raw Prawn Stirfry Meat 800g - **$13.99**
-- Fluffy Laundry Scent Boosters 500g - **$14.99**
-- Four N Twenty Single Pies 175g - **3 for $5.00**
-- Fresh Snapper Fillets Catch Permitting - **$43.99**
-- Green Grapes 500g - **$5.00**
-- Haagen 330ml 12 Pack Bottles - **$17.99**
-- Healtheries Tea 20s - **2 for $5.00**
-- Heineken 330ml 12 Pack Bottles - **$25.49**
-- Hellers Cheerios 500g - **$5.00**
-- Hellers Family Burger 4 pk - **$5.00**
-- Hubbards Light/Right Cereal 425g/450g - **$5.00**
-- Huttons Traditional Ham Steak 4pk - **$5.00**
-- Juicy Chinese Dumplings 450g - **$5.00**
-- Karicare+ 12 Months+/2 Years+ 900g (Excludes Goat) - **$19.49**
-- Kelloggs Coco Pops Chex 290g - **$5.00**
-- Kelloggs Froot Loops 285g - **$5.00**
-- Kelloggs Nutri Grain 290g - **$5.00**
-- Kingfisher Crumbed Prawn Cutlet 250g Plain/Garlic - **$5.00**
-- Kingfisher Indian Lager 330ml 12 Pack Bottles - **$22.99**
-- Leigh Fish Premium Whole Snapper Catch Permitting - **$16.99**
-- Lindauer Special Reserve Range 750ml (Excludes Standard/Free/Vintage Series) - **$15.99**
-- McCain Mixed Vegetables 2kg - **$6.99**
-- Meadow Fresh Sour Cream 500g - **$5.00**
-- Nannas Crumble 550g - **$5.00**
-- Nannas Snack Apple Pies 4 Pack - **$5.00**
-- Nestl� Reduced Cream 230ml - **$2.99**
-- Pa Road White Range 750ml - **$12.99**
-- Pams Agria Washed Potatoes 2kg - **$5.00**
-- Pams Baby Spinach 120g - **2 for $5.00**
-- Pams Hash Brown Patties 1kg - **$5.00**
-- Panadol Optizorb 20s (Excludes Rapid/Extra/Mini Caps) - **$5.00**
-- Persil Laundry Powder 4kg - **$21.99**
-- Pork Mince - **$12.99**
-- Rapaura Springs Reserve Range 750ml (Excludes Pinot Noir) - **$14.99**
-- Red Grapes 500g - **$5.00**
-- Red Kiwifruit 600g - **2 for $5.00**
-- Satsuma Mandarins - **$5.49**
-- Sea Cuisine Raw Prawn Cutlets 300g - **$5.00**
-- Sealord Tuna 95g/Spreads 90g - **3 for $4.80**
-- Speights 330ml 24 Pack Bottles (Excludes Speights Summit Ultra Low Carb) - **$35.99**
-- Steinlager Classic 330ml 24 Pack Bottles - **$41.99**
-- Swiss Brown Mushrooms 350g - **$3.99**
-- Tampax Tampon Regular 20s - **$5.00**
-- Tampax Tampon Super 20s - **$5.00**
-- Tampax Tampon Super Plus 20s - **$5.00**
-- Tararua Original Super-Soft Spread 500g - **$5.00**
-- Taylors Promised Land Range 750ml - **$10.99**
-- Tegel Free Range Tenders/Bites/Burger 650g-750g - **$9.79**
-- Tip Top Ice Cream 2L - **$5.00**
-- Tip Top Trumpet 4s/Mini 6s - **$5.00**
-- Tohu Range 750ml (Excludes Pinot Noir/Reserve) - **$13.99**
-- Vanish Napisan Oxiaction 3kg - **$21.99**
-- Vogels Caf� Style Muesli 400g - **$6.49**
-- White Button Mushrooms 400g - **$3.99**
-- Whole Large Raw Vannamei Prawns (Frozen/Pre-frozen) - **$17.99**
+## Product(s): Ends 05 May 2024 (deal ends)
+- Bluebird Thick Cut Chips 150g Varieties - **$2.49**
+- Cadbury Chocolate Block 150-190g Varieties - **$2.99**
+- De Winkel Plain Unsweetened Yoghurt 1kg - **$5.29**
+- F. Whitlock & Sons Baked Beans 420g - **$2.29**
+- Fresh Pork Loin Chops - **$14.79**
+- Heineken 330ml 12 Pack Bottles - **$24.99 - Exclusions apply.**
+- Hellers Sliced Salami 100g Varieties - **$2.69**
+- Just Juice 2.4L Bottle Varieties - **$4.49**
+- Pepsi, 7Up or Mountain Dew 2L Bottle Varieties - **$2.49**
+- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
+- Regal Cold Smoked Salmon Slices 100g - **$10.79**
+- Sanitarium Up & Go 250ml 12 Pack Varieties - **$14.99**
+- Satsuma Mandarins Loose - **$5.29**
+- Sorbent Toilet Tissue 8 Pack Long or Thick Varieties - **$7.99**
+- Stoneleigh 750ml Varieties - **$11.99 - Exclusions apply.**
+- Sunsilk Shampoo or Conditioner 700ml - **$6.99**
+- Tegel Take Outs Chicken Portions 1kg Varieties - **$12.49**
+- Wattie's Squeezy Sauce 540-580g - **$3.99**
+- Wattie's Very Special Soup 520-535g - **$3.49**
 
