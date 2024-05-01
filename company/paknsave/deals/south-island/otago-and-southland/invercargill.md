@@ -1,21 +1,23 @@
 # Products for Invercargill PAK'nSAVE
 
-## Product(s): Ends 28 Apr 2024 (deal ends)
-- Coca-Cola/ Sprite/ Lift or L&P 1.5L Bottle Varieties - **2 for $5.00**
-- Eta Ripples Chips 140-150g Varieties - **3 for $5.00 - Limit 2 Sets**
-- Fancy Feast Cat Food 85g - **4 for $5.00 - Exclusions Apply.**
-- Greggs Herbs and Spices 7-65g Varieties - **3 for $5.00**
-- Just Juice 1L Varieties - **3 for $5.00 - Limit 2 Sets**
-- Kelloggs Nutri Grain/ Coco Pops 290g or Crispix 260g - **$5.00 - Limit 4 Assorted**
-- Meadow White Button Mushroom 400g Prepack - **$5.00**
-- Much Moore Marvels Frozen Dessert 2L Varieties - **$5.00**
-- Purex Toilet Paper Mega Long 6 or 12 Pack - **$5.00 - Limit 4 Assorted**
-- RJs Fabulicious/ Oddfellows/ Mackintoshs or Black Knight Confectionery 170-200g Varieties - **2 for $5.00**
-- Sanitarium Weet-Bix 750g - **$4.49 - Limit 4**
-- Sizzlers 450g Varieties - **$5.00**
-- Tom Organic 16 Pack Tampons/ 8-10 Pack Pads/ or 26 Pack Liners - **$5.00**
-- V Energy Drink 250ml 4 Pack Varieties - **$5.00**
-- Watties Condensed Soup 420g - **2 for $5.00**
-- Watties Wok Creations Sauce 125g - **2 for $5.00**
-- Whittakers Block 250g Varieties - **$5.00**
+## Product(s): Ends 05 May 2024 (deal ends)
+- Bluebird Thick Cut Chips 150g Varieties - **$2.49**
+- Cadbury Chocolate Block 150-190g Varieties - **$2.99**
+- De Winkel Plain Unsweetened Yoghurt 1kg - **$5.29**
+- F. Whitlock & Sons Baked Beans 420g - **$2.29**
+- Fresh Pork Loin Chops - **$14.79**
+- Griffins Toffeepops 180-200g Varieties - **$2.99**
+- Hellers Sliced Salami 100g Varieties - **$2.69**
+- Just Juice 2.4L Bottle Varieties - **$4.49**
+- Maggi 2 Minute Noodles 72-74g 12 Pack Beef or Chicken - **$7.99**
+- Pepsi, 7Up or Mountain Dew 2L Bottle Varieties - **$2.49**
+- Pringles Mini's Multi Pack 5 Pack Varieties - **$2.99**
+- Regal Cold Smoked Salmon Slices 100g - **$10.79**
+- Sanitarium Up & Go 250ml 12 Pack Varieties - **$14.99**
+- Satsuma Mandarins Loose - **$5.29**
+- Sorbent Toilet Tissue 8 Pack Long or Thick Varieties - **$7.99**
+- Sunsilk Shampoo or Conditioner 700ml - **$6.99**
+- Tegel Take Outs Chicken Portions 1kg Varieties - **$12.49**
+- Wattie's Squeezy Sauce 540-580g - **$3.99**
+- Wattie's Very Special Soup 520-535g - **$3.49**
 
