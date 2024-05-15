@@ -15,7 +15,7 @@
 - Beef Schnitzel - **$15.79**
 - Carlsberg 330ml 12 Pack Bottles - **$21.99**
 - Chicago Mini Pizza 150g - **2 for $3.00**
-- Continental Sensations Soup 2 Serve 48g-70g - **2 for $4.5**
+- Continental Sensations Soup 2 Serve 48g-70g - **2 for $4.50**
 - Dairyworks Natural Cheese Slices 10s - **$4.99**
 - Deutz Marlborough Cuvee Methode Traditionnelle Brut 750ml - **$21.99**
 - Export 33 330ml 12 Pack Bottles - **$23.49**

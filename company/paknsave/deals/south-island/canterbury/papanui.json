@@ -1,142 +1,121 @@
 [
     {
-        "Product Name": "Wattie's Beetroot 450g, Corn 410g or Flavoured Tomatoes 400g",
-        "Limit": "",
-        "Multi": "",
-        "Price": "1.79",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Wattie's Hearty Soup 535g",
-        "Limit": "",
-        "Multi": "",
-        "Price": "3.49",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Fresh Chicken Drumsticks",
-        "Limit": "Product of New Zealand",
-        "Multi": "",
-        "Price": "5.69",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Shore Mariner Prawn Twister, Panko Crumbed Scallop or Panko Prawn 300-375g",
-        "Limit": "",
-        "Multi": "",
-        "Price": "9.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Tararua Dip 250g Varieties",
-        "Limit": "",
-        "Multi": "",
-        "Price": "3.79",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Leader Toppa 720g",
-        "Limit": "",
-        "Multi": "",
-        "Price": "8.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Arnott's Tim Tams 160-200g Varieties",
+        "Product Name": "Cadbury Novelty Bar 22-60g Varieties",
         "Limit": "Exclusions apply.",
         "Multi": "",
-        "Price": "2.49",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "1.00",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Gold Kiwifruit Loose",
-        "Limit": "Product of New Zealand",
-        "Multi": "",
-        "Price": "2.29",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Coca-Cola, Sprite, Lift, Fanta or L&P 2.25L Bottle Varieties",
-        "Limit": "Limit 4 Assorted",
-        "Multi": "",
-        "Price": "2.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Heineken 330ml 24 Pack Bottles",
+        "Product Name": "Protex Bar Soap 90g Varieties",
         "Limit": "",
         "Multi": "",
-        "Price": "44.99",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "1.00",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Lindauer Special Reserve 750ml Varieties",
-        "Limit": "Exclusions apply.",
-        "Multi": "",
-        "Price": "15.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Blue Frog Granola 350g Varieties",
+        "Product Name": "Oreo 128g-147g",
         "Limit": "",
         "Multi": "",
-        "Price": "7.99",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "1.00",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Pepsi, 7UP or Mountain Dew 330ml 10 Pack Can Varieties",
+        "Product Name": "V Energy Drink 350ml Bottle Varieties",
         "Limit": "",
         "Multi": "",
-        "Price": "9.79",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "2.00",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
         "Product Name": "Heartland Chips 140-150g Varieties",
+        "Limit": "Exclusions apply. Limit 4 Assorted",
+        "Multi": "",
+        "Price": "2.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Meadow White Button Mushrooms 200g Prepack",
+        "Limit": "",
+        "Multi": "",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Arnott's Farmbake Cookies 310g Varieties",
+        "Limit": "",
+        "Multi": "",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "L&P 1.5L Varieties",
+        "Limit": "",
+        "Multi": "2 for",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Wattie's Veges in Spring Water 400g Varieties",
+        "Limit": "",
+        "Multi": "2 for",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Wattie's Gravy 29g Varieties",
+        "Limit": "",
+        "Multi": "3 for",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Calbee Harvest Snaps Pea Crisps 120g Varieties",
+        "Limit": "",
+        "Multi": "",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Mother Earth Baked Oaty Slice 6 Pack",
+        "Limit": "",
+        "Multi": "",
+        "Price": "3.00",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "McCain Pub Style Wedges or Fries Signature Seasoning 750g Varieties",
+        "Limit": "",
+        "Multi": "",
+        "Price": "3.99",
+        "Expiry Date": "Ends 19 May 2024"
+    },
+    {
+        "Product Name": "Fresh'n Fruity Yoghurt 1kg Varieties",
         "Limit": "Exclusions apply.",
         "Multi": "",
-        "Price": "2.19",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "4.89",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Wattie's Ricotta Ravioli or Tortellini Pouch Meals 350g",
+        "Product Name": "Tegel Meal Maker 260g Varieties",
         "Limit": "",
         "Multi": "",
-        "Price": "3.89",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "8.59",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Kellogg's LCM's or Nutri-Grain Bars 100-110g 5 Pack Varieties",
+        "Product Name": "Purex Toilet Tissue 12 Pack Mega Long or 24 Pack",
         "Limit": "",
         "Multi": "",
-        "Price": "2.99",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "10.99",
+        "Expiry Date": "Ends 19 May 2024"
     },
     {
-        "Product Name": "Farmlands Banquet Boneless Ham 890g",
-        "Limit": "Made in New Zealand from imported and local ingredients. Pork butchered in the following countries may have been used in the production of this product: Australia, Canada, Denmark, Germany, Ireland, New Zealand, Poland, Spain, Sweden, United States of America. These countries may not always reflect the country the animal has been raised in.",
-        "Multi": "",
-        "Price": "11.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Pantene Shampoo or Conditioner 180-375ml, Tampax Super or Regular Tampons 20 Pack",
+        "Product Name": "Chef 18 Pack",
         "Limit": "",
         "Multi": "",
-        "Price": "4.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Purex Toilet Tissue 6-12 Pack Varieties",
-        "Limit": "",
-        "Multi": "",
-        "Price": "6.99",
-        "Expiry Date": "Ends 12 May 2024"
-    },
-    {
-        "Product Name": "Purina One Dog 3.6kg or Tux Tasty Bites 8kg",
-        "Limit": "",
-        "Multi": "",
-        "Price": "28.99",
-        "Expiry Date": "Ends 12 May 2024"
+        "Price": "12.99",
+        "Expiry Date": "Ends 19 May 2024"
     }
 ]
