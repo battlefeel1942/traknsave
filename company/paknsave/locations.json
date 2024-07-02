@@ -19,6 +19,12 @@
     },
     {
         "Region Name": "AUCKLAND",
+        "Store Name": "Alderman Drive Henderson",
+        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/henderson",
+        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8772442411447,174.632596509123"
+    },
+    {
+        "Region Name": "AUCKLAND",
         "Store Name": "Botany",
         "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/botany",
         "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.9304221677906,174.91303057473"
@@ -34,12 +40,6 @@
         "Store Name": "Glen Innes",
         "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/glen-innes",
         "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8757912773487,174.85492767368"
-    },
-    {
-        "Region Name": "AUCKLAND",
-        "Store Name": "Henderson",
-        "Store URL": "https://www.paknsave.co.nz/upper-north-island/auckland/henderson",
-        "Directions URL": "https://www.google.com/maps/search/?api=1&query=-36.8772442411447,174.632596509123"
     },
     {
         "Region Name": "AUCKLAND",
